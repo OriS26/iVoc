@@ -242,7 +242,7 @@ export const App: React.FC = () => {
             </h2>
             <p className="text-sm text-slate-300 mb-6 max-w-xs">
               {selectedLetter === 'ALL'
-                ? 'כל 780 המילים במאגר הגיעו לתיבה 5 (Mastered) ונלמדו בהצלחה מלאה!'
+                ? `כל ${allWords.length} המילים במאגר הגיעו לתיבה 5 (Mastered) ונלמדו בהצלחה מלאה!`
                 : 'כל המילים באות זו הגיעו לתיבה 5 (Mastered) ונלמדו בהצלחה על פי שיטת לייטנר!'}
             </p>
 

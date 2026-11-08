@@ -16,9 +16,9 @@ An offline-first, zero-cost Progressive Web Application (PWA) tailored for iOS S
     * **Box 4**: Interval = 28 questions
     * **Box 5**: Mastered (Celebrated with `canvas-confetti` and retired from active review)
   * Immediate reset to Box 0 on incorrect answers for rapid reinforcement.
-* **Comprehensive 780-Word Psychometric Vocabulary Bank**:
-  * 30 high-frequency, authentic exam words per letter for all letters **A through Z**.
-  * Precise Hebrew translations and natural English contextual example sentences.
+* **Comprehensive ~3,700-Word Official Psychometric Vocabulary Bank**:
+  * Extracted and structured from the official State Psychometric ("הפסיכומטרי של המדינה") Anki deck.
+  * Organized across all letters **A through Z** with accurate Hebrew translations.
 * **100% Offline Capability (Airplane Mode)**:
   * Built using `vite-plugin-pwa` and Workbox Service Worker caching.
   * Local IndexedDB persistence via `idb-keyval` with automatic fallback to `localStorage`.

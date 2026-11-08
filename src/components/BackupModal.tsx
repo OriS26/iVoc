@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import { X, Download, Upload, RotateCcw, Volume2, Smartphone, ArrowRightLeft, AlertTriangle } from 'lucide-react';
+import { X, Download, Upload, RotateCcw, Volume2, Smartphone, ArrowRightLeft, AlertTriangle, Share2, HelpCircle, ChevronDown, ChevronUp } from 'lucide-react';
 import { AppSettings, WordItem, UserWordProgress } from '../types';
 import { exportProgressToJson, importProgressFromJson, resetAllProgressInDb, resetLetterProgressInDb } from '../lib/db';
 
@@ -27,12 +27,35 @@ export const BackupModal: React.FC<BackupModalProps> = ({
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [selectedLetterToReset, setSelectedLetterToReset] = useState<string>(currentLetter && currentLetter !== 'ALL' ? currentLetter : 'A');
   const [message, setMessage] = useState<{ text: string; isError?: boolean } | null>(null);
+  const [showInstallGuide, setShowInstallGuide] = useState(false);
 
   if (!isOpen) return null;
 
   const showMsg = (text: string, isError = false) => {
     setMessage({ text, isError });
     setTimeout(() => setMessage(null), 3500);
+  };
+
+  const handleShare = async () => {
+    const shareUrl = window.location.origin + window.location.pathname;
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: 'iVoc - Vocabulary Trainer',
+          text: 'תרגול אוצר מילים לפסיכומטרי ולאמירם במצב אופליין מלא',
+          url: shareUrl,
+        });
+      } catch {
+        // User dismissed share dialog
+      }
+    } else {
+      try {
+        await navigator.clipboard.writeText(shareUrl);
+        showMsg('הקישור הועתק ללוח בהצלחה!');
+      } catch {
+        showMsg(shareUrl);
+      }
+    }
   };
 
   const handleExport = async () => {
@@ -178,6 +201,52 @@ export const BackupModal: React.FC<BackupModalProps> = ({
               accept=".json"
               className="hidden"
             />
+          </div>
+        </div>
+
+        {/* Share & Mobile Installation */}
+        <div className="flex flex-col gap-3">
+          <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider">שיתוף והתקנה במכשיר</h3>
+
+          <button
+            onClick={handleShare}
+            className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-gradient-to-r from-indigo-600 to-violet-600 hover:from-indigo-500 hover:to-violet-500 text-white font-bold text-sm shadow-md active:scale-95 transition-all"
+          >
+            <Share2 className="w-4 h-4" />
+            <span>שתף את האפליקציה (העתק קישור)</span>
+          </button>
+
+          {/* Collapsible Installation Guide */}
+          <div className="rounded-2xl border border-slate-700/60 bg-slate-800/40 overflow-hidden">
+            <button
+              onClick={() => setShowInstallGuide(!showInstallGuide)}
+              className="w-full p-3 flex items-center justify-between text-xs font-bold text-slate-300 hover:text-white transition-colors"
+            >
+              <div className="flex items-center gap-2">
+                <HelpCircle className="w-4 h-4 text-indigo-400" />
+                <span>כיצד להתקין כאפליקציה בטלפון?</span>
+              </div>
+              {showInstallGuide ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
+            </button>
+
+            {showInstallGuide && (
+              <div className="p-3 pt-0 text-xs text-slate-300 border-t border-slate-700/40 space-y-2 mt-2">
+                <div className="p-2.5 rounded-xl bg-slate-850 border border-slate-700/50">
+                  <strong className="text-white block mb-1">🍏 באייפון (Safari):</strong>
+                  <ol className="list-decimal list-inside space-y-0.5 text-slate-400">
+                    <li>פתח את הקישור בדפדפן <strong>Safari</strong>.</li>
+                    <li>לחץ על כפתור השיתוף (ריבוע עם חץ למעלה ⎋).</li>
+                    <li>בחר <strong>"הוסף למסך הבית"</strong> (Add to Home Screen).</li>
+                  </ol>
+                </div>
+                <div className="p-2.5 rounded-xl bg-slate-850 border border-slate-700/50">
+                  <strong className="text-white block mb-1">🤖 באנדרואיד (Chrome):</strong>
+                  <p className="text-slate-400">
+                    פתח ב-Chrome, לחץ על תפריט 3 הנקודות (⋮) ובחר <strong>"התקן אפליקציה"</strong>.
+                  </p>
+                </div>
+              </div>
+            )}
           </div>
         </div>
 
