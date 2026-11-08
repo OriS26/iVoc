@@ -1,0 +1,5462 @@
+[
+  {
+    "id": "abandon_1",
+    "word": "Abandon",
+    "translation": "לנטוש, לעזוב",
+    "letter": "A",
+    "exampleSentence": "The captain ordered the crew to abandon the sinking vessel."
+  },
+  {
+    "id": "abolish_1",
+    "word": "Abolish",
+    "translation": "לבטל (חוק, מנהג)",
+    "letter": "A",
+    "exampleSentence": "Parliament voted to abolish the outdated taxation law."
+  },
+  {
+    "id": "abundant_1",
+    "word": "Abundant",
+    "translation": "שופע, מלא, גדוש",
+    "letter": "A",
+    "exampleSentence": "The region is blessed with abundant natural water resources."
+  },
+  {
+    "id": "accomplish_1",
+    "word": "Accomplish",
+    "translation": "להשיג, להשלים, לבצע",
+    "letter": "A",
+    "exampleSentence": "She worked tirelessly to accomplish her academic goals."
+  },
+  {
+    "id": "accumulate_1",
+    "word": "Accumulate",
+    "translation": "לצבור, לאגור",
+    "letter": "A",
+    "exampleSentence": "Dust began to accumulate on the unused furniture."
+  },
+  {
+    "id": "adjacent_1",
+    "word": "Adjacent",
+    "translation": "סמוך, צמוד",
+    "letter": "A",
+    "exampleSentence": "The hotel is adjacent to the central railway station."
+  },
+  {
+    "id": "advocate_1",
+    "word": "Advocate",
+    "translation": "לסנגר, לתמוך ; תומך",
+    "letter": "A",
+    "exampleSentence": "She is a passionate advocate for environmental protection."
+  },
+  {
+    "id": "ambiguous_1",
+    "word": "Ambiguous",
+    "translation": "דו-משמעי, מעורפל",
+    "letter": "A",
+    "exampleSentence": "His ambiguous reply left everyone wondering what he meant."
+  },
+  {
+    "id": "amend_1",
+    "word": "Amend",
+    "translation": "לתקן, לשנות לטובה",
+    "letter": "A",
+    "exampleSentence": "Lawmakers proposed to amend the existing constitution."
+  },
+  {
+    "id": "anticipate_1",
+    "word": "Anticipate",
+    "translation": "לצפות מראש, להקדים",
+    "letter": "A",
+    "exampleSentence": "Economists anticipate a surge in consumer spending."
+  },
+  {
+    "id": "approximate_1",
+    "word": "Approximate",
+    "translation": "משוער ; להעריך בקירוב",
+    "letter": "A",
+    "exampleSentence": "The approximate cost of the repair was five hundred dollars."
+  },
+  {
+    "id": "arbitrary_1",
+    "word": "Arbitrary",
+    "translation": "שרירותי, מקרי",
+    "letter": "A",
+    "exampleSentence": "The rules seemed entirely arbitrary and without clear rationale."
+  },
+  {
+    "id": "ascertain_1",
+    "word": "Ascertain",
+    "translation": "לוודא, לברר",
+    "letter": "A",
+    "exampleSentence": "The inspector arrived to ascertain the cause of the delay."
+  },
+  {
+    "id": "aspect_1",
+    "word": "Aspect",
+    "translation": "היבט, פן",
+    "letter": "A",
+    "exampleSentence": "We must evaluate every aspect of the project before proceeding."
+  },
+  {
+    "id": "assert_1",
+    "word": "Assert",
+    "translation": "לטעון בתוקף, לעמוד על",
+    "letter": "A",
+    "exampleSentence": "He continued to assert his innocence throughout the trial."
+  },
+  {
+    "id": "assess_1",
+    "word": "Assess",
+    "translation": "להעריך, לאמוד",
+    "letter": "A",
+    "exampleSentence": "Technicians were sent to assess the structural damage."
+  },
+  {
+    "id": "attribute_1",
+    "word": "Attribute",
+    "translation": "לייחס ל- ; תכונה",
+    "letter": "A",
+    "exampleSentence": "They attribute their business success to hard teamwork."
+  },
+  {
+    "id": "authorize_1",
+    "word": "Authorize",
+    "translation": "להרשות, להסמיך, לאשר",
+    "letter": "A",
+    "exampleSentence": "Only senior management can authorize expenditures of this size."
+  },
+  {
+    "id": "autonomous_1",
+    "word": "Autonomous",
+    "translation": "אוטונומי, עצמאי",
+    "letter": "A",
+    "exampleSentence": "The laboratory operates as an autonomous research unit."
+  },
+  {
+    "id": "avid_1",
+    "word": "Avid",
+    "translation": "נלהב, להוט",
+    "letter": "A",
+    "exampleSentence": "She is an avid reader of historical biographies."
+  },
+  {
+    "id": "adhere_1",
+    "word": "Adhere",
+    "translation": "לדבוק ב-, לציית ל-",
+    "letter": "A",
+    "exampleSentence": "Athletes are required to adhere strictly to anti-doping regulations."
+  },
+  {
+    "id": "adverse_1",
+    "word": "Adverse",
+    "translation": "שלילי, מנוגד, מזיק",
+    "letter": "A",
+    "exampleSentence": "The medication produced few adverse side effects."
+  },
+  {
+    "id": "affluent_1",
+    "word": "Affluent",
+    "translation": "אמיד, עשיר",
+    "letter": "A",
+    "exampleSentence": "The university is located in an affluent residential suburb."
+  },
+  {
+    "id": "agitate_1",
+    "word": "Agitate",
+    "translation": "להסעיר, להרגיז, לנער",
+    "letter": "A",
+    "exampleSentence": "The speech was designed to agitate the crowd against corruption."
+  },
+  {
+    "id": "alleviate_1",
+    "word": "Alleviate",
+    "translation": "להקל, לשכך, למתן",
+    "letter": "A",
+    "exampleSentence": "Regular stretching helps alleviate lower back pain."
+  },
+  {
+    "id": "allocate_1",
+    "word": "Allocate",
+    "translation": "להקצות, לייעד",
+    "letter": "A",
+    "exampleSentence": "The council decided to allocate additional funds to education."
+  },
+  {
+    "id": "alter_1",
+    "word": "Alter",
+    "translation": "לשנות, להתאים",
+    "letter": "A",
+    "exampleSentence": "You may need to alter your travel schedule due to weather warnings."
+  },
+  {
+    "id": "apparent_1",
+    "word": "Apparent",
+    "translation": "גלוי, ברור ; לכאורה",
+    "letter": "A",
+    "exampleSentence": "It became apparent that the original strategy had failed."
+  },
+  {
+    "id": "appraise_1",
+    "word": "Appraise",
+    "translation": "להעריך (שווי או איכות)",
+    "letter": "A",
+    "exampleSentence": "An expert was hired to appraise the rare antique painting."
+  },
+  {
+    "id": "aptitude_1",
+    "word": "Aptitude",
+    "translation": "נטייה, כישרון טבעי",
+    "letter": "A",
+    "exampleSentence": "She demonstrated a remarkable aptitude for mathematics at an early age."
+  },
+  {
+    "id": "barren_1",
+    "word": "Barren",
+    "translation": "עקר, צחיח, שומם",
+    "letter": "B",
+    "exampleSentence": "Few plants can survive in the dry, barren desert landscape."
+  },
+  {
+    "id": "belligerent_1",
+    "word": "Belligerent",
+    "translation": "לוחמני, תוקפני",
+    "letter": "B",
+    "exampleSentence": "The belligerent customer refused to calm down and demanded a refund."
+  },
+  {
+    "id": "benevolent_1",
+    "word": "Benevolent",
+    "translation": "רוחש טוב, נדיב",
+    "letter": "B",
+    "exampleSentence": "A benevolent benefactor funded the children's community center."
+  },
+  {
+    "id": "benign_1",
+    "word": "Benign",
+    "translation": "שפיר, עדין, לא מזיק",
+    "letter": "B",
+    "exampleSentence": "The doctor reassured her that the growth was entirely benign."
+  },
+  {
+    "id": "bias_1",
+    "word": "Bias",
+    "translation": "הטיה, דעה קדומה",
+    "letter": "B",
+    "exampleSentence": "Researchers must avoid any personal bias in their survey questions."
+  },
+  {
+    "id": "breach_1",
+    "word": "Breach",
+    "translation": "הפרה (חוזה/חוק), פירצה",
+    "letter": "B",
+    "exampleSentence": "Sharing user passwords constitutes a severe breach of security."
+  },
+  {
+    "id": "brief_1",
+    "word": "Brief",
+    "translation": "קצר, תמציתי",
+    "letter": "B",
+    "exampleSentence": "The minister gave a brief statement before answering questions."
+  },
+  {
+    "id": "bulk_1",
+    "word": "Bulk",
+    "translation": "מרבית, רוב ; נפח",
+    "letter": "B",
+    "exampleSentence": "The bulk of the university budget is allocated to research."
+  },
+  {
+    "id": "banish_1",
+    "word": "Banish",
+    "translation": "לגרש, להגלות",
+    "letter": "B",
+    "exampleSentence": "The rebel leader was banished to a remote island."
+  },
+  {
+    "id": "barrier_1",
+    "word": "Barrier",
+    "translation": "מחסום, מכשול",
+    "letter": "B",
+    "exampleSentence": "Financial difficulties should not become a barrier to education."
+  },
+  {
+    "id": "baffle_1",
+    "word": "Baffle",
+    "translation": "לבלבל, להביך, לסבך",
+    "letter": "B",
+    "exampleSentence": "The strange radio signals continued to baffle astronomers."
+  },
+  {
+    "id": "belittle_1",
+    "word": "Belittle",
+    "translation": "להמעיט בערכו של, לזלזל",
+    "letter": "B",
+    "exampleSentence": "Do not belittle your own achievements when comparing yourself to others."
+  },
+  {
+    "id": "bewilder_1",
+    "word": "Bewilder",
+    "translation": "לבלבל לחלוטין, להדהים",
+    "letter": "B",
+    "exampleSentence": "The intricate maze of rules bewildered all newcomers."
+  },
+  {
+    "id": "blatant_1",
+    "word": "Blatant",
+    "translation": "בוטה, גס, זועק לשמיים",
+    "letter": "B",
+    "exampleSentence": "His refusal to cooperate was a blatant display of disrespect."
+  },
+  {
+    "id": "bleak_1",
+    "word": "Bleak",
+    "translation": "עגום, קודר, קר",
+    "letter": "B",
+    "exampleSentence": "The economic forecast looks bleak in the wake of the crisis."
+  },
+  {
+    "id": "bolster_1",
+    "word": "Bolster",
+    "translation": "לחזק, לתמוך",
+    "letter": "B",
+    "exampleSentence": "New scientific findings bolstered their central argument."
+  },
+  {
+    "id": "bond_1",
+    "word": "Bond",
+    "translation": "קשר, חיבור ; אגרת חוב",
+    "letter": "B",
+    "exampleSentence": "A strong bond of trust formed between the rescue workers."
+  },
+  {
+    "id": "boom_1",
+    "word": "Boom",
+    "translation": "שגשוג פתאומי, פריחה",
+    "letter": "B",
+    "exampleSentence": "The renewable energy industry experienced an unprecedented boom."
+  },
+  {
+    "id": "boon_1",
+    "word": "Boon",
+    "translation": "ברכה, תועלת רבה",
+    "letter": "B",
+    "exampleSentence": "The new highway was a major boon for daily commuters."
+  },
+  {
+    "id": "bound_1",
+    "word": "Bound",
+    "translation": "כבול, מחויב ; כיוונו מועד",
+    "letter": "B",
+    "exampleSentence": "Physicians are bound by medical confidentiality laws."
+  },
+  {
+    "id": "boycott_1",
+    "word": "Boycott",
+    "translation": "להחרים ; חרם",
+    "letter": "B",
+    "exampleSentence": "Environmental groups urged shoppers to boycott single-use plastics."
+  },
+  {
+    "id": "bribe_1",
+    "word": "Bribe",
+    "translation": "לשחד ; שוחד",
+    "letter": "B",
+    "exampleSentence": "The judge was accused of accepting a substantial bribe."
+  },
+  {
+    "id": "brink_1",
+    "word": "Brink",
+    "translation": "סף, קצה תהום",
+    "letter": "B",
+    "exampleSentence": "The prolonged strike brought the company to the brink of bankruptcy."
+  },
+  {
+    "id": "brittle_1",
+    "word": "Brittle",
+    "translation": "שביר, פריך",
+    "letter": "B",
+    "exampleSentence": "Freezing weather made the plastic tubing rigid and brittle."
+  },
+  {
+    "id": "broad_1",
+    "word": "Broad",
+    "translation": "רחב, מקיף",
+    "letter": "B",
+    "exampleSentence": "The committee conducted a broad review of public health policies."
+  },
+  {
+    "id": "burden_1",
+    "word": "Burden",
+    "translation": "מעמסה, נטל",
+    "letter": "B",
+    "exampleSentence": "Taking on caretaking responsibilities placed a heavy burden on him."
+  },
+  {
+    "id": "bustle_1",
+    "word": "Bustle",
+    "translation": "המולה, התרוצצות נמרצת",
+    "letter": "B",
+    "exampleSentence": "The bustling market was filled with colorful spices and loud traders."
+  },
+  {
+    "id": "bystander_1",
+    "word": "Bystander",
+    "translation": "צופה מהצד, עובר אורח",
+    "letter": "B",
+    "exampleSentence": "An alert bystander called the emergency hotline immediately."
+  },
+  {
+    "id": "bizarre_1",
+    "word": "Bizarre",
+    "translation": "מוזר, חריג ביותר",
+    "letter": "B",
+    "exampleSentence": "She wore a bizarre outfit that drew stares from everyone."
+  },
+  {
+    "id": "blunder_1",
+    "word": "Blunder",
+    "translation": "משגה חמור, פליטת פה",
+    "letter": "B",
+    "exampleSentence": "A tactical blunder by the goalkeeper cost the team the championship."
+  },
+  {
+    "id": "candid_1",
+    "word": "Candid",
+    "translation": "כן, גלוי לב, ישר",
+    "letter": "C",
+    "exampleSentence": "We appreciated his candid feedback during the performance appraisal."
+  },
+  {
+    "id": "coerce_1",
+    "word": "Coerce",
+    "translation": "לאלץ, לכפות",
+    "letter": "C",
+    "exampleSentence": "No one should coerce you into signing an unfair contract."
+  },
+  {
+    "id": "concur_1",
+    "word": "Concur",
+    "translation": "להסכים, לעלות בקנה אחד",
+    "letter": "C",
+    "exampleSentence": "All committee members concurred that the initiative was worthwhile."
+  },
+  {
+    "id": "cease_1",
+    "word": "Cease",
+    "translation": "להפסיק, לחדול",
+    "letter": "C",
+    "exampleSentence": "Hostilities ceased following the signing of the armistice."
+  },
+  {
+    "id": "clarify_1",
+    "word": "Clarify",
+    "translation": "להבהיר, לסנן",
+    "letter": "C",
+    "exampleSentence": "Could you please clarify your comments regarding the schedule?"
+  },
+  {
+    "id": "coincide_1",
+    "word": "Coincide",
+    "translation": "לחפוף, להתרחש בו-זמנית",
+    "letter": "C",
+    "exampleSentence": "The festival was scheduled to coincide with the national holiday."
+  },
+  {
+    "id": "commodity_1",
+    "word": "Commodity",
+    "translation": "מצרך, סחורה",
+    "letter": "C",
+    "exampleSentence": "Fresh clean water has become a precious commodity in drought areas."
+  },
+  {
+    "id": "compatible_1",
+    "word": "Compatible",
+    "translation": "תואם, מתאים, מסתדר",
+    "letter": "C",
+    "exampleSentence": "Ensure the new software is fully compatible with your operating system."
+  },
+  {
+    "id": "compel_1",
+    "word": "Compel",
+    "translation": "לחייב, לאלץ, להכריח",
+    "letter": "C",
+    "exampleSentence": "Severe economic hardship compelled them to emigrate."
+  },
+  {
+    "id": "compile_1",
+    "word": "Compile",
+    "translation": "לקבץ, ללקט, לחבר",
+    "letter": "C",
+    "exampleSentence": "The editor spent months compiling historical essays into an anthology."
+  },
+  {
+    "id": "comprehensive_1",
+    "word": "Comprehensive",
+    "translation": "מקיף, כולל",
+    "letter": "C",
+    "exampleSentence": "Students received a comprehensive guide to university admissions."
+  },
+  {
+    "id": "comprise_1",
+    "word": "Comprise",
+    "translation": "להכיל, לכלול, להיות מורכב מ-",
+    "letter": "C",
+    "exampleSentence": "The jury comprises twelve randomly selected citizens."
+  },
+  {
+    "id": "conceal_1",
+    "word": "Conceal",
+    "translation": "להסתיר, להסוות",
+    "letter": "C",
+    "exampleSentence": "He tried to conceal his anxiety with a wide smile."
+  },
+  {
+    "id": "conceive_1",
+    "word": "Conceive",
+    "translation": "להגות (רעיון), להרות",
+    "letter": "C",
+    "exampleSentence": "It is difficult to conceive how much society has changed in fifty years."
+  },
+  {
+    "id": "conclude_1",
+    "word": "Conclude",
+    "translation": "להסיק, לסכם, לסיים",
+    "letter": "C",
+    "exampleSentence": "Investigators concluded that faulty electrical wiring sparked the blaze."
+  },
+  {
+    "id": "condemn_1",
+    "word": "Condemn",
+    "translation": "לגנות, להרשיע, לדון",
+    "letter": "C",
+    "exampleSentence": "World leaders gathered to condemn the acts of violence."
+  },
+  {
+    "id": "conduct_1",
+    "word": "Conduct",
+    "translation": "לנהל, להוביל ; התנהגות",
+    "letter": "C",
+    "exampleSentence": "The lab will conduct experiments to verify the hypothesis."
+  },
+  {
+    "id": "confer_1",
+    "word": "Confer",
+    "translation": "להתייעץ ; להעניק (תואר/פרס)",
+    "letter": "C",
+    "exampleSentence": "The faculty met to confer an honorary doctorate upon the diplomat."
+  },
+  {
+    "id": "confine_1",
+    "word": "Confine",
+    "translation": "להגביל, לתחום, לכלוא",
+    "letter": "C",
+    "exampleSentence": "Please confine your opening remarks to five minutes."
+  },
+  {
+    "id": "conform_1",
+    "word": "Conform",
+    "translation": "להתאים את עצמו, לציית",
+    "letter": "C",
+    "exampleSentence": "All building designs must conform to regional earthquake safety codes."
+  },
+  {
+    "id": "consent_1",
+    "word": "Consent",
+    "translation": "להסכים ; הסכמה",
+    "letter": "C",
+    "exampleSentence": "Medical procedures require the explicit consent of the patient."
+  },
+  {
+    "id": "consequent_1",
+    "word": "Consequent",
+    "translation": "שנובע מ-, כתוצאה מכך",
+    "letter": "C",
+    "exampleSentence": "The factory closure and consequent job losses devastated the town."
+  },
+  {
+    "id": "consolidate_1",
+    "word": "Consolidate",
+    "translation": "לאחד, לחזק, לבצר",
+    "letter": "C",
+    "exampleSentence": "The merger allowed the bank to consolidate its market share."
+  },
+  {
+    "id": "conspicuous_1",
+    "word": "Conspicuous",
+    "translation": "בולט לעין, ניכר",
+    "letter": "C",
+    "exampleSentence": "Her bright yellow jacket made her conspicuous in the crowd."
+  },
+  {
+    "id": "constrain_1",
+    "word": "Constrain",
+    "translation": "להגביל, לרסן, לכפות",
+    "letter": "C",
+    "exampleSentence": "Budget limitations severely constrain our expansion plans."
+  },
+  {
+    "id": "contemplate_1",
+    "word": "Contemplate",
+    "translation": "להרהר, לשקול לעומק",
+    "letter": "C",
+    "exampleSentence": "He sat by the lake to contemplate his future career options."
+  },
+  {
+    "id": "contradict_1",
+    "word": "Contradict",
+    "translation": "לסתור, להפריך",
+    "letter": "C",
+    "exampleSentence": "Eyewitness testimonies directly contradict the defendant's alibi."
+  },
+  {
+    "id": "convert_1",
+    "word": "Convert",
+    "translation": "להמיר, להחליף",
+    "letter": "C",
+    "exampleSentence": "They plan to convert the abandoned warehouse into modern lofts."
+  },
+  {
+    "id": "crucial_1",
+    "word": "Crucial",
+    "translation": "מכריע, חיוני ביותר",
+    "letter": "C",
+    "exampleSentence": "Regular practice is crucial for mastering a musical instrument."
+  },
+  {
+    "id": "cumbersome_1",
+    "word": "Cumbersome",
+    "translation": "מסורבל, מכביד, כבד",
+    "letter": "C",
+    "exampleSentence": "The old filing system was slow and extremely cumbersome to navigate."
+  },
+  {
+    "id": "deter_1",
+    "word": "Deter",
+    "translation": "להרתיע",
+    "letter": "D",
+    "exampleSentence": "High security cameras help deter potential intruders."
+  },
+  {
+    "id": "diligent_1",
+    "word": "Diligent",
+    "translation": "חרוץ, שקדן",
+    "letter": "D",
+    "exampleSentence": "Thanks to diligent preparation, she scored top marks on the exam."
+  },
+  {
+    "id": "disclose_1",
+    "word": "Disclose",
+    "translation": "לחשוף, לגלות",
+    "letter": "D",
+    "exampleSentence": "The company was legally obligated to disclose its annual earnings."
+  },
+  {
+    "id": "deficit_1",
+    "word": "Deficit",
+    "translation": "גירעון, חסר",
+    "letter": "D",
+    "exampleSentence": "The government took emergency measures to reduce the national budget deficit."
+  },
+  {
+    "id": "defy_1",
+    "word": "Defy",
+    "translation": "להמרות את פי, לאתגר",
+    "letter": "D",
+    "exampleSentence": "The brave activists chose to defy unjust government curfews."
+  },
+  {
+    "id": "depict_1",
+    "word": "Depict",
+    "translation": "לתאר, לשרטט, לצייר",
+    "letter": "D",
+    "exampleSentence": "The mural depicts historical moments from the city's founding."
+  },
+  {
+    "id": "deprive_1",
+    "word": "Deprive",
+    "translation": "לשלול מ-, לקפח",
+    "letter": "D",
+    "exampleSentence": "Severe insomnia will deprive the body of essential restorative sleep."
+  },
+  {
+    "id": "derive_1",
+    "word": "Derive",
+    "translation": "להפיק, לנבוע מ-, לשאוב",
+    "letter": "D",
+    "exampleSentence": "Many modern pharmaceuticals derive originally from tropical plants."
+  },
+  {
+    "id": "deteriorate_1",
+    "word": "Deteriorate",
+    "translation": "להתדרדר, להחמיר",
+    "letter": "D",
+    "exampleSentence": "The patient's condition began to deteriorate rapidly after midnight."
+  },
+  {
+    "id": "deviate_1",
+    "word": "Deviate",
+    "translation": "לסטות (מהדרך/התקן)",
+    "letter": "D",
+    "exampleSentence": "Pilots must never deviate from designated flight corridors."
+  },
+  {
+    "id": "devise_1",
+    "word": "Devise",
+    "translation": "להגות, לתכנן, להמציא",
+    "letter": "D",
+    "exampleSentence": "Engineers devised an ingenious cooling mechanism for the servers."
+  },
+  {
+    "id": "diminish_1",
+    "word": "Diminish",
+    "translation": "להפחית, לצמצם, לדעוך",
+    "letter": "D",
+    "exampleSentence": "His enthusiasm for the project did not diminish over the months."
+  },
+  {
+    "id": "discern_1",
+    "word": "Discern",
+    "translation": "להבחין, להבדיל, לתפוס",
+    "letter": "D",
+    "exampleSentence": "Through the dense fog, we could barely discern the lighthouse."
+  },
+  {
+    "id": "discrepancy_1",
+    "word": "Discrepancy",
+    "translation": "אי-התאמה, סתירה",
+    "letter": "D",
+    "exampleSentence": "The auditor noticed a substantial discrepancy between the two invoices."
+  },
+  {
+    "id": "disdain_1",
+    "word": "Disdain",
+    "translation": "בוז, זלזול ; לבוז ל-",
+    "letter": "D",
+    "exampleSentence": "He treated unsolicited advice with unconcealed disdain."
+  },
+  {
+    "id": "dismiss_1",
+    "word": "Dismiss",
+    "translation": "לפטר, לפזר ; לדחות (טענה)",
+    "letter": "D",
+    "exampleSentence": "The judge dismissed the charges due to insufficient evidence."
+  },
+  {
+    "id": "disperse_1",
+    "word": "Disperse",
+    "translation": "לפזר, להתפזר",
+    "letter": "D",
+    "exampleSentence": "The police used loudspeakers urging the crowd to disperse quietly."
+  },
+  {
+    "id": "dispute_1",
+    "word": "Dispute",
+    "translation": "ויכוח, סכסוך ; לערער על",
+    "letter": "D",
+    "exampleSentence": "The neighbors settled their border dispute through formal mediation."
+  },
+  {
+    "id": "distinct_1",
+    "word": "Distinct",
+    "translation": "ברור, מובחן, נפרד",
+    "letter": "D",
+    "exampleSentence": "The proposal consists of three distinct phases of execution."
+  },
+  {
+    "id": "distort_1",
+    "word": "Distort",
+    "translation": "לעוות, לסלף",
+    "letter": "D",
+    "exampleSentence": "Tabloid headlines frequently distort scientific study findings."
+  },
+  {
+    "id": "diverse_1",
+    "word": "Diverse",
+    "translation": "מגוון, שונה",
+    "letter": "D",
+    "exampleSentence": "The metropolis is famous for its ethnically diverse food culture."
+  },
+  {
+    "id": "divert_1",
+    "word": "Divert",
+    "translation": "להסיט, להפנות הצידה",
+    "letter": "D",
+    "exampleSentence": "Roadwork forced traffic authorities to divert vehicles to side streets."
+  },
+  {
+    "id": "domestic_1",
+    "word": "Domestic",
+    "translation": "ביתי, פנימי (מקומי)",
+    "letter": "D",
+    "exampleSentence": "Airline sales focus heavily on domestic travel during winter."
+  },
+  {
+    "id": "dominant_1",
+    "word": "Dominant",
+    "translation": "שולט, דומיננטי, מוביל",
+    "letter": "D",
+    "exampleSentence": "English remains the dominant language of international trade."
+  },
+  {
+    "id": "drastic_1",
+    "word": "Drastic",
+    "translation": "דרסטי, חריף, קיצוני",
+    "letter": "D",
+    "exampleSentence": "The hospital took drastic measures to curb bacterial infections."
+  },
+  {
+    "id": "dubious_1",
+    "word": "Dubious",
+    "translation": "מפוקפק, מוטל בספק",
+    "letter": "D",
+    "exampleSentence": "He had a dubious reputation among local business associates."
+  },
+  {
+    "id": "durable_1",
+    "word": "Durable",
+    "translation": "עמיד, מאריך ימים",
+    "letter": "D",
+    "exampleSentence": "The boots are made from durable leather built for mountain trekking."
+  },
+  {
+    "id": "dwell_1",
+    "word": "Dwell",
+    "translation": "להתגורר ; להתעכב על (מחשבה)",
+    "letter": "D",
+    "exampleSentence": "It is unhelpful to dwell on past mistakes that cannot be undone."
+  },
+  {
+    "id": "dwindle_1",
+    "word": "Dwindle",
+    "translation": "להתמעט, להידלדל",
+    "letter": "D",
+    "exampleSentence": "Water supplies began to dwindle during the dry summer heatwave."
+  },
+  {
+    "id": "dynamic_1",
+    "word": "Dynamic",
+    "translation": "דינמי, פעיל, נמרץ",
+    "letter": "D",
+    "exampleSentence": "The tech industry requires dynamic professionals who adapt quickly."
+  },
+  {
+    "id": "elusive_1",
+    "word": "Elusive",
+    "translation": "חמקמק, קשה להשגה",
+    "letter": "E",
+    "exampleSentence": "Success remained elusive despite years of hard experimentation."
+  },
+  {
+    "id": "eminent_1",
+    "word": "Eminent",
+    "translation": "בולט, נכבד, רם מעלה",
+    "letter": "E",
+    "exampleSentence": "An eminent surgeon led the groundbreaking operation."
+  },
+  {
+    "id": "evoke_1",
+    "word": "Evoke",
+    "translation": "לעורר, להעלות (זיכרון, רגש)",
+    "letter": "E",
+    "exampleSentence": "The old photograph evoked fond memories of childhood summers."
+  },
+  {
+    "id": "elaborate_1",
+    "word": "Elaborate",
+    "translation": "מורכב, מפורט ; לפרט",
+    "letter": "E",
+    "exampleSentence": "She devised an elaborate scheme to surprise her parents."
+  },
+  {
+    "id": "eloquent_1",
+    "word": "Eloquent",
+    "translation": "רהוט, בעל כושר ביטוי מעולה",
+    "letter": "E",
+    "exampleSentence": "The activist delivered an eloquent plea for educational equality."
+  },
+  {
+    "id": "embark_1",
+    "word": "Embark",
+    "translation": "לעלות על כלי שיט ; לצאת לדרך (פרויקט)",
+    "letter": "E",
+    "exampleSentence": "The young graduate was eager to embark on a career in medicine."
+  },
+  {
+    "id": "emerge_1",
+    "word": "Emerge",
+    "translation": "להגיח, להופיע, להתגלות",
+    "letter": "E",
+    "exampleSentence": "New leaders began to emerge from the grassroots movement."
+  },
+  {
+    "id": "emphasize_1",
+    "word": "Emphasize",
+    "translation": "להדגיש, להבליט",
+    "letter": "E",
+    "exampleSentence": "The instructor emphasized the importance of double-checking all facts."
+  },
+  {
+    "id": "empirical_1",
+    "word": "Empirical",
+    "translation": "אמפירי, ניסויי, מבוסס תצפית",
+    "letter": "E",
+    "exampleSentence": "Scientific theories must always be supported by empirical evidence."
+  },
+  {
+    "id": "enable_1",
+    "word": "Enable",
+    "translation": "לאפשר, להכשיר",
+    "letter": "E",
+    "exampleSentence": "Online learning tools enable students to learn at their own pace."
+  },
+  {
+    "id": "encounter_1",
+    "word": "Encounter",
+    "translation": "להיתקל ב-, לפגוש ; מפגש",
+    "letter": "E",
+    "exampleSentence": "Hikers rarely encounter predatory animals in this national park."
+  },
+  {
+    "id": "endeavor_1",
+    "word": "Endeavor",
+    "translation": "מאמץ, ניסיון ; לשאוף",
+    "letter": "E",
+    "exampleSentence": "We wish you tremendous success in your new commercial endeavor."
+  },
+  {
+    "id": "endorse_1",
+    "word": "Endorse",
+    "translation": "לתמוך ב-, לאשר (מוצר/מועמד)",
+    "letter": "E",
+    "exampleSentence": "Several prominent scientists endorsed the new clean energy initiative."
+  },
+  {
+    "id": "enhance_1",
+    "word": "Enhance",
+    "translation": "להגביר, לשפר, להעלות ערך",
+    "letter": "E",
+    "exampleSentence": "Adding natural spices can greatly enhance the flavor of the stew."
+  },
+  {
+    "id": "enormous_1",
+    "word": "Enormous",
+    "translation": "עצום, כביר",
+    "letter": "E",
+    "exampleSentence": "The storm caused enormous damage along the coastal village."
+  },
+  {
+    "id": "entail_1",
+    "word": "Entail",
+    "translation": "לגרור, לחייב, להיות כרוך ב-",
+    "letter": "E",
+    "exampleSentence": "The promotion will entail additional administrative responsibilities."
+  },
+  {
+    "id": "enterprise_1",
+    "word": "Enterprise",
+    "translation": "יוזמה, מיזם, מפעל עסקי",
+    "letter": "E",
+    "exampleSentence": "Starting a cooperative bakery was an ambitious social enterprise."
+  },
+  {
+    "id": "envision_1",
+    "word": "Envision",
+    "translation": "לחזות בעיני רוחו, לצפות",
+    "letter": "E",
+    "exampleSentence": "City planners envision a network of elevated pedestrian walkways."
+  },
+  {
+    "id": "epoch_1",
+    "word": "Epoch",
+    "translation": "עידן, תקופה משמעותית",
+    "letter": "E",
+    "exampleSentence": "The invention of the transistor marked the beginning of a digital epoch."
+  },
+  {
+    "id": "equate_1",
+    "word": "Equate",
+    "translation": "להשוות, להתייחס כזהה",
+    "letter": "E",
+    "exampleSentence": "One cannot simply equate monetary wealth with personal happiness."
+  },
+  {
+    "id": "era_1",
+    "word": "Era",
+    "translation": "תקופה, עידן",
+    "letter": "E",
+    "exampleSentence": "The fall of the Berlin Wall ushered in a peaceful new era in Europe."
+  },
+  {
+    "id": "eradicate_1",
+    "word": "Eradicate",
+    "translation": "לבער, לעקור מהשורש",
+    "letter": "E",
+    "exampleSentence": "Global vaccination campaigns helped eradicate smallpox worldwide."
+  },
+  {
+    "id": "escalate_1",
+    "word": "Escalate",
+    "translation": "להסלים, להחריף",
+    "letter": "E",
+    "exampleSentence": "Tensions between rival factions escalated into violent street clashes."
+  },
+  {
+    "id": "esteem_1",
+    "word": "Esteem",
+    "translation": "הערכה רבה, כבוד ; להעריך",
+    "letter": "E",
+    "exampleSentence": "She held her former high school chemistry teacher in high esteem."
+  },
+  {
+    "id": "evident_1",
+    "word": "Evident",
+    "translation": "ברור, גלוי, ניכר",
+    "letter": "E",
+    "exampleSentence": "It was evident that the speaker had practiced the address thoroughly."
+  },
+  {
+    "id": "exceed_1",
+    "word": "Exceed",
+    "translation": "לחרוג מ-, לעלות על",
+    "letter": "E",
+    "exampleSentence": "Sales figures for the fiscal year exceeded our wildest projections."
+  },
+  {
+    "id": "exclude_1",
+    "word": "Exclude",
+    "translation": "להוציא מן הכלל, לשלול, להדיר",
+    "letter": "E",
+    "exampleSentence": "The survey explicitly excluded participants under the age of eighteen."
+  },
+  {
+    "id": "exemplary_1",
+    "word": "Exemplary",
+    "translation": "למופת, ראוי לחיקוי",
+    "letter": "E",
+    "exampleSentence": "The nurse received an award for her exemplary dedication to patients."
+  },
+  {
+    "id": "exhaustive_1",
+    "word": "Exhaustive",
+    "translation": "ממצה, כולל הכל",
+    "letter": "E",
+    "exampleSentence": "Researchers performed an exhaustive review of published literature."
+  },
+  {
+    "id": "explicit_1",
+    "word": "Explicit",
+    "translation": "מפורש, ברור, חד משמעי",
+    "letter": "E",
+    "exampleSentence": "The supervisor gave explicit instructions on handling hazardous waste."
+  },
+  {
+    "id": "feasible_1",
+    "word": "Feasible",
+    "translation": "בר-ביצוע, מעשי",
+    "letter": "F",
+    "exampleSentence": "Engineers are studying whether the bridge expansion is technically feasible."
+  },
+  {
+    "id": "fickle_1",
+    "word": "Fickle",
+    "translation": "הפכפך, בלתי יציב",
+    "letter": "F",
+    "exampleSentence": "Weather in spring can be fickle, shifting from sunshine to hail."
+  },
+  {
+    "id": "futile_1",
+    "word": "Futile",
+    "translation": "חסר תועלת, עקר",
+    "letter": "F",
+    "exampleSentence": "Their futile attempts to stem the flood only delayed the evacuation."
+  },
+  {
+    "id": "facilitate_1",
+    "word": "Facilitate",
+    "translation": "להקל, לסייע, לקדם",
+    "letter": "F",
+    "exampleSentence": "The newly built subway line facilitated smoother daily commutes."
+  },
+  {
+    "id": "fallacy_1",
+    "word": "Fallacy",
+    "translation": "סברה מוטעית, כשל לוגי",
+    "letter": "F",
+    "exampleSentence": "It is a dangerous fallacy to assume that all natural remedies are safe."
+  },
+  {
+    "id": "famine_1",
+    "word": "Famine",
+    "translation": "רעב המוני",
+    "letter": "F",
+    "exampleSentence": "Prolonged severe drought threatened the nation with devastating famine."
+  },
+  {
+    "id": "fastidious_1",
+    "word": "Fastidious",
+    "translation": "בררן, קפדן במיוחד, מדוקדק",
+    "letter": "F",
+    "exampleSentence": "The art curator was fastidious about the temperature in the gallery."
+  },
+  {
+    "id": "fatal_1",
+    "word": "Fatal",
+    "translation": "קטלני, אסוני",
+    "letter": "F",
+    "exampleSentence": "Wearing seatbelts drastically reduces the likelihood of fatal injuries."
+  },
+  {
+    "id": "feat_1",
+    "word": "Feat",
+    "translation": "הישג מרשים, מעשה גבורה",
+    "letter": "F",
+    "exampleSentence": "Climbing Mount Everest in winter remains an extraordinary athletic feat."
+  },
+  {
+    "id": "fierce_1",
+    "word": "Fierce",
+    "translation": "עז, פראי, אלים",
+    "letter": "F",
+    "exampleSentence": "Companies engaged in fierce competition to recruit top software engineers."
+  },
+  {
+    "id": "flaw_1",
+    "word": "Flaw",
+    "translation": "פגם, ליקוי",
+    "letter": "F",
+    "exampleSentence": "A subtle architectural flaw in the dam was spotted during the inspection."
+  },
+  {
+    "id": "fleeting_1",
+    "word": "Fleeting",
+    "translation": "חולף, קצר מועד",
+    "letter": "F",
+    "exampleSentence": "Youth is fleeting, so one should seize every meaningful opportunity."
+  },
+  {
+    "id": "flourish_1",
+    "word": "Flourish",
+    "translation": "לשגשג, לפרוח",
+    "letter": "F",
+    "exampleSentence": "Art and literature flourished during the Renaissance era."
+  },
+  {
+    "id": "fluctuate_1",
+    "word": "Fluctuate",
+    "translation": "להתנדנד, להשתנות תדיר",
+    "letter": "F",
+    "exampleSentence": "Stock market prices fluctuate depending on geopolitical developments."
+  },
+  {
+    "id": "foresee_1",
+    "word": "Foresee",
+    "translation": "לחזות מראש",
+    "letter": "F",
+    "exampleSentence": "No one could foresee the unprecedented economic disruptions of the pandemic."
+  },
+  {
+    "id": "formidable_1",
+    "word": "Formidable",
+    "translation": "מרתיע, עצום, מעורר יראה",
+    "letter": "F",
+    "exampleSentence": "The champion faced a formidable challenger in the final championship match."
+  },
+  {
+    "id": "foster_1",
+    "word": "Foster",
+    "translation": "לטפח, לעודד ; לאמץ (ילד)",
+    "letter": "F",
+    "exampleSentence": "Schools should foster an environment of open curiosity and teamwork."
+  },
+  {
+    "id": "fragile_1",
+    "word": "Fragile",
+    "translation": "שביר, עדין",
+    "letter": "F",
+    "exampleSentence": "Handle the porcelain vases with care as they are extremely fragile."
+  },
+  {
+    "id": "fragment_1",
+    "word": "Fragment",
+    "translation": "שבר, רסיס, קטע",
+    "letter": "F",
+    "exampleSentence": "Archaeologists unearthed fragments of an ancient clay tablet."
+  },
+  {
+    "id": "frank_1",
+    "word": "Frank",
+    "translation": "גלוי לב, ישיר, כן",
+    "letter": "F",
+    "exampleSentence": "She had a frank discussion with her supervisor about workplace stress."
+  },
+  {
+    "id": "frantic_1",
+    "word": "Frantic",
+    "translation": "מטורף, קדחתני, מבוהל",
+    "letter": "F",
+    "exampleSentence": "There were frantic efforts to rescue the miners trapped underground."
+  },
+  {
+    "id": "friction_1",
+    "word": "Friction",
+    "translation": "חיכוך, מתח (בין אנשים)",
+    "letter": "F",
+    "exampleSentence": "Cultural misunderstandings caused unnecessary friction within the crew."
+  },
+  {
+    "id": "fundamental_1",
+    "word": "Fundamental",
+    "translation": "בסיסי, יסודי",
+    "letter": "F",
+    "exampleSentence": "Freedom of speech is a fundamental cornerstone of modern democracy."
+  },
+  {
+    "id": "furor_1",
+    "word": "Furor",
+    "translation": "סערת רוחות, המולה זועמת",
+    "letter": "F",
+    "exampleSentence": "The mayor's remarks provoked widespread public furor."
+  },
+  {
+    "id": "furnish_1",
+    "word": "Furnish",
+    "translation": "לרהט ; לספק, לצייד",
+    "letter": "F",
+    "exampleSentence": "The agency must furnish all relevant evidence before the hearing begins."
+  },
+  {
+    "id": "fuse_1",
+    "word": "Fuse",
+    "translation": "להתיך, לחבר יחד ; פתיל",
+    "letter": "F",
+    "exampleSentence": "The musician fused traditional folk melodies with modern electronic beats."
+  },
+  {
+    "id": "frugal_1",
+    "word": "Frugal",
+    "translation": "חסכוני, צנוע",
+    "letter": "F",
+    "exampleSentence": "His frugal habits allowed him to save enough money to buy an apartment."
+  },
+  {
+    "id": "forge_1",
+    "word": "Forge",
+    "translation": "לחשל ; לזייף (חתימה)",
+    "letter": "F",
+    "exampleSentence": "Years of shared hardship helped forge an unbreakable friendship."
+  },
+  {
+    "id": "foremost_1",
+    "word": "Foremost",
+    "translation": "ראשון במעלה, המוביל ביותר",
+    "letter": "F",
+    "exampleSentence": "She is considered the foremost authority on marine biology in the region."
+  },
+  {
+    "id": "flabbergasted_1",
+    "word": "Flabbergasted",
+    "translation": "המום, מוכה תדהמה",
+    "letter": "F",
+    "exampleSentence": "The family was flabbergasted when they learned they had won the lottery."
+  },
+  {
+    "id": "genuine_1",
+    "word": "Genuine",
+    "translation": "אמיתי, מקורי, כנה",
+    "letter": "G",
+    "exampleSentence": "He expressed genuine remorse for the misunderstanding."
+  },
+  {
+    "id": "grasp_1",
+    "word": "Grasp",
+    "translation": "לאחוז ; להבין לעומק",
+    "letter": "G",
+    "exampleSentence": "It took him some time to grasp the core concepts of quantum physics."
+  },
+  {
+    "id": "grievance_1",
+    "word": "Grievance",
+    "translation": "תלונה, קובלנה",
+    "letter": "G",
+    "exampleSentence": "Employees submitted a formal grievance regarding overtime wages."
+  },
+  {
+    "id": "gauge_1",
+    "word": "Gauge",
+    "translation": "למדוד, לאמוד ; מד",
+    "letter": "G",
+    "exampleSentence": "Focus groups helped the marketing team gauge consumer sentiment."
+  },
+  {
+    "id": "generate_1",
+    "word": "Generate",
+    "translation": "לייצר, לחולל, להניב",
+    "letter": "G",
+    "exampleSentence": "Wind turbines generate green electrical energy for surrounding towns."
+  },
+  {
+    "id": "generous_1",
+    "word": "Generous",
+    "translation": "נדיב, רחב לב, שופע",
+    "letter": "G",
+    "exampleSentence": "The alumni association made a generous donation to the student scholarship."
+  },
+  {
+    "id": "glaring_1",
+    "word": "Glaring",
+    "translation": "בוהק ; זועק, בולט לשמצה",
+    "letter": "G",
+    "exampleSentence": "The review panel uncovered several glaring omissions in the documentation."
+  },
+  {
+    "id": "glimpse_1",
+    "word": "Glimpse",
+    "translation": "מבט חטוף, הצצה",
+    "letter": "G",
+    "exampleSentence": "Fans waited outside for hours hoping to catch a glimpse of the singer."
+  },
+  {
+    "id": "gloomy_1",
+    "word": "Gloomy",
+    "translation": "קודר, עגום, חשוך",
+    "letter": "G",
+    "exampleSentence": "The constant rainfall created a gloomy atmosphere throughout the week."
+  },
+  {
+    "id": "graceful_1",
+    "word": "Graceful",
+    "translation": "חינני, אלגנטי",
+    "letter": "G",
+    "exampleSentence": "The ballerina delivered a graceful performance that captivated the audience."
+  },
+  {
+    "id": "gradual_1",
+    "word": "Gradual",
+    "translation": "הדרגתי",
+    "letter": "G",
+    "exampleSentence": "There was a gradual improvement in patient mobility following rehabilitation."
+  },
+  {
+    "id": "grandiose_1",
+    "word": "Grandiose",
+    "translation": "יומרני, ראוותני, גרנדיוזי",
+    "letter": "G",
+    "exampleSentence": "His grandiose plans for an underwater palace were dismissed by investors."
+  },
+  {
+    "id": "gratify_1",
+    "word": "Gratify",
+    "translation": "לרצות, להשביע רצון",
+    "letter": "G",
+    "exampleSentence": "It gratified the teacher to see her students succeed in higher education."
+  },
+  {
+    "id": "grave_1",
+    "word": "Grave",
+    "translation": "חמור, רציני ; קבר",
+    "letter": "G",
+    "exampleSentence": "The committee issued a grave warning concerning impending water scarcity."
+  },
+  {
+    "id": "gregarious_1",
+    "word": "Gregarious",
+    "translation": "חברותי, אוהב חברה",
+    "letter": "G",
+    "exampleSentence": "As a gregarious child, she easily made friends wherever she travelled."
+  },
+  {
+    "id": "grim_1",
+    "word": "Grim",
+    "translation": "קודר, חמור, מפחיד",
+    "letter": "G",
+    "exampleSentence": "Paramedics described the aftermath of the crash in grim detail."
+  },
+  {
+    "id": "gross_1",
+    "word": "Gross",
+    "translation": "כולל (ברוטו) ; גס, בוטה",
+    "letter": "G",
+    "exampleSentence": "The gross domestic product rose substantially over the previous quarter."
+  },
+  {
+    "id": "guarantee_1",
+    "word": "Guarantee",
+    "translation": "להבטיח, לערוב ל- ; ערבות",
+    "letter": "G",
+    "exampleSentence": "Hard work does not always guarantee success, but it increases the odds."
+  },
+  {
+    "id": "guidance_1",
+    "word": "Guidance",
+    "translation": "הדרכה, הכוונה",
+    "letter": "G",
+    "exampleSentence": "Students benefited greatly from the career guidance counselor's insights."
+  },
+  {
+    "id": "gullible_1",
+    "word": "Gullible",
+    "translation": "פתי, נוח להאמין, תמים",
+    "letter": "G",
+    "exampleSentence": "Con artists prey especially on gullible individuals who seek quick wealth."
+  },
+  {
+    "id": "gateway_1",
+    "word": "Gateway",
+    "translation": "שער, מעבר",
+    "letter": "G",
+    "exampleSentence": "Singapore has long served as a vital gateway for trade into Southeast Asia."
+  },
+  {
+    "id": "generosity_1",
+    "word": "Generosity",
+    "translation": "נדיבות, רוחב לב",
+    "letter": "G",
+    "exampleSentence": "We are deeply thankful for the immense generosity of our local donors."
+  },
+  {
+    "id": "germane_1",
+    "word": "Germane",
+    "translation": "רלוונטי, שייך לעניין",
+    "letter": "G",
+    "exampleSentence": "The judge insisted that arguments must remain germane to the case."
+  },
+  {
+    "id": "giant_1",
+    "word": "Giant",
+    "translation": "ענקי ; ענק",
+    "letter": "G",
+    "exampleSentence": "The merger created a giant corporation that dominates the energy sector."
+  },
+  {
+    "id": "glamorous_1",
+    "word": "Glamorous",
+    "translation": "זוהר, מקסים",
+    "letter": "G",
+    "exampleSentence": "Behind the glamorous lifestyle of actors lies relentless physical training."
+  },
+  {
+    "id": "glitch_1",
+    "word": "Glitch",
+    "translation": "תקלה קלה, שיבוש טכני",
+    "letter": "G",
+    "exampleSentence": "A minor software glitch delayed international flights for thirty minutes."
+  },
+  {
+    "id": "glory_1",
+    "word": "Glory",
+    "translation": "תהילה, כבוד עילאי",
+    "letter": "G",
+    "exampleSentence": "Athletes dream of bringing Olympic glory back to their native countries."
+  },
+  {
+    "id": "gorgeous_1",
+    "word": "Gorgeous",
+    "translation": "מרהיב, יפהפה",
+    "letter": "G",
+    "exampleSentence": "The panoramic view of the fjord from the cliff peak was gorgeous."
+  },
+  {
+    "id": "greed_1",
+    "word": "Greed",
+    "translation": "חמדנות, תאוות בצע",
+    "letter": "G",
+    "exampleSentence": "Corporate greed led to environmental negligence and poisoned the river."
+  },
+  {
+    "id": "habitual_1",
+    "word": "Habitual",
+    "translation": "הרגלי, קבוע, מורגל",
+    "letter": "G",
+    "exampleSentence": "He fell into his habitual routine of drinking black coffee at dawn."
+  },
+  {
+    "id": "hinder_1",
+    "word": "Hinder",
+    "translation": "למנוע, לעכב, לשבש",
+    "letter": "H",
+    "exampleSentence": "Bad weather could hinder our progress through the mountain pass."
+  },
+  {
+    "id": "hostile_1",
+    "word": "Hostile",
+    "translation": "עוין",
+    "letter": "H",
+    "exampleSentence": "They encountered a hostile reception upon entering the rival stadium."
+  },
+  {
+    "id": "hypothesis_1",
+    "word": "Hypothesis",
+    "translation": "השערה, היפותזה",
+    "letter": "H",
+    "exampleSentence": "The scientist conducted experiments to test her hypothesis."
+  },
+  {
+    "id": "halt_1",
+    "word": "Halt",
+    "translation": "לעצור, להשבית ; עצירה",
+    "letter": "H",
+    "exampleSentence": "Production came to an unexpected halt when electricity failed."
+  },
+  {
+    "id": "hamper_1",
+    "word": "Hamper",
+    "translation": "להפריע, להכשיל, לעכב",
+    "letter": "H",
+    "exampleSentence": "Budget cutbacks continue to hamper our efforts to recruit top researchers."
+  },
+  {
+    "id": "hazard_1",
+    "word": "Hazard",
+    "translation": "סכנה, סיכון",
+    "letter": "H",
+    "exampleSentence": "Potholes along the highway constitute a serious hazard for motorists."
+  },
+  {
+    "id": "hectic_1",
+    "word": "Hectic",
+    "translation": "עמוס, קדחתני, סוער",
+    "letter": "H",
+    "exampleSentence": "After a hectic week at the emergency room, she took two days off."
+  },
+  {
+    "id": "heir_1",
+    "word": "Heir",
+    "translation": "יורש",
+    "letter": "H",
+    "exampleSentence": "The prince is the direct legal heir to the throne of the realm."
+  },
+  {
+    "id": "herald_1",
+    "word": "Herald",
+    "translation": "לבשר, להכריז ; מבשר",
+    "letter": "H",
+    "exampleSentence": "The arrival of blooming cherry blossoms heralds the onset of spring."
+  },
+  {
+    "id": "heterogeneous_1",
+    "word": "Heterogeneous",
+    "translation": "הטרוגני, רב-גוני, מגוון",
+    "letter": "H",
+    "exampleSentence": "The classroom was made up of a heterogeneous mix of language proficiencies."
+  },
+  {
+    "id": "hierarchy_1",
+    "word": "Hierarchy",
+    "translation": "היררכיה, סולם דרגות",
+    "letter": "H",
+    "exampleSentence": "Decisions must follow the formal chain of command in the military hierarchy."
+  },
+  {
+    "id": "hindrance_1",
+    "word": "Hindrance",
+    "translation": "מכשול, עיכוב",
+    "letter": "H",
+    "exampleSentence": "A lack of transportation was a severe hindrance to visiting elderly relatives."
+  },
+  {
+    "id": "hitherto_1",
+    "word": "Hitherto",
+    "translation": "עד כה, עד עתה",
+    "letter": "H",
+    "exampleSentence": "The discovery sheds light on hitherto unknown facets of prehistoric life."
+  },
+  {
+    "id": "holistic_1",
+    "word": "Holistic",
+    "translation": "כוללני, הוליסטי",
+    "letter": "H",
+    "exampleSentence": "The wellness clinic promotes a holistic approach combining diet and exercise."
+  },
+  {
+    "id": "homogeneous_1",
+    "word": "Homogeneous",
+    "translation": "הומוגני, אחיד",
+    "letter": "H",
+    "exampleSentence": "The sample group was surprisingly homogeneous in terms of background."
+  },
+  {
+    "id": "hostility_1",
+    "word": "Hostility",
+    "translation": "עוינות, איבה",
+    "letter": "H",
+    "exampleSentence": "A peace summit was arranged to de-escalate hostility between the nations."
+  },
+  {
+    "id": "humane_1",
+    "word": "Humane",
+    "translation": "הומני, אנושי, רחום",
+    "letter": "H",
+    "exampleSentence": "Advocates fight tirelessly to ensure humane conditions in animal shelters."
+  },
+  {
+    "id": "humble_1",
+    "word": "Humble",
+    "translation": "צנוע, עניו",
+    "letter": "H",
+    "exampleSentence": "Despite winning international awards, the author remained remarkably humble."
+  },
+  {
+    "id": "humiliate_1",
+    "word": "Humiliate",
+    "translation": "להשפיל, לבזות",
+    "letter": "H",
+    "exampleSentence": "The coach never yelled publicly to humiliate players who made errors."
+  },
+  {
+    "id": "hypocrisy_1",
+    "word": "Hypocrisy",
+    "translation": "צביעות, התחסדות",
+    "letter": "H",
+    "exampleSentence": "Voters grew disillusioned by the blatant hypocrisy of political promises."
+  },
+  {
+    "id": "hazardous_1",
+    "word": "Hazardous",
+    "translation": "מסוכן, פוגעני",
+    "letter": "H",
+    "exampleSentence": "Disposing of hazardous chemical waste requires specialized containers."
+  },
+  {
+    "id": "heighten_1",
+    "word": "Heighten",
+    "translation": "להגביר, להעצים",
+    "letter": "H",
+    "exampleSentence": "The eerie soundtrack helped heighten the tension in the thriller film."
+  },
+  {
+    "id": "hesitant_1",
+    "word": "Hesitant",
+    "translation": "מהסס, פקפקן",
+    "letter": "H",
+    "exampleSentence": "He seemed hesitant to accept the overseas job offer without his family."
+  },
+  {
+    "id": "horizon_1",
+    "word": "Horizon",
+    "translation": "אופק",
+    "letter": "H",
+    "exampleSentence": "The rising sun painted brilliant shades of gold along the eastern horizon."
+  },
+  {
+    "id": "horrific_1",
+    "word": "Horrific",
+    "translation": "מחריד, מזוויע",
+    "letter": "H",
+    "exampleSentence": "Witnesses reported horrific details about the chemical factory explosion."
+  },
+  {
+    "id": "hospitality_1",
+    "word": "Hospitality",
+    "translation": "הכנסת אורחים, אירוח",
+    "letter": "H",
+    "exampleSentence": "We were touched by the warm and gracious hospitality of the village residents."
+  },
+  {
+    "id": "hub_1",
+    "word": "Hub",
+    "translation": "מוקד, מרכז פעילות",
+    "letter": "H",
+    "exampleSentence": "Frankfurt airport is a central transportation hub connecting Europe to the world."
+  },
+  {
+    "id": "huge_1",
+    "word": "Huge",
+    "translation": "עצום, ענק",
+    "letter": "H",
+    "exampleSentence": "Constructing the dam required a huge investment of government capital."
+  },
+  {
+    "id": "hybrid_1",
+    "word": "Hybrid",
+    "translation": "היברידי, מעורב, בן-כלאיים",
+    "letter": "H",
+    "exampleSentence": "The vehicle runs on a hybrid system using gasoline and electric motors."
+  },
+  {
+    "id": "hallow_1",
+    "word": "Hallow",
+    "translation": "לקדש, לרומם",
+    "letter": "H",
+    "exampleSentence": "The battlefield is remembered as hallowed ground by military historians."
+  },
+  {
+    "id": "impartial_1",
+    "word": "Impartial",
+    "translation": "חסר פניות, אובייקטיבי",
+    "letter": "I",
+    "exampleSentence": "A judge must remain impartial regardless of personal feelings."
+  },
+  {
+    "id": "impede_1",
+    "word": "Impede",
+    "translation": "להכשיל, לעכב, לחסום",
+    "letter": "I",
+    "exampleSentence": "Falling rocks impeded the rescue vehicles on the highway."
+  },
+  {
+    "id": "inevitable_1",
+    "word": "Inevitable",
+    "translation": "בלתי נמנע",
+    "letter": "I",
+    "exampleSentence": "Change is an inevitable part of technological progress."
+  },
+  {
+    "id": "illustrate_1",
+    "word": "Illustrate",
+    "translation": "להמחיש, להדגים ; לאייר",
+    "letter": "I",
+    "exampleSentence": "The professor used charts to illustrate economic trends."
+  },
+  {
+    "id": "immense_1",
+    "word": "Immense",
+    "translation": "עצום, כביר",
+    "letter": "I",
+    "exampleSentence": "The expedition required an immense amount of planning and courage."
+  },
+  {
+    "id": "impact_1",
+    "word": "Impact",
+    "translation": "השפעה חזקה ; פגיעה",
+    "letter": "I",
+    "exampleSentence": "The technological shift will have a lasting impact on employment."
+  },
+  {
+    "id": "impair_1",
+    "word": "Impair",
+    "translation": "לפגום, להחליש",
+    "letter": "I",
+    "exampleSentence": "Driving under the influence can severely impair your reflexes."
+  },
+  {
+    "id": "implausible_1",
+    "word": "Implausible",
+    "translation": "בלתי סביר, לא מתקבל על הדעת",
+    "letter": "I",
+    "exampleSentence": "His excuse for missing the trial seemed completely implausible."
+  },
+  {
+    "id": "implicit_1",
+    "word": "Implicit",
+    "translation": "מרומז, משתמע ; מוחלט",
+    "letter": "I",
+    "exampleSentence": "There was an implicit understanding that overtime was expected."
+  },
+  {
+    "id": "impose_1",
+    "word": "Impose",
+    "translation": "להטיל (מס, עונש), לכפות",
+    "letter": "I",
+    "exampleSentence": "The council decided to impose fines on illegal dumping."
+  },
+  {
+    "id": "incentive_1",
+    "word": "Incentive",
+    "translation": "תמריץ, מניע",
+    "letter": "I",
+    "exampleSentence": "Cash bonuses act as a powerful incentive for sales representatives."
+  },
+  {
+    "id": "inclination_1",
+    "word": "Inclination",
+    "translation": "נטייה, העדפה",
+    "letter": "I",
+    "exampleSentence": "She had a natural inclination toward music from childhood."
+  },
+  {
+    "id": "incorporate_1",
+    "word": "Incorporate",
+    "translation": "לשלב, לכלול בתוכו",
+    "letter": "I",
+    "exampleSentence": "We should incorporate sustainable materials into modern architecture."
+  },
+  {
+    "id": "indifferent_1",
+    "word": "Indifferent",
+    "translation": "אדיש, שווה נפש",
+    "letter": "I",
+    "exampleSentence": "He remained indifferent to the political debate unfolding around him."
+  },
+  {
+    "id": "indigenous_1",
+    "word": "Indigenous",
+    "translation": "ילידי, מקומי, טבעי לאזור",
+    "letter": "I",
+    "exampleSentence": "The flora is indigenous to the mountainous regions of Peru."
+  },
+  {
+    "id": "indispensable_1",
+    "word": "Indispensable",
+    "translation": "הכרחי, שאי אפשר בלעדיו",
+    "letter": "I",
+    "exampleSentence": "A reliable laptop is indispensable for modern university students."
+  },
+  {
+    "id": "induce_1",
+    "word": "Induce",
+    "translation": "לגרום ל-, להשרות",
+    "letter": "I",
+    "exampleSentence": "Certain spices can induce drowsiness when consumed in high quantities."
+  },
+  {
+    "id": "infer_1",
+    "word": "Infer",
+    "translation": "להסיק, להקיש",
+    "letter": "I",
+    "exampleSentence": "From the quiet room, one could infer that everyone was deeply focused."
+  },
+  {
+    "id": "infinite_1",
+    "word": "Infinite",
+    "translation": "אינסופי, ללא גבול",
+    "letter": "I",
+    "exampleSentence": "The astronomer gazed into the infinite expanse of the universe."
+  },
+  {
+    "id": "inherent_1",
+    "word": "Inherent",
+    "translation": "טבוע, פנימי, אינהרנטי",
+    "letter": "I",
+    "exampleSentence": "There is inherent risk involved in starting an independent startup."
+  },
+  {
+    "id": "inhibit_1",
+    "word": "Inhibit",
+    "translation": "לבלום, לעכב, למנוע",
+    "letter": "I",
+    "exampleSentence": "Cold weather may inhibit the germination of delicate flower seeds."
+  },
+  {
+    "id": "initiate_1",
+    "word": "Initiate",
+    "translation": "ליזום, להתחיל",
+    "letter": "I",
+    "exampleSentence": "The mayor promised to initiate a public health reform immediately."
+  },
+  {
+    "id": "innovate_1",
+    "word": "Innovate",
+    "translation": "לחדש, להמציא",
+    "letter": "I",
+    "exampleSentence": "Tech businesses must continuously innovate to remain competitive."
+  },
+  {
+    "id": "inquire_1",
+    "word": "Inquire",
+    "translation": "לברר, לשאול",
+    "letter": "I",
+    "exampleSentence": "Potential buyers called to inquire about property prices."
+  },
+  {
+    "id": "insight_1",
+    "word": "Insight",
+    "translation": "תובנה, הבנה עמוקה",
+    "letter": "I",
+    "exampleSentence": "Her critique offered valuable insight into ancient folklore."
+  },
+  {
+    "id": "insist_1",
+    "word": "Insist",
+    "translation": "להתעקש",
+    "letter": "I",
+    "exampleSentence": "They insist on using organic produce in every restaurant meal."
+  },
+  {
+    "id": "inspect_1",
+    "word": "Inspect",
+    "translation": "לבחון, לבדוק, לפקח",
+    "letter": "I",
+    "exampleSentence": "Regulators arrived to inspect the food safety standards at the dairy."
+  },
+  {
+    "id": "institute_1",
+    "word": "Institute",
+    "translation": "לייסד, לכונן ; מוסד",
+    "letter": "I",
+    "exampleSentence": "The school will institute a strict policy on personal smartphone usage."
+  },
+  {
+    "id": "integrity_1",
+    "word": "Integrity",
+    "translation": "יושרה, הגינות ; שלמות",
+    "letter": "I",
+    "exampleSentence": "A public official must act with uncompromised moral integrity."
+  },
+  {
+    "id": "intricate_1",
+    "word": "Intricate",
+    "translation": "מורכב, מסועף, מפותל",
+    "letter": "I",
+    "exampleSentence": "The watchmaker assembled the intricate gears with immense precision."
+  },
+  {
+    "id": "jeopardy_1",
+    "word": "Jeopardy",
+    "translation": "סכנה, סיכון",
+    "letter": "J",
+    "exampleSentence": "His reckless behavior put the entire expedition in jeopardy."
+  },
+  {
+    "id": "judicious_1",
+    "word": "Judicious",
+    "translation": "שקול, נבון, בעל שיקול דעת",
+    "letter": "J",
+    "exampleSentence": "Through judicious investment, the fund grew steadily."
+  },
+  {
+    "id": "justify_1",
+    "word": "Justify",
+    "translation": "להצדיק",
+    "letter": "J",
+    "exampleSentence": "You must justify your budget request with concrete metrics."
+  },
+  {
+    "id": "jargon_1",
+    "word": "Jargon",
+    "translation": "ז'רגון, עגה מקצועית",
+    "letter": "J",
+    "exampleSentence": "Try to explain medical concepts without using confusing technical jargon."
+  },
+  {
+    "id": "jeer_1",
+    "word": "Jeer",
+    "translation": "ללעוג, לבוז ; קריאת גנאי",
+    "letter": "J",
+    "exampleSentence": "The crowd began to jeer as the opposing striker stepped onto the pitch."
+  },
+  {
+    "id": "junction_1",
+    "word": "Junction",
+    "translation": "צומת, מפגש דרכים",
+    "letter": "J",
+    "exampleSentence": "Turn left at the next highway junction toward the airport."
+  },
+  {
+    "id": "juncture_1",
+    "word": "Juncture",
+    "translation": "נקודת זמן קריטית, שלב מכריע",
+    "letter": "J",
+    "exampleSentence": "At this crucial juncture, we cannot afford to hesitate."
+  },
+  {
+    "id": "jurisdiction_1",
+    "word": "Jurisdiction",
+    "translation": "סמכות שיפוט, תחום שיפוט",
+    "letter": "J",
+    "exampleSentence": "This cross-border fraud case fell under federal jurisdiction."
+  },
+  {
+    "id": "just_1",
+    "word": "Just",
+    "translation": "צודק, הוגן ; בדיוק",
+    "letter": "J",
+    "exampleSentence": "The tribunal delivered a just ruling in favor of the displaced workers."
+  },
+  {
+    "id": "juvenile_1",
+    "word": "Juvenile",
+    "translation": "צעיר, של בני נוער ; ילדותי",
+    "letter": "J",
+    "exampleSentence": "He was sentenced in a specialized juvenile rehabilitation facility."
+  },
+  {
+    "id": "jolt_1",
+    "word": "Jolt",
+    "translation": "טלטלה, זעזוע ; לטלטל",
+    "letter": "J",
+    "exampleSentence": "A sharp jolt of the train caused passengers to grab the handrails."
+  },
+  {
+    "id": "jubilant_1",
+    "word": "Jubilant",
+    "translation": "צוהל, עולז, שופע שמחה",
+    "letter": "J",
+    "exampleSentence": "The fans were jubilant after their team clinched the championship trophy."
+  },
+  {
+    "id": "judgement_1",
+    "word": "Judgement",
+    "translation": "פסק דין ; שיפוט, כושר הכרעה",
+    "letter": "J",
+    "exampleSentence": "Good judgement comes from accumulated life experience."
+  },
+  {
+    "id": "jumble_1",
+    "word": "Jumble",
+    "translation": "ערבובייה, בלגן ; לבלבל",
+    "letter": "J",
+    "exampleSentence": "Her desk was a jumble of handwritten notes and open textbooks."
+  },
+  {
+    "id": "jaunt_1",
+    "word": "Jaunt",
+    "translation": "טיול קצר, גיחה קלה",
+    "letter": "J",
+    "exampleSentence": "They took a weekend jaunt to the countryside to unwind."
+  },
+  {
+    "id": "jeopardize_1",
+    "word": "Jeopardize",
+    "translation": "לסכן, להעמיד בסכנה",
+    "letter": "J",
+    "exampleSentence": "Do not jeopardize your professional reputation over a temporary dispute."
+  },
+  {
+    "id": "jigsaw_1",
+    "word": "Jigsaw",
+    "translation": "פאזל, תצרף",
+    "letter": "J",
+    "exampleSentence": "Piecing together the historic evidence was like completing a complex jigsaw."
+  },
+  {
+    "id": "jocular_1",
+    "word": "Jocular",
+    "translation": "מבדח, היתולי, מבודח",
+    "letter": "J",
+    "exampleSentence": "His jocular manner helped put nervous candidates at ease during interviews."
+  },
+  {
+    "id": "jostle_1",
+    "word": "Jostle",
+    "translation": "להידחף, להיתקל במרפקים",
+    "letter": "J",
+    "exampleSentence": "Commuters jostled for position as the train doors slid open."
+  },
+  {
+    "id": "judiciary_1",
+    "word": "Judiciary",
+    "translation": "רשות שופטת, מערכת המשפט",
+    "letter": "J",
+    "exampleSentence": "An independent judiciary is vital for protecting individual liberties."
+  },
+  {
+    "id": "juxtapose_1",
+    "word": "Juxtapose",
+    "translation": "להציב זה לצד זה (להשוואה)",
+    "letter": "J",
+    "exampleSentence": "The documentary juxtaposed lavish wealth with severe rural poverty."
+  },
+  {
+    "id": "joyful_1",
+    "word": "Joyful",
+    "translation": "משמח, מלא שמחה",
+    "letter": "J",
+    "exampleSentence": "The family gathered for a joyful reunion after years apart."
+  },
+  {
+    "id": "judicial_1",
+    "word": "Judicial",
+    "translation": "שיפוטי, משפטי",
+    "letter": "J",
+    "exampleSentence": "The high court ordered a judicial review of the planning permit."
+  },
+  {
+    "id": "jubilation_1",
+    "word": "Jubilation",
+    "translation": "צהלה, שמחה גדולה",
+    "letter": "J",
+    "exampleSentence": "News of the peace treaty prompted widespread jubilation in the capital."
+  },
+  {
+    "id": "jagged_1",
+    "word": "Jagged",
+    "translation": "משונן, מחוספס, בעל זיזים",
+    "letter": "J",
+    "exampleSentence": "The boat narrowly avoided the jagged rocks along the shoreline."
+  },
+  {
+    "id": "jaunty_1",
+    "word": "Jaunty",
+    "translation": "עליז, קליל, שובב",
+    "letter": "J",
+    "exampleSentence": "He walked with a jaunty stride, whistling an upbeat tune."
+  },
+  {
+    "id": "jealousy_1",
+    "word": "Jealousy",
+    "translation": "קנאה",
+    "letter": "J",
+    "exampleSentence": "Professional jealousy can damage otherwise productive teamwork."
+  },
+  {
+    "id": "jettison_1",
+    "word": "Jettison",
+    "translation": "להשליך (מטען), להיפטר מ-",
+    "letter": "J",
+    "exampleSentence": "The struggling company decided to jettison its unprofitable divisions."
+  },
+  {
+    "id": "jaded_1",
+    "word": "Jaded",
+    "translation": "מותש, קהה חושים, שחוק",
+    "letter": "J",
+    "exampleSentence": "After twenty years covering politics, the reporter felt jaded and cynical."
+  },
+  {
+    "id": "journal_1",
+    "word": "Journal",
+    "translation": "כתב עת מדעי ; יומן אישי",
+    "letter": "J",
+    "exampleSentence": "Her research paper was accepted for publication in a prestigious physics journal."
+  },
+  {
+    "id": "keen_1",
+    "word": "Keen",
+    "translation": "חד, נלהב, שנון",
+    "letter": "K",
+    "exampleSentence": "She has a keen interest in learning ancient languages."
+  },
+  {
+    "id": "kin_1",
+    "word": "Kin",
+    "translation": "קרובי משפחה, שאר בשר",
+    "letter": "K",
+    "exampleSentence": "He felt a strong sense of responsibility toward his next of kin."
+  },
+  {
+    "id": "knack_1",
+    "word": "Knack",
+    "translation": "כישרון מיוחד, מיומנות",
+    "letter": "K",
+    "exampleSentence": "She has a real knack for resolving customer disputes calmly."
+  },
+  {
+    "id": "kernel_1",
+    "word": "Kernel",
+    "translation": "גרעין, ליבה, תמצית",
+    "letter": "K",
+    "exampleSentence": "There was a kernel of truth hidden inside his exaggerated story."
+  },
+  {
+    "id": "kindle_1",
+    "word": "Kindle",
+    "translation": "להצית, להבעיר, לעורר",
+    "letter": "K",
+    "exampleSentence": "The captivating novel kindled her lifelong passion for astronomy."
+  },
+  {
+    "id": "kinetic_1",
+    "word": "Kinetic",
+    "translation": "קינטי, תנועתי",
+    "letter": "K",
+    "exampleSentence": "Rollercoasters convert potential gravitational energy into kinetic energy."
+  },
+  {
+    "id": "kinship_1",
+    "word": "Kinship",
+    "translation": "קרבת דם, קרבה רעיונית",
+    "letter": "K",
+    "exampleSentence": "She felt an immediate spiritual kinship with the fellow musicians."
+  },
+  {
+    "id": "kudos_1",
+    "word": "Kudos",
+    "translation": "שבחים, תהילה, כבוד",
+    "letter": "K",
+    "exampleSentence": "Kudos to the organizing committee for running a flawless conference."
+  },
+  {
+    "id": "knotty_1",
+    "word": "Knotty",
+    "translation": "סבוך, קשה לפתרון",
+    "letter": "K",
+    "exampleSentence": "The mediator tackled the knotty legal dilemma with remarkable tact."
+  },
+  {
+    "id": "know_how_1",
+    "word": "Know-how",
+    "translation": "ידע מעשי, מומחיות",
+    "letter": "K",
+    "exampleSentence": "The startup acquired the technological know-how through licensing agreements."
+  },
+  {
+    "id": "knave_1",
+    "word": "Knave",
+    "translation": "נבל, נוכל, בן בלייעל",
+    "letter": "K",
+    "exampleSentence": "In the Shakespearean play, the treacherous knave deceives the prince."
+  },
+  {
+    "id": "knight_1",
+    "word": "Knight",
+    "translation": "אביר ; להעניק תואר אבירות",
+    "letter": "K",
+    "exampleSentence": "The famous scientist was knighted for his contributions to medicine."
+  },
+  {
+    "id": "keynote_1",
+    "word": "Keynote",
+    "translation": "נאום מרכזי ; רעיון מוביל",
+    "letter": "K",
+    "exampleSentence": "The professor delivered the keynote address at the opening ceremony."
+  },
+  {
+    "id": "kindred_1",
+    "word": "Kindred",
+    "translation": "קרוב, שאר בשר, בעל דמיון",
+    "letter": "K",
+    "exampleSentence": "They discovered they were kindred spirits with identical musical tastes."
+  },
+  {
+    "id": "knowledgeable_1",
+    "word": "Knowledgeable",
+    "translation": "בעל ידע נרחב, בקיא",
+    "letter": "K",
+    "exampleSentence": "The tour guide was exceptionally knowledgeable about ancient architecture."
+  },
+  {
+    "id": "knit_1",
+    "word": "Knit",
+    "translation": "לסרוג ; לחבר בקשר אמיץ",
+    "letter": "K",
+    "exampleSentence": "The small neighborhood formed a tight-knit community of supportive families."
+  },
+  {
+    "id": "killjoy_1",
+    "word": "Killjoy",
+    "translation": "משבית שמחות",
+    "letter": "K",
+    "exampleSentence": "Don't be a killjoy; join the rest of the team for the celebration."
+  },
+  {
+    "id": "kempt_1",
+    "word": "Kempt",
+    "translation": "מטופח, מסודר היטב",
+    "letter": "K",
+    "exampleSentence": "He was always well-kempt and immaculately dressed for business meetings."
+  },
+  {
+    "id": "keenness_1",
+    "word": "Keenness",
+    "translation": "חריפות, חדות, להט",
+    "letter": "K",
+    "exampleSentence": "The examiner commended the student's analytical keenness."
+  },
+  {
+    "id": "kiln_1",
+    "word": "Kiln",
+    "translation": "כבשן (לקרמיקה/לבנים)",
+    "letter": "K",
+    "exampleSentence": "Potters bake ceramic clay inside high-temperature kilns."
+  },
+  {
+    "id": "kineticist_1",
+    "word": "Kineticist",
+    "translation": "מומחה בתורת התנועה",
+    "letter": "K",
+    "exampleSentence": "The biomechanical kineticist analyzed the athlete's sprint mechanics."
+  },
+  {
+    "id": "knead_1",
+    "word": "Knead",
+    "translation": "ללוש (בצק), לעסות",
+    "letter": "K",
+    "exampleSentence": "Bakers knead the sourdough dough vigorously before letting it ferment."
+  },
+  {
+    "id": "knot_1",
+    "word": "Knot",
+    "translation": "קשר ; לקשור",
+    "letter": "K",
+    "exampleSentence": "The sailor tied a secure nautical knot around the dock cleat."
+  },
+  {
+    "id": "kith_1",
+    "word": "Kith",
+    "translation": "ידידים ומכרים",
+    "letter": "K",
+    "exampleSentence": "The holiday banquet brought together all his kith and kin."
+  },
+  {
+    "id": "kindness_1",
+    "word": "Kindness",
+    "translation": "טוב לב, אדיבות",
+    "letter": "K",
+    "exampleSentence": "A small act of kindness can brighten an entire difficult week."
+  },
+  {
+    "id": "kettle_1",
+    "word": "Kettle",
+    "translation": "קומקום",
+    "letter": "K",
+    "exampleSentence": "She boiled water in the electric kettle to brew fresh herbal tea."
+  },
+  {
+    "id": "keenly_1",
+    "word": "Keenly",
+    "translation": "בחדות, בעניין רב",
+    "letter": "K",
+    "exampleSentence": "Investors watched the central bank interest announcement keenly."
+  },
+  {
+    "id": "kinsman_1",
+    "word": "Kinsman",
+    "translation": "קרוב משפחה (זכר)",
+    "letter": "K",
+    "exampleSentence": "He was received by his kinsman upon arriving in the foreign province."
+  },
+  {
+    "id": "knowledge_1",
+    "word": "Knowledge",
+    "translation": "ידע, השכלה",
+    "letter": "K",
+    "exampleSentence": "Broad general knowledge helps candidates excel in psychometric exams."
+  },
+  {
+    "id": "kaleidoscope_1",
+    "word": "Kaleidoscope",
+    "translation": "קליידוסקופ ; רבגוניות משתנה",
+    "letter": "K",
+    "exampleSentence": "The cultural fair displayed a kaleidoscope of vibrant colors and folk traditions."
+  },
+  {
+    "id": "lenient_1",
+    "word": "Lenient",
+    "translation": "רחמן, מקל, ותרן",
+    "letter": "L",
+    "exampleSentence": "The teacher gave lenient penalties for first-time late submissions."
+  },
+  {
+    "id": "lethargic_1",
+    "word": "Lethargic",
+    "translation": "אדיש, רדום, חסר מרץ",
+    "letter": "L",
+    "exampleSentence": "The humid weather made everyone feel lethargic and slow."
+  },
+  {
+    "id": "lucid_1",
+    "word": "Lucid",
+    "translation": "צלול, ברור, נהיר",
+    "letter": "L",
+    "exampleSentence": "He gave a lucid explanation of a very complex legal statute."
+  },
+  {
+    "id": "lament_1",
+    "word": "Lament",
+    "translation": "להתאבל, לקונן ; קינה",
+    "letter": "L",
+    "exampleSentence": "Citizens gathered to lament the tragic destruction of the historic cathedral."
+  },
+  {
+    "id": "landmark_1",
+    "word": "Landmark",
+    "translation": "נקודת ציון, אתר מורשת",
+    "letter": "L",
+    "exampleSentence": "The Supreme Court decision was a landmark victory for civil liberties."
+  },
+  {
+    "id": "latent_1",
+    "word": "Latent",
+    "translation": "חבוי, סמוי, רדום",
+    "letter": "L",
+    "exampleSentence": "The workshop unlocked her latent artistic potential in watercolor painting."
+  },
+  {
+    "id": "laudable_1",
+    "word": "Laudable",
+    "translation": "ראוי לשבח",
+    "letter": "L",
+    "exampleSentence": "The community center launched a laudable initiative to tutor underprivileged kids."
+  },
+  {
+    "id": "lavish_1",
+    "word": "Lavish",
+    "translation": "פזרני, שופע, מפואר",
+    "letter": "L",
+    "exampleSentence": "Guests enjoyed a lavish banquet in the castle's grand reception hall."
+  },
+  {
+    "id": "legacy_1",
+    "word": "Legacy",
+    "translation": "מורשת, ירושה",
+    "letter": "L",
+    "exampleSentence": "The founding father left an enduring legacy of tolerance and freedom."
+  },
+  {
+    "id": "legitimate_1",
+    "word": "Legitimate",
+    "translation": "לגיטימי, חוקי, מוצדק",
+    "letter": "L",
+    "exampleSentence": "Consumers have legitimate concerns about data privacy on social platforms."
+  },
+  {
+    "id": "leisure_1",
+    "word": "Leisure",
+    "translation": "פנאי, מנוחה",
+    "letter": "L",
+    "exampleSentence": "In her leisure time, she practices classical piano and oil painting."
+  },
+  {
+    "id": "lessen_1",
+    "word": "Lessen",
+    "translation": "להפחית, לצמצם",
+    "letter": "L",
+    "exampleSentence": "Solar insulation helped lessen the monthly heating expenditure."
+  },
+  {
+    "id": "lethal_1",
+    "word": "Lethal",
+    "translation": "קטלני",
+    "letter": "L",
+    "exampleSentence": "The venom of the inland taipan snake is lethal without antivenom."
+  },
+  {
+    "id": "liable_1",
+    "word": "Liable",
+    "translation": "אחראי משפטית ; עלול",
+    "letter": "L",
+    "exampleSentence": "The property owner is liable for injuries caused by icy sidewalks."
+  },
+  {
+    "id": "liberal_1",
+    "word": "Liberal",
+    "translation": "ליברלי, רחב אופקים ; נדיב",
+    "letter": "L",
+    "exampleSentence": "The recipe called for a liberal dose of aromatic olive oil."
+  },
+  {
+    "id": "linger_1",
+    "word": "Linger",
+    "translation": "להתמהמה, להשתהות",
+    "letter": "L",
+    "exampleSentence": "A pleasant scent of lavender lingered in the room long after she left."
+  },
+  {
+    "id": "literal_1",
+    "word": "Literal",
+    "translation": "פשוטו כמשמעו, מילולי",
+    "letter": "L",
+    "exampleSentence": "Idioms should not be interpreted in their literal sense across languages."
+  },
+  {
+    "id": "livelihood_1",
+    "word": "Livelihood",
+    "translation": "פרנסה, מחיה",
+    "letter": "L",
+    "exampleSentence": "Overfishing directly threatens the livelihood of coastal fishing families."
+  },
+  {
+    "id": "lofty_1",
+    "word": "Lofty",
+    "translation": "נישא, נשגב, נעלה",
+    "letter": "L",
+    "exampleSentence": "The candidate set lofty targets for reducing greenhouse carbon emissions."
+  },
+  {
+    "id": "loom_1",
+    "word": "Loom",
+    "translation": "להבליח, להופיע באופק כמאיים ; נול",
+    "letter": "L",
+    "exampleSentence": "Storm clouds loomed ominously over the mountain summit."
+  },
+  {
+    "id": "lucrative_1",
+    "word": "Lucrative",
+    "translation": "רווחי, משתלם במיוחד",
+    "letter": "L",
+    "exampleSentence": "He left finance to pursue a lucrative career in commercial software."
+  },
+  {
+    "id": "luminous_1",
+    "word": "Luminous",
+    "translation": "זורח, מפיץ אור, בהיר",
+    "letter": "L",
+    "exampleSentence": "Deep-sea creatures often produce luminous bioluminescent glows."
+  },
+  {
+    "id": "lure_1",
+    "word": "Lure",
+    "translation": "לפתות ; פיתיון",
+    "letter": "L",
+    "exampleSentence": "Discount sales were used to lure shoppers into the newly opened mall."
+  },
+  {
+    "id": "lurk_1",
+    "word": "Lurk",
+    "translation": "לארוב, להסתתר בחשאי",
+    "letter": "L",
+    "exampleSentence": "Predators often lurk in tall grass waiting for prey to wander close."
+  },
+  {
+    "id": "lush_1",
+    "word": "Lush",
+    "translation": "שופע צמחייה, רענן, עשיר",
+    "letter": "L",
+    "exampleSentence": "The tropical island features lush rainforests and crystal clear lagoons."
+  },
+  {
+    "id": "luxury_1",
+    "word": "Luxury",
+    "translation": "מותרות, פאר",
+    "letter": "L",
+    "exampleSentence": "Having pure silence in a busy modern city has become a true luxury."
+  },
+  {
+    "id": "limitless_1",
+    "word": "Limitless",
+    "translation": "חסר גבולות, אינסופי",
+    "letter": "L",
+    "exampleSentence": "Children possess limitless imaginations when playing outdoors."
+  },
+  {
+    "id": "logical_1",
+    "word": "Logical",
+    "translation": "הגיוני, עקבי",
+    "letter": "L",
+    "exampleSentence": "The detective followed a logical progression of deduction to solve the mystery."
+  },
+  {
+    "id": "longevity_1",
+    "word": "Longevity",
+    "translation": "אריכות ימים",
+    "letter": "L",
+    "exampleSentence": "A Mediterranean diet rich in fresh vegetables contributes to longevity."
+  },
+  {
+    "id": "loyal_1",
+    "word": "Loyal",
+    "translation": "נאמן, מסור",
+    "letter": "L",
+    "exampleSentence": "The faithful dog remained loyal to its elderly owner through all years."
+  },
+  {
+    "id": "meticulous_1",
+    "word": "Meticulous",
+    "translation": "קפדני, מדוקדק",
+    "letter": "M",
+    "exampleSentence": "The architect paid meticulous attention to every construction detail."
+  },
+  {
+    "id": "mitigate_1",
+    "word": "Mitigate",
+    "translation": "להקל, למתן, לשכך",
+    "letter": "M",
+    "exampleSentence": "Installing solar panels helps mitigate rising electricity costs."
+  },
+  {
+    "id": "mundane_1",
+    "word": "Mundane",
+    "translation": "יומיומי, שגרתי, ארצי",
+    "letter": "M",
+    "exampleSentence": "He found routine paperwork mundane compared to fieldwork."
+  },
+  {
+    "id": "magnitude_1",
+    "word": "Magnitude",
+    "translation": "גודל, עוצמה, חשיבות",
+    "letter": "M",
+    "exampleSentence": "The earthquake reached a catastrophic magnitude of 7.8 on the Richter scale."
+  },
+  {
+    "id": "maintain_1",
+    "word": "Maintain",
+    "translation": "לתחזק ; לטעון בעקביות",
+    "letter": "M",
+    "exampleSentence": "He maintained his innocence throughout the protracted trial."
+  },
+  {
+    "id": "mandatory_1",
+    "word": "Mandatory",
+    "translation": "מחייב, חובה",
+    "letter": "M",
+    "exampleSentence": "Wearing a helmet while cycling on major roads is mandatory."
+  },
+  {
+    "id": "manifest_1",
+    "word": "Manifest",
+    "translation": "להפגין, להתגלות ; ברור לעין",
+    "letter": "M",
+    "exampleSentence": "Her deep artistic talent began to manifest itself at an early age."
+  },
+  {
+    "id": "manipulate_1",
+    "word": "Manipulate",
+    "translation": "להפעיל, להשפיע במרמה",
+    "letter": "M",
+    "exampleSentence": "The politician tried to manipulate public opinion through emotional speeches."
+  },
+  {
+    "id": "marginal_1",
+    "word": "Marginal",
+    "translation": "שולי, מזערי, גבולי",
+    "letter": "M",
+    "exampleSentence": "The difference in test scores between the two groups was marginal."
+  },
+  {
+    "id": "massive_1",
+    "word": "Massive",
+    "translation": "מסיבי, עצום, מוצק",
+    "letter": "M",
+    "exampleSentence": "A massive crowd gathered in the main square to celebrate the victory."
+  },
+  {
+    "id": "menace_1",
+    "word": "Menace",
+    "translation": "איום, סכנה ; לאיים על",
+    "letter": "M",
+    "exampleSentence": "Illegal deforestation poses a severe menace to wildlife survival."
+  },
+  {
+    "id": "merge_1",
+    "word": "Merge",
+    "translation": "למזג, להתמזג, להשתלב",
+    "letter": "M",
+    "exampleSentence": "The two pharmaceutical giants decided to merge their operations."
+  },
+  {
+    "id": "minute_1",
+    "word": "Minute",
+    "translation": "זעיר, דק ביותר ; דקה",
+    "letter": "M",
+    "exampleSentence": "The jeweler inspected the diamond for minute cracks with a magnifying lens."
+  },
+  {
+    "id": "misconception_1",
+    "word": "Misconception",
+    "translation": "תפיסה מוטעית, אי-הבנה",
+    "letter": "M",
+    "exampleSentence": "It is a common misconception that bats are completely blind."
+  },
+  {
+    "id": "misleading_1",
+    "word": "Misleading",
+    "translation": "מטעה, מוליך שולל",
+    "letter": "M",
+    "exampleSentence": "The advert used misleading statistics to exaggerate the product's effectiveness."
+  },
+  {
+    "id": "modify_1",
+    "word": "Modify",
+    "translation": "לשנות מעט, להתאים, לעדכן",
+    "letter": "M",
+    "exampleSentence": "The engineer had to modify the chassis design to reduce aerodynamic drag."
+  },
+  {
+    "id": "momentous_1",
+    "word": "Momentous",
+    "translation": "בעל חשיבות עליונה, הרה גורל",
+    "letter": "M",
+    "exampleSentence": "Signing the international treaty was a momentous step toward peace."
+  },
+  {
+    "id": "monotonous_1",
+    "word": "Monotonous",
+    "translation": "מונוטוני, חדגוני, משעמם",
+    "letter": "M",
+    "exampleSentence": "The repetitive assembly line work felt tedious and monotonous."
+  },
+  {
+    "id": "morale_1",
+    "word": "Morale",
+    "translation": "מורל, רוח צוות",
+    "letter": "M",
+    "exampleSentence": "A decisive victory in the tournament boosted team morale significantly."
+  },
+  {
+    "id": "motivate_1",
+    "word": "Motivate",
+    "translation": "להניע, להמריץ, לעורר השראה",
+    "letter": "M",
+    "exampleSentence": "The charismatic coach motivated players to give their absolute best."
+  },
+  {
+    "id": "mount_1",
+    "word": "Mount",
+    "translation": "לעלות, להעפיל ; לגדול, להתגבר",
+    "letter": "M",
+    "exampleSentence": "Pressure began to mount on the prime minister to hold fresh elections."
+  },
+  {
+    "id": "multiple_1",
+    "word": "Multiple",
+    "translation": "מרובה, רב-גוני",
+    "letter": "M",
+    "exampleSentence": "The doctor noted that the patient suffered from multiple health complications."
+  },
+  {
+    "id": "mutual_1",
+    "word": "Mutual",
+    "translation": "הדדי, משותף",
+    "letter": "M",
+    "exampleSentence": "Successful diplomacy relies on mutual respect and open communication."
+  },
+  {
+    "id": "myriad_1",
+    "word": "Myriad",
+    "translation": "רבבה, אינספור, שפע עצום",
+    "letter": "M",
+    "exampleSentence": "The night sky was illuminated by a myriad of glittering stars."
+  },
+  {
+    "id": "mystify_1",
+    "word": "Mystify",
+    "translation": "להפליא, לבלבל, להותיר נדהם",
+    "letter": "M",
+    "exampleSentence": "The magician's sleight of hand never failed to mystify the crowd."
+  },
+  {
+    "id": "modest_1",
+    "word": "Modest",
+    "translation": "צנוע, מתון",
+    "letter": "M",
+    "exampleSentence": "She lived in a modest apartment despite her immense business wealth."
+  },
+  {
+    "id": "morbid_1",
+    "word": "Morbid",
+    "translation": "חולני, מורבידי, קודר",
+    "letter": "M",
+    "exampleSentence": "He displayed a morbid fascination with ancient burial rituals."
+  },
+  {
+    "id": "milestone_1",
+    "word": "Milestone",
+    "translation": "אבן דרך, ציון דרך",
+    "letter": "M",
+    "exampleSentence": "Reaching a million registered users was a major milestone for the startup."
+  },
+  {
+    "id": "moderate_1",
+    "word": "Moderate",
+    "translation": "מתון ; למתן, לווסת",
+    "letter": "M",
+    "exampleSentence": "Doctors recommend moderate physical exercise three to four times a week."
+  },
+  {
+    "id": "monumental_1",
+    "word": "Monumental",
+    "translation": "מונומנטלי, עצום, אדיר ממדים",
+    "letter": "M",
+    "exampleSentence": "Constructing the Hoover Dam was a monumental engineering achievement."
+  },
+  {
+    "id": "negligent_1",
+    "word": "Negligent",
+    "translation": "רשלן, מרושל",
+    "letter": "N",
+    "exampleSentence": "The driver was deemed negligent for running the red light."
+  },
+  {
+    "id": "notion_1",
+    "word": "Notion",
+    "translation": "רעיון, מושג, דעה",
+    "letter": "N",
+    "exampleSentence": "She dismissed the notion that remote work reduces productivity."
+  },
+  {
+    "id": "novice_1",
+    "word": "Novice",
+    "translation": "טירון, מתחיל",
+    "letter": "N",
+    "exampleSentence": "As a novice chess player, he practiced basic openings daily."
+  },
+  {
+    "id": "naive_1",
+    "word": "Naive",
+    "translation": "נאיבי, תמים יתר על המידה",
+    "letter": "N",
+    "exampleSentence": "It was naive to believe that the rivals would simply withdraw."
+  },
+  {
+    "id": "narrate_1",
+    "word": "Narrate",
+    "translation": "לספר, לקריין",
+    "letter": "N",
+    "exampleSentence": "The actor was invited to narrate the wildlife documentary."
+  },
+  {
+    "id": "navigate_1",
+    "word": "Navigate",
+    "translation": "לנווט, למצוא את הדרך",
+    "letter": "N",
+    "exampleSentence": "Sailors once used constellations to navigate across open oceans."
+  },
+  {
+    "id": "nebulous_1",
+    "word": "Nebulous",
+    "translation": "מעורפל, מעורפל כענן",
+    "letter": "N",
+    "exampleSentence": "His business plan was based on nebulous concepts rather than solid data."
+  },
+  {
+    "id": "neglect_1",
+    "word": "Neglect",
+    "translation": "להזניח ; הזנחה",
+    "letter": "N",
+    "exampleSentence": "Years of neglect left the historic stone mansion in complete disrepair."
+  },
+  {
+    "id": "negotiate_1",
+    "word": "Negotiate",
+    "translation": "לשאת ולתת, להתמקח",
+    "letter": "N",
+    "exampleSentence": "Union representatives met management to negotiate higher base salaries."
+  },
+  {
+    "id": "neutral_1",
+    "word": "Neutral",
+    "translation": "ניטרלי, נטול עמדה",
+    "letter": "N",
+    "exampleSentence": "Switzerland maintained a neutral stance throughout the global conflicts."
+  },
+  {
+    "id": "nimble_1",
+    "word": "Nimble",
+    "translation": "זריז, קל תנועה, מהיר תפיסה",
+    "letter": "N",
+    "exampleSentence": "The nimble rock climber ascended the vertical cliff with effortless grace."
+  },
+  {
+    "id": "nominal_1",
+    "word": "Nominal",
+    "translation": "סמלי בלבד, נקוב",
+    "letter": "N",
+    "exampleSentence": "Members pay a nominal annual fee to cover library administrative costs."
+  },
+  {
+    "id": "notable_1",
+    "word": "Notable",
+    "translation": "ראוי לציון, בולט",
+    "letter": "N",
+    "exampleSentence": "There has been a notable improvement in public transit punctuality."
+  },
+  {
+    "id": "notify_1",
+    "word": "Notify",
+    "translation": "להודיע, ליידע",
+    "letter": "N",
+    "exampleSentence": "Please notify the reception desk upon your arrival at the hotel."
+  },
+  {
+    "id": "novel_1",
+    "word": "Novel",
+    "translation": "חדשני, מקורי ; רומן",
+    "letter": "N",
+    "exampleSentence": "The biochemist suggested a novel approach to combating antibiotic resistance."
+  },
+  {
+    "id": "nuance_1",
+    "word": "Nuance",
+    "translation": "דקות, ניואנס, גוון עדין",
+    "letter": "N",
+    "exampleSentence": "A skilled translator captures every emotional nuance of the original prose."
+  },
+  {
+    "id": "nuisance_1",
+    "word": "Nuisance",
+    "translation": "מטרד, מפגע",
+    "letter": "N",
+    "exampleSentence": "Loud midnight fireworks became an unbearable nuisance for residents."
+  },
+  {
+    "id": "nullify_1",
+    "word": "Nullify",
+    "translation": "לבטל, להפוך לחסר תוקף",
+    "letter": "N",
+    "exampleSentence": "The judge ruled to nullify the disputed real estate transaction."
+  },
+  {
+    "id": "nurture_1",
+    "word": "Nurture",
+    "translation": "לטפח, לגדל, להזין",
+    "letter": "N",
+    "exampleSentence": "Parents strive to nurture their children's innate creative passions."
+  },
+  {
+    "id": "numerous_1",
+    "word": "Numerous",
+    "translation": "רב, מרובה",
+    "letter": "N",
+    "exampleSentence": "The proposal received enthusiastic support from numerous local charities."
+  },
+  {
+    "id": "narrow_1",
+    "word": "Narrow",
+    "translation": "צר, מוגבל ; לצמצם",
+    "letter": "N",
+    "exampleSentence": "The candidate won by a remarkably narrow margin of fifteen votes."
+  },
+  {
+    "id": "native_1",
+    "word": "Native",
+    "translation": "ילידי, מקומי, טבעי",
+    "letter": "N",
+    "exampleSentence": "The eucalyptus tree is native to the Australian continent."
+  },
+  {
+    "id": "necessary_1",
+    "word": "Necessary",
+    "translation": "נחוץ, חיוני, דרוש",
+    "letter": "N",
+    "exampleSentence": "Thorough verification is necessary before publishing breaking news."
+  },
+  {
+    "id": "negate_1",
+    "word": "Negate",
+    "translation": "לשלול, לסתור, לבטל",
+    "letter": "N",
+    "exampleSentence": "A single piece of conflicting evidence can negate an entire theory."
+  },
+  {
+    "id": "neglectful_1",
+    "word": "Neglectful",
+    "translation": "רשלני, מתעלם מחובותיו",
+    "letter": "N",
+    "exampleSentence": "The pet owner was fined for being neglectful of the animal's welfare."
+  },
+  {
+    "id": "negotiable_1",
+    "word": "Negotiable",
+    "translation": "נתון למשא ומתן",
+    "letter": "N",
+    "exampleSentence": "The advertised salary package is negotiable depending on experience."
+  },
+  {
+    "id": "network_1",
+    "word": "Network",
+    "translation": "רשת ; ליצור קשרים",
+    "letter": "N",
+    "exampleSentence": "Conferences provide a wonderful opportunity to network with industry peers."
+  },
+  {
+    "id": "neutralize_1",
+    "word": "Neutralize",
+    "translation": "לנטרל, להשבית",
+    "letter": "N",
+    "exampleSentence": "Baking soda was used to neutralize the acid spill on the lab bench."
+  },
+  {
+    "id": "nightmare_1",
+    "word": "Nightmare",
+    "translation": "סיוט",
+    "letter": "N",
+    "exampleSentence": "Being trapped in the airport during the blizzard was an absolute nightmare."
+  },
+  {
+    "id": "nonchalant_1",
+    "word": "Nonchalant",
+    "translation": "נונשלנטי, אדיש לכאורה, שליו",
+    "letter": "N",
+    "exampleSentence": "He maintained a nonchalant demeanor despite intense questioning from reporters."
+  },
+  {
+    "id": "obsolete_1",
+    "word": "Obsolete",
+    "translation": "מיושן, שעבר זמנו",
+    "letter": "O",
+    "exampleSentence": "Compact discs have become largely obsolete in the streaming era."
+  },
+  {
+    "id": "obstinate_1",
+    "word": "Obstinate",
+    "translation": "עקשן, נוקשה",
+    "letter": "O",
+    "exampleSentence": "His obstinate refusal to compromise ruined the negotiations."
+  },
+  {
+    "id": "omit_1",
+    "word": "Omit",
+    "translation": "להשמיט, לדלג על",
+    "letter": "O",
+    "exampleSentence": "Be careful not to omit any mandatory documents from your application."
+  },
+  {
+    "id": "objective_1",
+    "word": "Objective",
+    "translation": "אובייקטיבי ; יעד, מטרה",
+    "letter": "O",
+    "exampleSentence": "Our principal objective is to provide clean drinking water to remote villages."
+  },
+  {
+    "id": "obligation_1",
+    "word": "Obligation",
+    "translation": "חובה, מחויבות",
+    "letter": "O",
+    "exampleSentence": "Employers have a legal obligation to ensure a safe work environment."
+  },
+  {
+    "id": "obscure_1",
+    "word": "Obscure",
+    "translation": "מעורפל, לא מוכר ; לטשטש",
+    "letter": "O",
+    "exampleSentence": "The author was relatively obscure until his novel won an international prize."
+  },
+  {
+    "id": "observe_1",
+    "word": "Observe",
+    "translation": "להתבונן, לעקוב ; לציית (לחוק)",
+    "letter": "O",
+    "exampleSentence": "Astronomers observe distant supernovae using space telescopes."
+  },
+  {
+    "id": "obstacle_1",
+    "word": "Obstacle",
+    "translation": "מכשול, עיכוב",
+    "letter": "O",
+    "exampleSentence": "Lack of funding proved to be the biggest obstacle to project completion."
+  },
+  {
+    "id": "obtain_1",
+    "word": "Obtain",
+    "translation": "להשיג, לרכוש",
+    "letter": "O",
+    "exampleSentence": "Travelers must obtain a tourist visa before entering the country."
+  },
+  {
+    "id": "obvious_1",
+    "word": "Obvious",
+    "translation": "ברור מאליו, גלוי לעין",
+    "letter": "O",
+    "exampleSentence": "It was obvious to everyone in the room that she was telling the truth."
+  },
+  {
+    "id": "occasional_1",
+    "word": "Occasional",
+    "translation": "מזדמן, מדי פעם",
+    "letter": "O",
+    "exampleSentence": "Except for an occasional passing truck, the mountain village was silent."
+  },
+  {
+    "id": "occupy_1",
+    "word": "Occupy",
+    "translation": "לתפוס (מקום/זמן), להעסיק",
+    "letter": "O",
+    "exampleSentence": "Preparing for the bar exam occupied all her available evenings."
+  },
+  {
+    "id": "offend_1",
+    "word": "Offend",
+    "translation": "להעליב, לפגוע",
+    "letter": "O",
+    "exampleSentence": "He did not mean to offend anyone with his sarcastic remark."
+  },
+  {
+    "id": "offset_1",
+    "word": "Offset",
+    "translation": "לקזז, לפצות על, לאזן",
+    "letter": "O",
+    "exampleSentence": "Increased domestic sales helped offset losses incurred in foreign markets."
+  },
+  {
+    "id": "ominous_1",
+    "word": "Ominous",
+    "translation": "מבשר רעות, מאיים",
+    "letter": "O",
+    "exampleSentence": "Dark, swirling clouds gave an ominous sign of the approaching cyclone."
+  },
+  {
+    "id": "ongoing_1",
+    "word": "Ongoing",
+    "translation": "מתמשך, מתמיד, נוכחי",
+    "letter": "O",
+    "exampleSentence": "Police conduct an ongoing investigation into the bank robbery."
+  },
+  {
+    "id": "onset_1",
+    "word": "Onset",
+    "translation": "התחלה, פריצה (של מחלה/חורף)",
+    "letter": "O",
+    "exampleSentence": "The rapid onset of hypothermia is dangerous for lost hikers."
+  },
+  {
+    "id": "opaque_1",
+    "word": "Opaque",
+    "translation": "אטום (לאור), עמום, לא מובן",
+    "letter": "O",
+    "exampleSentence": "The bathroom window was made from frosted, opaque safety glass."
+  },
+  {
+    "id": "opponent_1",
+    "word": "Opponent",
+    "translation": "יריב, מתחרה",
+    "letter": "O",
+    "exampleSentence": "He shook hands with his opponent respectfully after the chess match."
+  },
+  {
+    "id": "opportunist_1",
+    "word": "Opportunist",
+    "translation": "אופורטוניסט, נצלן הזדמנויות",
+    "letter": "O",
+    "exampleSentence": "The opportunist politician exploited the crisis for personal media exposure."
+  },
+  {
+    "id": "oppress_1",
+    "word": "Oppress",
+    "translation": "לדכא, לרדוף, להעיק",
+    "letter": "O",
+    "exampleSentence": "The tyrannical ruler used secret police to oppress political dissidents."
+  },
+  {
+    "id": "optimal_1",
+    "word": "Optimal",
+    "translation": "מיטבי, אופטימלי",
+    "letter": "O",
+    "exampleSentence": "Plants require optimal sunlight and moisture to yield bountiful harvests."
+  },
+  {
+    "id": "ordeal_1",
+    "word": "Ordeal",
+    "translation": "מבחן קשה, סבל ממושך",
+    "letter": "O",
+    "exampleSentence": "Surviving the shipwreck in freezing waters was a horrific ordeal."
+  },
+  {
+    "id": "orient_1",
+    "word": "Orient",
+    "translation": "להתמצא, לכוון ; המזרח",
+    "letter": "O",
+    "exampleSentence": "It took the exchange students a few days to orient themselves on campus."
+  },
+  {
+    "id": "origin_1",
+    "word": "Origin",
+    "translation": "מקור, מוצא, ראשית",
+    "letter": "O",
+    "exampleSentence": "Linguists trace the origin of the dialect to early Scandinavian settlers."
+  },
+  {
+    "id": "outbreak_1",
+    "word": "Outbreak",
+    "translation": "התפרצות (מחלה/מלחמה)",
+    "letter": "O",
+    "exampleSentence": "Health authorities contained the sudden outbreak of influenza."
+  },
+  {
+    "id": "outcome_1",
+    "word": "Outcome",
+    "translation": "תוצאה, פועל יוצא",
+    "letter": "O",
+    "exampleSentence": "The final election outcome was too close to call until all ballots were counted."
+  },
+  {
+    "id": "outlaw_1",
+    "word": "Outlaw",
+    "translation": "להוציא מחוץ לחוק ; פורע חוק",
+    "letter": "O",
+    "exampleSentence": "The legislature voted to outlaw the trade in endangered animal tusks."
+  },
+  {
+    "id": "outline_1",
+    "word": "Outline",
+    "translation": "לתאר בקווים כלליים ; מתווה",
+    "letter": "O",
+    "exampleSentence": "The director outlined the roadmap for the upcoming fiscal quarter."
+  },
+  {
+    "id": "overlook_1",
+    "word": "Overlook",
+    "translation": "להתעלם מ-, לפספס ; להשקיף על",
+    "letter": "O",
+    "exampleSentence": "The penthouse apartment overlooks the central city park."
+  },
+  {
+    "id": "plausible_1",
+    "word": "Plausible",
+    "translation": "מתקבל על הדעת, סביר",
+    "letter": "P",
+    "exampleSentence": "Her hypothesis offered a plausible explanation for the survey results."
+  },
+  {
+    "id": "pragmatic_1",
+    "word": "Pragmatic",
+    "translation": "מעשי, פרגמטי",
+    "letter": "P",
+    "exampleSentence": "We must adopt a pragmatic approach to solve this logistics dilemma."
+  },
+  {
+    "id": "prolific_1",
+    "word": "Prolific",
+    "translation": "פורה, שופע",
+    "letter": "P",
+    "exampleSentence": "The prolific author wrote over forty books during his lifetime."
+  },
+  {
+    "id": "paradigm_1",
+    "word": "Paradigm",
+    "translation": "פרדיגמה, דפוס, מודל",
+    "letter": "P",
+    "exampleSentence": "The introduction of quantum mechanics caused a profound paradigm shift."
+  },
+  {
+    "id": "parallel_1",
+    "word": "Parallel",
+    "translation": "מקביל ; קו דמיון",
+    "letter": "P",
+    "exampleSentence": "Historians drew fascinating parallels between the two ancient empires."
+  },
+  {
+    "id": "paramount_1",
+    "word": "Paramount",
+    "translation": "עליון, בעל חשיבות מכרעת",
+    "letter": "P",
+    "exampleSentence": "The passenger safety of flight operations is of paramount importance."
+  },
+  {
+    "id": "partial_1",
+    "word": "Partial",
+    "translation": "חלקי ; נוטה לטובת (משוחד)",
+    "letter": "P",
+    "exampleSentence": "The referee was criticized for being partial toward the host squad."
+  },
+  {
+    "id": "perceive_1",
+    "word": "Perceive",
+    "translation": "לתפוס, להבחין, לחוש",
+    "letter": "P",
+    "exampleSentence": "Humans perceive colors through specialized photoreceptors in the eye."
+  },
+  {
+    "id": "peril_1",
+    "word": "Peril",
+    "translation": "סכנה, סכנת נפשות",
+    "letter": "P",
+    "exampleSentence": "Explorers braved the perils of arctic blizzards to reach the North Pole."
+  },
+  {
+    "id": "permanent_1",
+    "word": "Permanent",
+    "translation": "קבוע, נצחי",
+    "letter": "P",
+    "exampleSentence": "She was overjoyed to receive a permanent full-time employment contract."
+  },
+  {
+    "id": "perpetuate_1",
+    "word": "Perpetuate",
+    "translation": "להנציח, לשמר לאורך זמן",
+    "letter": "P",
+    "exampleSentence": "Biased stereotypes in media only perpetuate harmful social prejudices."
+  },
+  {
+    "id": "persist_1",
+    "word": "Persist",
+    "translation": "להתמיד, להמשיך בעקשנות",
+    "letter": "P",
+    "exampleSentence": "If the symptoms persist for more than three days, see your physician."
+  },
+  {
+    "id": "perspective_1",
+    "word": "Perspective",
+    "translation": "נקודת מבט, השקפה",
+    "letter": "P",
+    "exampleSentence": "Traveling abroad gives young adults a broader global perspective."
+  },
+  {
+    "id": "pervasive_1",
+    "word": "Pervasive",
+    "translation": "מתפשט, חודר לכל מקום",
+    "letter": "P",
+    "exampleSentence": "The pervasive scent of roasted coffee filled every corner of the café."
+  },
+  {
+    "id": "pertain_1",
+    "word": "Pertain",
+    "translation": "להשתייך, להתייחס ל-, להיות נוגע",
+    "letter": "P",
+    "exampleSentence": "Please answer only questions that pertain directly to your department."
+  },
+  {
+    "id": "pioneer_1",
+    "word": "Pioneer",
+    "translation": "חלוץ ; לפרוץ דרך",
+    "letter": "P",
+    "exampleSentence": "Marie Curie was a pioneer in the study of natural radioactivity."
+  },
+  {
+    "id": "plight_1",
+    "word": "Plight",
+    "translation": "מצוקה, צרה, מצב קשה",
+    "letter": "P",
+    "exampleSentence": "The documentary drew international sympathy to the plight of refugees."
+  },
+  {
+    "id": "ponder_1",
+    "word": "Ponder",
+    "translation": "להרהר, לשקול היטב",
+    "letter": "P",
+    "exampleSentence": "He stepped outside to ponder the difficult choices that lay ahead."
+  },
+  {
+    "id": "potent_1",
+    "word": "Potent",
+    "translation": "חזק, רב עוצמה, משפיע",
+    "letter": "P",
+    "exampleSentence": "The antibiotic is a potent weapon against virulent bacterial strains."
+  },
+  {
+    "id": "potential_1",
+    "word": "Potential",
+    "translation": "פוטנציאל, יכולת גנוזה ; אפשרי",
+    "letter": "P",
+    "exampleSentence": "The young apprentice showed immense potential for craftsmanship."
+  },
+  {
+    "id": "precede_1",
+    "word": "Precede",
+    "translation": "להקדים, לבוא לפני",
+    "letter": "P",
+    "exampleSentence": "A brief welcoming reception will precede the main dinner banquet."
+  },
+  {
+    "id": "precedent_1",
+    "word": "Precedent",
+    "translation": "תקדים (משפטי/היסטורי)",
+    "letter": "P",
+    "exampleSentence": "The judge's ruling set a vital legal precedent for future copyright cases."
+  },
+  {
+    "id": "precise_1",
+    "word": "Precise",
+    "translation": "מדויק, מפורט",
+    "letter": "P",
+    "exampleSentence": "Laser surgery allows doctors to make precise micro-incisions."
+  },
+  {
+    "id": "preclude_1",
+    "word": "Preclude",
+    "translation": "למנוע מראש, לשלול אפשרות",
+    "letter": "P",
+    "exampleSentence": "Prior injuries precluded the athlete from competing in the triathlon."
+  },
+  {
+    "id": "predominant_1",
+    "word": "Predominant",
+    "translation": "שליט, בולט ביותר, רווח",
+    "letter": "P",
+    "exampleSentence": "Agriculture remains the predominant source of revenue in the province."
+  },
+  {
+    "id": "preliminary_1",
+    "word": "Preliminary",
+    "translation": "מקדמי, מכין",
+    "letter": "P",
+    "exampleSentence": "Preliminary findings suggest that the clinical trial is succeeding."
+  },
+  {
+    "id": "premise_1",
+    "word": "Premise",
+    "translation": "הנחת יסוד ; מתחם (premises)",
+    "letter": "P",
+    "exampleSentence": "The entire philosophical argument rests on a flawed initial premise."
+  },
+  {
+    "id": "prevalent_1",
+    "word": "Prevalent",
+    "translation": "נפוץ, רווח, שכיח",
+    "letter": "P",
+    "exampleSentence": "Vitamin D deficiency is prevalent in areas with limited winter sunlight."
+  },
+  {
+    "id": "prior_1",
+    "word": "Prior",
+    "translation": "קודם, קודם לכן",
+    "letter": "P",
+    "exampleSentence": "Candidates must have prior experience in managing digital marketing teams."
+  },
+  {
+    "id": "privilege_1",
+    "word": "Privilege",
+    "translation": "זכות יתר, פריבילגיה",
+    "letter": "P",
+    "exampleSentence": "Having access to quality medical care should be a right, not a privilege."
+  },
+  {
+    "id": "quaint_1",
+    "word": "Quaint",
+    "translation": "ציורי, מיוחד, בעל חן ישן",
+    "letter": "Q",
+    "exampleSentence": "The tourists enjoyed walking through the quaint fishing village."
+  },
+  {
+    "id": "quench_1",
+    "word": "Quench",
+    "translation": "להרוות ; לכבות (אש)",
+    "letter": "Q",
+    "exampleSentence": "Cold lemonade helped quench our thirst on the hot summer afternoon."
+  },
+  {
+    "id": "query_1",
+    "word": "Query",
+    "translation": "שאלה, שאילתה, ספק",
+    "letter": "Q",
+    "exampleSentence": "If you have any query regarding your bill, contact support."
+  },
+  {
+    "id": "qualify_1",
+    "word": "Qualify",
+    "translation": "להכשיר, להסמיך ; לסייג",
+    "letter": "Q",
+    "exampleSentence": "She had to qualify her praise by noting several minor shortcomings."
+  },
+  {
+    "id": "qualitative_1",
+    "word": "Qualitative",
+    "translation": "איכותני",
+    "letter": "Q",
+    "exampleSentence": "The survey gathered qualitative feedback through in-depth user interviews."
+  },
+  {
+    "id": "quandary_1",
+    "word": "Quandary",
+    "translation": "דילמה, התלבטות קשה, מבוך",
+    "letter": "Q",
+    "exampleSentence": "He was in a quandary about whether to accept the foreign assignment."
+  },
+  {
+    "id": "quantitative_1",
+    "word": "Quantitative",
+    "translation": "כמותי",
+    "letter": "Q",
+    "exampleSentence": "The study relied on quantitative statistics gathered from national censuses."
+  },
+  {
+    "id": "quarantine_1",
+    "word": "Quarantine",
+    "translation": "הסגר, בידוד רפואי ; להסגיר",
+    "letter": "Q",
+    "exampleSentence": "Infected livestock were placed under strict veterinary quarantine."
+  },
+  {
+    "id": "quarrel_1",
+    "word": "Quarrel",
+    "translation": "לריב, להתווכח ; מריבה",
+    "letter": "Q",
+    "exampleSentence": "They managed to settle their quarrel without breaking their friendship."
+  },
+  {
+    "id": "quell_1",
+    "word": "Quell",
+    "translation": "להשקיט, לדכא, להרגיע",
+    "letter": "Q",
+    "exampleSentence": "The president made a televised address to quell rising public unrest."
+  },
+  {
+    "id": "quest_1",
+    "word": "Quest",
+    "translation": "חיפוש, מסע חיפוש, מסע",
+    "letter": "Q",
+    "exampleSentence": "The knight embarked on a dangerous quest to find the ancient relic."
+  },
+  {
+    "id": "questionable_1",
+    "word": "Questionable",
+    "translation": "מוטל בספק, מפוקפק",
+    "letter": "Q",
+    "exampleSentence": "His business transactions relied on highly questionable accounting practices."
+  },
+  {
+    "id": "quip_1",
+    "word": "Quip",
+    "translation": "עקיצה שנונה, הלצה חדה",
+    "letter": "Q",
+    "exampleSentence": "He dismissed the criticism with an amusing, self-deprecating quip."
+  },
+  {
+    "id": "quota_1",
+    "word": "Quota",
+    "translation": "מכסה, קווטה",
+    "letter": "Q",
+    "exampleSentence": "Fishermen must adhere to the annual catch quota to protect salmon."
+  },
+  {
+    "id": "quotation_1",
+    "word": "Quotation",
+    "translation": "ציטוט, מובאה ; הצעת מחיר",
+    "letter": "Q",
+    "exampleSentence": "The essay opened with an inspiring quotation from Shakespeare."
+  },
+  {
+    "id": "quote_1",
+    "word": "Quote",
+    "translation": "לצטט ; ציטוט",
+    "letter": "Q",
+    "exampleSentence": "You must quote your sources accurately in the bibliography."
+  },
+  {
+    "id": "quick_witted_1",
+    "word": "Quick-witted",
+    "translation": "שנון, מהיר תפיסה",
+    "letter": "Q",
+    "exampleSentence": "Her quick-witted responses in the debate won praise from the media."
+  },
+  {
+    "id": "quenchless_1",
+    "word": "Quenchless",
+    "translation": "שאינו יודע שובע, בלתי נדלה",
+    "letter": "Q",
+    "exampleSentence": "She had a quenchless thirst for discovering new philosophical knowledge."
+  },
+  {
+    "id": "quirk_1",
+    "word": "Quirk",
+    "translation": "מוזרות, שיגיון קל, הרגל משונה",
+    "letter": "Q",
+    "exampleSentence": "One of his charming quirks was collecting vintage postal stamps."
+  },
+  {
+    "id": "quietly_1",
+    "word": "Quietly",
+    "translation": "בשקט, בחשאי, בדממה",
+    "letter": "Q",
+    "exampleSentence": "She slipped quietly into the lecture hall without disturbing anyone."
+  },
+  {
+    "id": "quiver_1",
+    "word": "Quiver",
+    "translation": "לרטוט, לרעוד ; אשפת חצים",
+    "letter": "Q",
+    "exampleSentence": "Leaves quivered in the gentle breeze as autumn approached."
+  },
+  {
+    "id": "quorum_1",
+    "word": "Quorum",
+    "translation": "מניין חוקי (לקבלת החלטות)",
+    "letter": "Q",
+    "exampleSentence": "The committee could not vote because they lacked a legal quorum."
+  },
+  {
+    "id": "quintessential_1",
+    "word": "Quintessential",
+    "translation": "תמציתי, מייצג מובהק",
+    "letter": "Q",
+    "exampleSentence": "Afternoon tea is considered the quintessential British tradition."
+  },
+  {
+    "id": "quizzical_1",
+    "word": "Quizzical",
+    "translation": "שואל, מתמיה, פקפקני",
+    "letter": "Q",
+    "exampleSentence": "She gave him a quizzical look when he announced his sudden departure."
+  },
+  {
+    "id": "queue_1",
+    "word": "Queue",
+    "translation": "תור (המתנה) ; להמתין בתור",
+    "letter": "Q",
+    "exampleSentence": "Concertgoers formed a long queue outside the arena ticket booths."
+  },
+  {
+    "id": "quaintness_1",
+    "word": "Quaintness",
+    "translation": "קסם ישן, ציוריות",
+    "letter": "Q",
+    "exampleSentence": "The old cottage retained its rustic quaintness despite modern repairs."
+  },
+  {
+    "id": "quicken_1",
+    "word": "Quicken",
+    "translation": "להאיץ, להחיש",
+    "letter": "Q",
+    "exampleSentence": "His heart began to quicken as the finish line came into sight."
+  },
+  {
+    "id": "quiescent_1",
+    "word": "Quiescent",
+    "translation": "שקט, רגוע, רדום",
+    "letter": "Q",
+    "exampleSentence": "The volcano has remained quiescent for more than two centuries."
+  },
+  {
+    "id": "quixotic_1",
+    "word": "Quixotic",
+    "translation": "דון-קישוטי, נאיבי, אידיאליסטי ללא תוחלת",
+    "letter": "Q",
+    "exampleSentence": "His quixotic campaign against modern technology was ultimately futile."
+  },
+  {
+    "id": "quit_1",
+    "word": "Quit",
+    "translation": "לעזוב, להתפטר, להפסיק",
+    "letter": "Q",
+    "exampleSentence": "He decided to quit his corporate job to open a neighborhood bookstore."
+  },
+  {
+    "id": "reluctant_1",
+    "word": "Reluctant",
+    "translation": "מסויג, לא שש, שאינו רוצה",
+    "letter": "R",
+    "exampleSentence": "He was reluctant to commit to the project without further details."
+  },
+  {
+    "id": "resilient_1",
+    "word": "Resilient",
+    "translation": "בעל כושר התאוששות, עמיד",
+    "letter": "R",
+    "exampleSentence": "Local communities proved remarkably resilient after the storm."
+  },
+  {
+    "id": "retrospect_1",
+    "word": "Retrospect",
+    "translation": "במבט לאחור, בדיעבד",
+    "letter": "R",
+    "exampleSentence": "In retrospect, we should have made the system backup earlier."
+  },
+  {
+    "id": "radiant_1",
+    "word": "Radiant",
+    "translation": "קורן, זוהר, מזהיר",
+    "letter": "R",
+    "exampleSentence": "The bride looked radiant as she walked down the church aisle."
+  },
+  {
+    "id": "radical_1",
+    "word": "Radical",
+    "translation": "רדיקלי, קיצוני, יסודי",
+    "letter": "R",
+    "exampleSentence": "The hospital introduced radical changes to reduce patient wait times."
+  },
+  {
+    "id": "random_1",
+    "word": "Random",
+    "translation": "אקראי, מקרי",
+    "letter": "R",
+    "exampleSentence": "Participants were assigned to survey groups through random selection."
+  },
+  {
+    "id": "ratify_1",
+    "word": "Ratify",
+    "translation": "לאשרר (אמנה/הסכם)",
+    "letter": "R",
+    "exampleSentence": "The Senate convened to ratify the bilateral trade agreement."
+  },
+  {
+    "id": "rationale_1",
+    "word": "Rationale",
+    "translation": "היגיון, רציונל, נימוק",
+    "letter": "R",
+    "exampleSentence": "The director presented the financial rationale behind the restructuring."
+  },
+  {
+    "id": "ravage_1",
+    "word": "Ravage",
+    "translation": "להרוס, להשחית, לחולל שמות",
+    "letter": "R",
+    "exampleSentence": "The wildfire ravaged thousands of acres of pristine pine forest."
+  },
+  {
+    "id": "realm_1",
+    "word": "Realm",
+    "translation": "ממלכה, תחום, עולם",
+    "letter": "R",
+    "exampleSentence": "Artificial intelligence has opened new horizons in the realm of medicine."
+  },
+  {
+    "id": "reassure_1",
+    "word": "Reassure",
+    "translation": "להרגיע, להפיג חששות",
+    "letter": "R",
+    "exampleSentence": "The pilot spoke over the intercom to reassure passengers during turbulence."
+  },
+  {
+    "id": "rebel_1",
+    "word": "Rebel",
+    "translation": "למרוד ; מורד",
+    "letter": "R",
+    "exampleSentence": "Teenagers sometimes rebel against parental expectations to find identity."
+  },
+  {
+    "id": "recede_1",
+    "word": "Recede",
+    "translation": "לסגת, להתרחק, לסגת לאחור",
+    "letter": "R",
+    "exampleSentence": "Flood waters gradually began to recede after days of dry weather."
+  },
+  {
+    "id": "reciprocal_1",
+    "word": "Reciprocal",
+    "translation": "הדדי, שמתקיים בשני הכיוונים",
+    "letter": "R",
+    "exampleSentence": "Trade between the two nations is governed by reciprocal tariff waivers."
+  },
+  {
+    "id": "reconcile_1",
+    "word": "Reconcile",
+    "translation": "לפייס, ליישב (סכסוך/סתירה)",
+    "letter": "R",
+    "exampleSentence": "It took long diplomacy to reconcile the two estranged families."
+  },
+  {
+    "id": "recurrent_1",
+    "word": "Recurrent",
+    "translation": "חוזר ונשנה, נשנה",
+    "letter": "R",
+    "exampleSentence": "He sought medical advice for recurrent headaches in the mornings."
+  },
+  {
+    "id": "refine_1",
+    "word": "Refine",
+    "translation": "לזקק, ללטש, לשפר",
+    "letter": "R",
+    "exampleSentence": "The author spent months refining the final chapters of the manuscript."
+  },
+  {
+    "id": "refute_1",
+    "word": "Refute",
+    "translation": "להפריך, לסתור ראיות",
+    "letter": "R",
+    "exampleSentence": "New astronomical observations refuted the outdated geocentric model."
+  },
+  {
+    "id": "regard_1",
+    "word": "Regard",
+    "translation": "להחשיב, להתייחס ; כבוד",
+    "letter": "R",
+    "exampleSentence": "Colleagues hold her in high regard due to her scientific honesty."
+  },
+  {
+    "id": "regulate_1",
+    "word": "Regulate",
+    "translation": "להסדיר, לווסת, לפקח",
+    "letter": "R",
+    "exampleSentence": "Thermostats regulate home temperatures automatically day and night."
+  },
+  {
+    "id": "reinforce_1",
+    "word": "Reinforce",
+    "translation": "לחזק, לתגבר",
+    "letter": "R",
+    "exampleSentence": "Engineers added steel beams to reinforce the aging bridge support pillars."
+  },
+  {
+    "id": "relentless_1",
+    "word": "Relentless",
+    "translation": "חסר רחמים, בלתי פוסק",
+    "letter": "R",
+    "exampleSentence": "The athletes endured relentless training in preparation for the marathon."
+  },
+  {
+    "id": "relevant_1",
+    "word": "Relevant",
+    "translation": "רלוונטי, שייך לעניין",
+    "letter": "R",
+    "exampleSentence": "Please attach all relevant receipts when submitting your expense report."
+  },
+  {
+    "id": "relieve_1",
+    "word": "Relieve",
+    "translation": "להקל, להרגיע ; לפטור מחובה",
+    "letter": "R",
+    "exampleSentence": "Taking deep breaths can help relieve stress before a major exam."
+  },
+  {
+    "id": "relinquish_1",
+    "word": "Relinquish",
+    "translation": "לוותר על, למסור, לנטוש",
+    "letter": "R",
+    "exampleSentence": "Under immense public pressure, the CEO agreed to relinquish his position."
+  },
+  {
+    "id": "remedy_1",
+    "word": "Remedy",
+    "translation": "תרופה, מרפא, פתרון לבעיה",
+    "letter": "R",
+    "exampleSentence": "Drinking ginger tea with honey is a time-tested home remedy for sore throats."
+  },
+  {
+    "id": "remnant_1",
+    "word": "Remnant",
+    "translation": "שריד, שארית",
+    "letter": "R",
+    "exampleSentence": "The museum showcases the preserved remnants of a Roman aqueduct."
+  },
+  {
+    "id": "renowned_1",
+    "word": "Renowned",
+    "translation": "מפורסם, בעל שם עולמי",
+    "letter": "R",
+    "exampleSentence": "The hospital invited a renowned neurosurgeon to advise on the case."
+  },
+  {
+    "id": "repeal_1",
+    "word": "Repeal",
+    "translation": "לבטל רשמית (חוק/צו)",
+    "letter": "R",
+    "exampleSentence": "Citizens gathered in protest demanding lawmakers repeal the censorship act."
+  },
+  {
+    "id": "repress_1",
+    "word": "Repress",
+    "translation": "לדכא (מרגש/התקוממות), לכבוש",
+    "letter": "R",
+    "exampleSentence": "She struggled to repress her laughter during the solemn award ceremony."
+  },
+  {
+    "id": "scrutinize_1",
+    "word": "Scrutinize",
+    "translation": "לבחון בקפידה, לבדוק היטב",
+    "letter": "S",
+    "exampleSentence": "Auditors arrived to scrutinize the company's financial ledgers."
+  },
+  {
+    "id": "substantial_1",
+    "word": "Substantial",
+    "translation": "ניכר, משמעותי, מוצק",
+    "letter": "S",
+    "exampleSentence": "The new contract resulted in a substantial increase in profit."
+  },
+  {
+    "id": "subtle_1",
+    "word": "Subtle",
+    "translation": "מעודן, דק, שנון",
+    "letter": "S",
+    "exampleSentence": "There was a subtle difference in tone between the two letters."
+  },
+  {
+    "id": "safeguard_1",
+    "word": "Safeguard",
+    "translation": "להגן, לאבטח ; אמצעי הגנה",
+    "letter": "S",
+    "exampleSentence": "Strict firewalls safeguard sensitive customer database records."
+  },
+  {
+    "id": "sanction_1",
+    "word": "Sanction",
+    "translation": "עיצום, סנקציה ; לאשר",
+    "letter": "S",
+    "exampleSentence": "The international council voted to impose trade sanctions on the regime."
+  },
+  {
+    "id": "scarce_1",
+    "word": "Scarce",
+    "translation": "נדיר, מועט, בצמצום",
+    "letter": "S",
+    "exampleSentence": "Fresh drinking water became scarce following the severe drought."
+  },
+  {
+    "id": "scent_1",
+    "word": "Scent",
+    "translation": "ניחוח, ריח נעים ; שביל ריח",
+    "letter": "S",
+    "exampleSentence": "The fragrant scent of blooming jasmine drifted through the garden."
+  },
+  {
+    "id": "scope_1",
+    "word": "Scope",
+    "translation": "היקף, טווח, תחום",
+    "letter": "S",
+    "exampleSentence": "The audit expanded its scope to include international subsidiaries."
+  },
+  {
+    "id": "scorn_1",
+    "word": "Scorn",
+    "translation": "לבוז, ללעוג ; בוז",
+    "letter": "S",
+    "exampleSentence": "The critic treated shallow blockbuster movies with open scorn."
+  },
+  {
+    "id": "secular_1",
+    "word": "Secular",
+    "translation": "חילוני, שאינו דתי",
+    "letter": "S",
+    "exampleSentence": "Public education in the republic is based entirely on secular principles."
+  },
+  {
+    "id": "segregate_1",
+    "word": "Segregate",
+    "translation": "להפריד, לבודד, להפלות",
+    "letter": "S",
+    "exampleSentence": "Civil rights leaders fought brave battles to desegregate public buses."
+  },
+  {
+    "id": "sensation_1",
+    "word": "Sensation",
+    "translation": "תחושה ; סנסציה, התרגשות",
+    "letter": "S",
+    "exampleSentence": "The young pianist became an overnight sensation across Europe."
+  },
+  {
+    "id": "sentiment_1",
+    "word": "Sentiment",
+    "translation": "רגש, דעה, הלך רוח",
+    "letter": "S",
+    "exampleSentence": "Consumer sentiment improved significantly after inflation subsided."
+  },
+  {
+    "id": "serene_1",
+    "word": "Serene",
+    "translation": "שליו, רגוע, רוגע",
+    "letter": "S",
+    "exampleSentence": "Early mornings by the alpine lake were remarkably quiet and serene."
+  },
+  {
+    "id": "severe_1",
+    "word": "Severe",
+    "translation": "חמור, קשה, נוקשה",
+    "letter": "S",
+    "exampleSentence": "The region endured a severe winter freeze that damaged citrus groves."
+  },
+  {
+    "id": "shallow_1",
+    "word": "Shallow",
+    "translation": "רדוד, שטחי",
+    "letter": "S",
+    "exampleSentence": "Young children safely waded in the shallow waters of the bay."
+  },
+  {
+    "id": "shift_1",
+    "word": "Shift",
+    "translation": "להזיז, לשנות ; משמרת",
+    "letter": "S",
+    "exampleSentence": "There has been a cultural shift toward remote and hybrid work."
+  },
+  {
+    "id": "shrewd_1",
+    "word": "Shrewd",
+    "translation": "פיקח, ממולח, חד תפיסה",
+    "letter": "S",
+    "exampleSentence": "A shrewd real estate investor buys undervalued properties in developing hubs."
+  },
+  {
+    "id": "significant_1",
+    "word": "Significant",
+    "translation": "משמעותי, ניכר, בעל חשיבות",
+    "letter": "S",
+    "exampleSentence": "The drug trial demonstrated a significant reduction in blood pressure."
+  },
+  {
+    "id": "simultaneous_1",
+    "word": "Simultaneous",
+    "translation": "בו-זמני, מקביל",
+    "letter": "S",
+    "exampleSentence": "The translators provided simultaneous interpretation during the summit."
+  },
+  {
+    "id": "skeptical_1",
+    "word": "Skeptical",
+    "translation": "ספקן, מפקפק",
+    "letter": "S",
+    "exampleSentence": "Scientists remained skeptical of claims until peer review verified them."
+  },
+  {
+    "id": "soar_1",
+    "word": "Soar",
+    "translation": "להמריא, להרקיע שחקים",
+    "letter": "S",
+    "exampleSentence": "Housing costs soared rapidly due to high demand and low supply."
+  },
+  {
+    "id": "solitary_1",
+    "word": "Solitary",
+    "translation": "בודד, יחיד, מתבודד",
+    "letter": "S",
+    "exampleSentence": "The solitary lighthouse keeper watched the stormy ocean day and night."
+  },
+  {
+    "id": "sophisticated_1",
+    "word": "Sophisticated",
+    "translation": "מתוחכם, משוכלל, מורכב",
+    "letter": "S",
+    "exampleSentence": "Modern aircraft employ highly sophisticated automated navigation systems."
+  },
+  {
+    "id": "sovereign_1",
+    "word": "Sovereign",
+    "translation": "ריבוני, עצמאי ; שליט",
+    "letter": "S",
+    "exampleSentence": "Every sovereign state has the legal right to govern its domestic territory."
+  },
+  {
+    "id": "speculate_1",
+    "word": "Speculate",
+    "translation": "לשער, להעלות ספקולציות",
+    "letter": "S",
+    "exampleSentence": "Analysts can only speculate on what the central bank's next interest move will be."
+  },
+  {
+    "id": "spontaneous_1",
+    "word": "Spontaneous",
+    "translation": "ספונטני, מעצמו",
+    "letter": "S",
+    "exampleSentence": "The crowd broke into spontaneous applause as the concert finished."
+  },
+  {
+    "id": "sporadic_1",
+    "word": "Sporadic",
+    "translation": "ספורדי, לא סדיר, פזור",
+    "letter": "S",
+    "exampleSentence": "There were sporadic showers throughout the afternoon across the city."
+  },
+  {
+    "id": "stagnant_1",
+    "word": "Stagnant",
+    "translation": "עומד, עכור, קפוא (כלכלה)",
+    "letter": "S",
+    "exampleSentence": "Stagnant pools of warm water attract mosquito breeding."
+  },
+  {
+    "id": "stimulate_1",
+    "word": "Stimulate",
+    "translation": "לעורר, להמריץ, לגרות",
+    "letter": "S",
+    "exampleSentence": "Lower interest rates are often implemented to stimulate economic activity."
+  },
+  {
+    "id": "tedious_1",
+    "word": "Tedious",
+    "translation": "מייגע, משעמם, טרחני",
+    "letter": "T",
+    "exampleSentence": "Manual data entry can be a tedious and repetitive chore."
+  },
+  {
+    "id": "tentative_1",
+    "word": "Tentative",
+    "translation": "ניסיוני, זמני, לא סופי",
+    "letter": "T",
+    "exampleSentence": "We reached a tentative agreement pending board approval."
+  },
+  {
+    "id": "thrive_1",
+    "word": "Thrive",
+    "translation": "לשגשג, להצליח",
+    "letter": "T",
+    "exampleSentence": "Small businesses thrive when local consumers support them."
+  },
+  {
+    "id": "tangible_1",
+    "word": "Tangible",
+    "translation": "מוחשי, מוחשי למגע, ברור",
+    "letter": "T",
+    "exampleSentence": "The reforms brought tangible improvements to public school classrooms."
+  },
+  {
+    "id": "tariff_1",
+    "word": "Tariff",
+    "translation": "מכס, תעריף",
+    "letter": "T",
+    "exampleSentence": "The trade dispute resulted in steep tariffs on imported electronics."
+  },
+  {
+    "id": "temperament_1",
+    "word": "Temperament",
+    "translation": "מזג, אופי, טמפרמנט",
+    "letter": "T",
+    "exampleSentence": "Her calm temperament made her an ideal emergency dispatcher."
+  },
+  {
+    "id": "temporary_1",
+    "word": "Temporary",
+    "translation": "זמני, ארעי",
+    "letter": "T",
+    "exampleSentence": "The flood displaced families to temporary community shelters."
+  },
+  {
+    "id": "terminate_1",
+    "word": "Terminate",
+    "translation": "לסיים, להביא לקץ",
+    "letter": "T",
+    "exampleSentence": "Management decided to terminate the software contract early."
+  },
+  {
+    "id": "terrain_1",
+    "word": "Terrain",
+    "translation": "שטח, תנאי קרקע",
+    "letter": "T",
+    "exampleSentence": "The rugged mountain terrain was difficult for rescue vehicles to traverse."
+  },
+  {
+    "id": "thorough_1",
+    "word": "Thorough",
+    "translation": "יסודי, מקיף, מעמיק",
+    "letter": "T",
+    "exampleSentence": "Auditors performed a thorough inspection of the financial records."
+  },
+  {
+    "id": "threshold_1",
+    "word": "Threshold",
+    "translation": "סף, מפתן",
+    "letter": "T",
+    "exampleSentence": "Human hearing has a specific sensory threshold for faint acoustic sounds."
+  },
+  {
+    "id": "thrifty_1",
+    "word": "Thrifty",
+    "translation": "חסכוני, שקול בהוצאות",
+    "letter": "T",
+    "exampleSentence": "Her thrifty shopping habits allowed her to save money for travel."
+  },
+  {
+    "id": "tolerance_1",
+    "word": "Tolerance",
+    "translation": "סובלנות ; כושר עמידה",
+    "letter": "T",
+    "exampleSentence": "Promoting cultural tolerance is essential in diverse metropolitan areas."
+  },
+  {
+    "id": "toxic_1",
+    "word": "Toxic",
+    "translation": "רעיל, מזיק",
+    "letter": "T",
+    "exampleSentence": "The factory was closed for dumping toxic effluents into the local creek."
+  },
+  {
+    "id": "tract_1",
+    "word": "Tract",
+    "translation": "חלקת אדמה ; דרכי הגוף (מערכת)",
+    "letter": "T",
+    "exampleSentence": "A vast tract of fertile land was designated for wheat cultivation."
+  },
+  {
+    "id": "trait_1",
+    "word": "Trait",
+    "translation": "תכונה, מאפיין",
+    "letter": "T",
+    "exampleSentence": "Resilience in the face of setbacks is an admirable leadership trait."
+  },
+  {
+    "id": "tranquil_1",
+    "word": "Tranquil",
+    "translation": "שקט, רגוע, שליו",
+    "letter": "T",
+    "exampleSentence": "The Japanese zen garden provided a tranquil sanctuary from the noisy city."
+  },
+  {
+    "id": "transform_1",
+    "word": "Transform",
+    "translation": "להתמיר, לשנות לחלוטין",
+    "letter": "T",
+    "exampleSentence": "High-speed rail transformed travel times between the two provinces."
+  },
+  {
+    "id": "transient_1",
+    "word": "Transient",
+    "translation": "חולף, זמני, ארעי",
+    "letter": "T",
+    "exampleSentence": "The feelings of disappointment were transient and soon replaced by optimism."
+  },
+  {
+    "id": "transition_1",
+    "word": "Transition",
+    "translation": "מעבר (מתקופה/מצב)",
+    "letter": "T",
+    "exampleSentence": "The peaceful transition of power is the backbone of democratic societies."
+  },
+  {
+    "id": "transmit_1",
+    "word": "Transmit",
+    "translation": "לשדר, להעביר, להדביק",
+    "letter": "T",
+    "exampleSentence": "Radio antennas transmit emergency broadcast warnings to the whole region."
+  },
+  {
+    "id": "transparent_1",
+    "word": "Transparent",
+    "translation": "שקוף, גלוי, צלול",
+    "letter": "T",
+    "exampleSentence": "Government agencies must maintain transparent decision-making processes."
+  },
+  {
+    "id": "trauma_1",
+    "word": "Trauma",
+    "translation": "טראומה, פגיעה פיזית/נפשית",
+    "letter": "T",
+    "exampleSentence": "Counselors provided therapy to help survivors cope with emotional trauma."
+  },
+  {
+    "id": "tremendous_1",
+    "word": "Tremendous",
+    "translation": "עצום, אדיר, מדהים",
+    "letter": "T",
+    "exampleSentence": "The community showed tremendous generosity during the annual charity drive."
+  },
+  {
+    "id": "trigger_1",
+    "word": "Trigger",
+    "translation": "לעורר, להצית ; הדק",
+    "letter": "T",
+    "exampleSentence": "Pollen can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "id": "trivial_1",
+    "word": "Trivial",
+    "translation": "טריוויאלי, שולי, חסר חשיבות",
+    "letter": "T",
+    "exampleSentence": "Do not waste valuable study time arguing over trivial technical details."
+  },
+  {
+    "id": "turbulence_1",
+    "word": "Turbulence",
+    "translation": "מערבולת, אי-שקט, טלטלה",
+    "letter": "T",
+    "exampleSentence": "The plane experienced moderate atmospheric turbulence over the Rockies."
+  },
+  {
+    "id": "tycoon_1",
+    "word": "Tycoon",
+    "translation": "איל הון, טייקון",
+    "letter": "T",
+    "exampleSentence": "The shipping tycoon bequeathed his art collection to the city museum."
+  },
+  {
+    "id": "typical_1",
+    "word": "Typical",
+    "translation": "טיפוסי, אופייני",
+    "letter": "T",
+    "exampleSentence": "On a typical weekday, the central library is packed with university students."
+  },
+  {
+    "id": "tyranny_1",
+    "word": "Tyranny",
+    "translation": "עריצות, שלטון רודני",
+    "letter": "T",
+    "exampleSentence": "Rebels took up arms to overthrow the hated military tyranny."
+  },
+  {
+    "id": "ubiquitous_1",
+    "word": "Ubiquitous",
+    "translation": "נמצא בכל מקום בו זמנית",
+    "letter": "U",
+    "exampleSentence": "Smartphones have become ubiquitous across all age groups."
+  },
+  {
+    "id": "unanimous_1",
+    "word": "Unanimous",
+    "translation": "פה אחד, תמימי דעים",
+    "letter": "U",
+    "exampleSentence": "The committee reached a unanimous verdict in favor of the claimant."
+  },
+  {
+    "id": "utter_1",
+    "word": "Utter",
+    "translation": "מוחלט, גמור ; להגות, לבטא",
+    "letter": "U",
+    "exampleSentence": "The unexpected storm caused utter chaos at the airport."
+  },
+  {
+    "id": "ultimate_1",
+    "word": "Ultimate",
+    "translation": "אולטימטיבי, סופי, מרבי",
+    "letter": "U",
+    "exampleSentence": "Her ultimate objective is to establish an international animal sanctuary."
+  },
+  {
+    "id": "unbiased_1",
+    "word": "Unbiased",
+    "translation": "בלתי משוחד, אובייקטיבי, הוגן",
+    "letter": "U",
+    "exampleSentence": "An independent inquiry was launched to ensure an unbiased assessment."
+  },
+  {
+    "id": "underestimate_1",
+    "word": "Underestimate",
+    "translation": "להמעיט בערכו של, להערכת חסר",
+    "letter": "U",
+    "exampleSentence": "Never underestimate the determination of a small, dedicated group."
+  },
+  {
+    "id": "undergo_1",
+    "word": "Undergo",
+    "translation": "לעבור (ניתוח/חוויה), להתנסות ב-",
+    "letter": "U",
+    "exampleSentence": "Athletes must undergo routine cardiovascular screening each season."
+  },
+  {
+    "id": "underlie_1",
+    "word": "Underlie",
+    "translation": "לעמוד ביסודו של, להוות תשתית",
+    "letter": "U",
+    "exampleSentence": "Economic inequality underlies many of the ongoing social tensions."
+  },
+  {
+    "id": "undermine_1",
+    "word": "Undermine",
+    "translation": "לחתור תחת, לערער",
+    "letter": "U",
+    "exampleSentence": "Spreading false rumors will undermine public trust in health agencies."
+  },
+  {
+    "id": "undertake_1",
+    "word": "Undertake",
+    "translation": "לקחת על עצמו, להתחייב לבצע",
+    "letter": "U",
+    "exampleSentence": "The architectural firm agreed to undertake the library renovation."
+  },
+  {
+    "id": "uniform_1",
+    "word": "Uniform",
+    "translation": "אחיד, קבוע ; מדים",
+    "letter": "U",
+    "exampleSentence": "The recipe produces cookies of uniform size and golden color."
+  },
+  {
+    "id": "unify_1",
+    "word": "Unify",
+    "translation": "לאחד, לגבש",
+    "letter": "U",
+    "exampleSentence": "The leader gave an impassioned speech aimed at unifying the divided party."
+  },
+  {
+    "id": "unique_1",
+    "word": "Unique",
+    "translation": "ייחודי, יחיד במינו",
+    "letter": "U",
+    "exampleSentence": "Each snowflake forms an intricate and completely unique crystal pattern."
+  },
+  {
+    "id": "universal_1",
+    "word": "Universal",
+    "translation": "אוניברסלי, כללי, עולמי",
+    "letter": "U",
+    "exampleSentence": "Music is often described as a universal language that transcends borders."
+  },
+  {
+    "id": "unprecedented_1",
+    "word": "Unprecedented",
+    "translation": "חסר תקדים, שלא היה כמותו",
+    "letter": "U",
+    "exampleSentence": "The heatwave brought unprecedented temperature spikes across the continent."
+  },
+  {
+    "id": "unravel_1",
+    "word": "Unravel",
+    "translation": "להתיר, לפענח ; להיפרם",
+    "letter": "U",
+    "exampleSentence": "Detectives worked tirelessly to unravel the mystery behind the burglary."
+  },
+  {
+    "id": "uphold_1",
+    "word": "Uphold",
+    "translation": "לתמוך ב-, לאשרר (פסק דין)",
+    "letter": "U",
+    "exampleSentence": "Judges take an oath to uphold the principles of the constitution."
+  },
+  {
+    "id": "urgent_1",
+    "word": "Urgent",
+    "translation": "דחוף, בהול",
+    "letter": "U",
+    "exampleSentence": "The hospital issued an urgent public appeal for rare blood donations."
+  },
+  {
+    "id": "utilize_1",
+    "word": "Utilize",
+    "translation": "לנצל, להשתמש ביעילות",
+    "letter": "U",
+    "exampleSentence": "Engineers utilize solar panels to generate green electricity on rooftops."
+  },
+  {
+    "id": "utterly_1",
+    "word": "Utterly",
+    "translation": "לחלוטין, לגמרי",
+    "letter": "U",
+    "exampleSentence": "She was utterly exhausted after running forty-two kilometers in the marathon."
+  },
+  {
+    "id": "uncanny_1",
+    "word": "Uncanny",
+    "translation": "מוזר, מסתורי, על-טבעי",
+    "letter": "U",
+    "exampleSentence": "He bore an uncanny resemblance to his great-grandfather at the same age."
+  },
+  {
+    "id": "underlying_1",
+    "word": "Underlying",
+    "translation": "בסיסי, יסודי, טמון מתחת",
+    "letter": "U",
+    "exampleSentence": "Stress was determined to be the underlying cause of his physical illness."
+  },
+  {
+    "id": "underscore_1",
+    "word": "Underscore",
+    "translation": "להדגיש, להבליט, למתוח קו",
+    "letter": "U",
+    "exampleSentence": "The recent blackout underscores the vulnerability of the national grid."
+  },
+  {
+    "id": "uneasy_1",
+    "word": "Uneasy",
+    "translation": "חרד, מוטרד, לא שקט",
+    "letter": "U",
+    "exampleSentence": "An uneasy silence fell over the conference hall after the announcement."
+  },
+  {
+    "id": "unilateral_1",
+    "word": "Unilateral",
+    "translation": "חד-צדדי",
+    "letter": "U",
+    "exampleSentence": "The military took unilateral action without consulting international allies."
+  },
+  {
+    "id": "upbeat_1",
+    "word": "Upbeat",
+    "translation": "אופטימי, עליז",
+    "letter": "U",
+    "exampleSentence": "Despite setbacks, the team maintained an upbeat and optimistic attitude."
+  },
+  {
+    "id": "uprising_1",
+    "word": "Uprising",
+    "translation": "התקוממות, מרד",
+    "letter": "U",
+    "exampleSentence": "Citizens organized an armed uprising against the oppressive dictatorship."
+  },
+  {
+    "id": "upright_1",
+    "word": "Upright",
+    "translation": "זקוף ; ישר דרך, הגון",
+    "letter": "U",
+    "exampleSentence": "He was widely respected as an upright citizen and dedicated father."
+  },
+  {
+    "id": "usurp_1",
+    "word": "Usurp",
+    "translation": "לנשל, לתפוס שלטון בכוח",
+    "letter": "U",
+    "exampleSentence": "The ambitious general conspired to usurp power from the aging monarch."
+  },
+  {
+    "id": "utopia_1",
+    "word": "Utopia",
+    "translation": "אוטופיה, חברה אידיאלית",
+    "letter": "U",
+    "exampleSentence": "The philosopher wrote a treatise describing a harmonious communal utopia."
+  },
+  {
+    "id": "vague_1",
+    "word": "Vague",
+    "translation": "מעורפל, עמום, לא ברור",
+    "letter": "V",
+    "exampleSentence": "The instructions were too vague for anyone to follow accurately."
+  },
+  {
+    "id": "versatile_1",
+    "word": "Versatile",
+    "translation": "רב-גוני, רב-שימושי",
+    "letter": "V",
+    "exampleSentence": "Eggs are an extraordinarily versatile ingredient in cooking."
+  },
+  {
+    "id": "vulnerable_1",
+    "word": "Vulnerable",
+    "translation": "פגיע, רגיש",
+    "letter": "V",
+    "exampleSentence": "Unpatched operating systems remain vulnerable to cyber attacks."
+  },
+  {
+    "id": "vacant_1",
+    "word": "Vacant",
+    "translation": "פנוי, ריק",
+    "letter": "V",
+    "exampleSentence": "The hotel had several vacant rooms during the off-peak tourist season."
+  },
+  {
+    "id": "vain_1",
+    "word": "Vain",
+    "translation": "חסר תוחלת ; שחצן, יהיר",
+    "letter": "V",
+    "exampleSentence": "Rescuers made a vain effort to revive the beached whale."
+  },
+  {
+    "id": "valid_1",
+    "word": "Valid",
+    "translation": "תקף, הגיוני, בעל תוקף",
+    "letter": "V",
+    "exampleSentence": "You must present a valid passport when passing through border control."
+  },
+  {
+    "id": "vanish_1",
+    "word": "Vanish",
+    "translation": "להיעלם, להתפוגג",
+    "letter": "V",
+    "exampleSentence": "The morning mist vanished quickly as the bright sun climbed higher."
+  },
+  {
+    "id": "variable_1",
+    "word": "Variable",
+    "translation": "משתנה, הפכפך ; משתנה מתמטי",
+    "letter": "V",
+    "exampleSentence": "Spring weather in this mountainous region is notoriously variable."
+  },
+  {
+    "id": "vary_1",
+    "word": "Vary",
+    "translation": "להשתנות, לגוון",
+    "letter": "V",
+    "exampleSentence": "Tuition fees vary considerably depending on the chosen university major."
+  },
+  {
+    "id": "vast_1",
+    "word": "Vast",
+    "translation": "עצום, רחב ידיים",
+    "letter": "V",
+    "exampleSentence": "A vast expanse of tundra covers the northern reaches of Siberia."
+  },
+  {
+    "id": "vehicle_1",
+    "word": "Vehicle",
+    "translation": "כלי רכב ; אמצעי, כלי להעברת רעיון",
+    "letter": "V",
+    "exampleSentence": "Art served as a powerful vehicle for expressing political dissent."
+  },
+  {
+    "id": "venture_1",
+    "word": "Venture",
+    "translation": "מיזם נועז, הרפתקה ; להעז",
+    "letter": "V",
+    "exampleSentence": "They established a joint commercial venture to manufacture electric bikes."
+  },
+  {
+    "id": "verdict_1",
+    "word": "Verdict",
+    "translation": "פסק דין, הכרעת הדין",
+    "letter": "V",
+    "exampleSentence": "The jury reached a unanimous guilty verdict after three days of debate."
+  },
+  {
+    "id": "verify_1",
+    "word": "Verify",
+    "translation": "לאמת, לוודא, לבדוק",
+    "letter": "V",
+    "exampleSentence": "Journalists must independently verify information before reporting."
+  },
+  {
+    "id": "vertical_1",
+    "word": "Vertical",
+    "translation": "אנכי, ניצב",
+    "letter": "V",
+    "exampleSentence": "The mountain trail scaled an almost vertical rock face."
+  },
+  {
+    "id": "viable_1",
+    "word": "Viable",
+    "translation": "בר-קיימא, מעשי, מסוגל לחיות",
+    "letter": "V",
+    "exampleSentence": "Solar energy offers an economically viable alternative to fossil fuels."
+  },
+  {
+    "id": "vibrant_1",
+    "word": "Vibrant",
+    "translation": "תוסס, נמרץ, מלא חיים",
+    "letter": "V",
+    "exampleSentence": "The historical quarter is home to a vibrant community of local artists."
+  },
+  {
+    "id": "vicious_1",
+    "word": "Vicious",
+    "translation": "אכזרי, מרושע, זדוני",
+    "letter": "V",
+    "exampleSentence": "The dog was trained as a vicious guard animal for the estate."
+  },
+  {
+    "id": "vigorous_1",
+    "word": "Vigorous",
+    "translation": "נמרץ, בעל מרץ, חזק",
+    "letter": "V",
+    "exampleSentence": "Doctors recommend thirty minutes of vigorous walking every day."
+  },
+  {
+    "id": "violate_1",
+    "word": "Violate",
+    "translation": "להפר (חוק/הסכם), לחלל",
+    "letter": "V",
+    "exampleSentence": "Hacking into encrypted networks violates national cybersecurity laws."
+  },
+  {
+    "id": "virtual_1",
+    "word": "Virtual",
+    "translation": "וירטואלי ; למעשה, כמעט לחלוטין",
+    "letter": "V",
+    "exampleSentence": "The remote island community lived in virtual isolation during winter."
+  },
+  {
+    "id": "visible_1",
+    "word": "Visible",
+    "translation": "נראה לעין, גלוי",
+    "letter": "V",
+    "exampleSentence": "The snowy mountain peaks were visible from across the wide valley."
+  },
+  {
+    "id": "vital_1",
+    "word": "Vital",
+    "translation": "חיוני, נחוץ, קריטי",
+    "letter": "V",
+    "exampleSentence": "Adequate hydration is vital for maintaining peak athletic performance."
+  },
+  {
+    "id": "vivid_1",
+    "word": "Vivid",
+    "translation": "חי, בהיר, מוחשי, עז",
+    "letter": "V",
+    "exampleSentence": "The painter used vivid shades of crimson and amber across the canvas."
+  },
+  {
+    "id": "void_1",
+    "word": "Void",
+    "translation": "חלל ריק ; בטל ומבוטל ; לרוקן",
+    "letter": "V",
+    "exampleSentence": "The breach rendered the previous commercial agreement null and void."
+  },
+  {
+    "id": "voluntary_1",
+    "word": "Voluntary",
+    "translation": "התנדבותי, מרצון חופשי",
+    "letter": "V",
+    "exampleSentence": "Participation in the after-school tutoring program is entirely voluntary."
+  },
+  {
+    "id": "vow_1",
+    "word": "Vow",
+    "translation": "לנדור, להישבע ; נדר",
+    "letter": "V",
+    "exampleSentence": "The newlyweds exchanged vows of love and loyalty before family."
+  },
+  {
+    "id": "venerable_1",
+    "word": "Venerable",
+    "translation": "מכובד, נערץ (בשל גיל/מעמד)",
+    "letter": "V",
+    "exampleSentence": "Students listened respectfully to the venerable professor emeritus."
+  },
+  {
+    "id": "vindicate_1",
+    "word": "Vindicate",
+    "translation": "לזכות, להוכיח את צדקתו",
+    "letter": "V",
+    "exampleSentence": "DNA forensics completely vindicated the man after years in prison."
+  },
+  {
+    "id": "vociferous_1",
+    "word": "Vociferous",
+    "translation": "רועש, קולני, נמרץ בדרישתו",
+    "letter": "V",
+    "exampleSentence": "Local residents were vociferous in their opposition to the highway project."
+  },
+  {
+    "id": "wary_1",
+    "word": "Wary",
+    "translation": "זהיר, חשדן, דרוך",
+    "letter": "W",
+    "exampleSentence": "Consumers should be wary of offers that seem too good to be true."
+  },
+  {
+    "id": "wholesome_1",
+    "word": "Wholesome",
+    "translation": "בריא, מיטיב, טוב לנפש",
+    "letter": "W",
+    "exampleSentence": "The farm served wholesome meals made entirely of organic produce."
+  },
+  {
+    "id": "widespread_1",
+    "word": "Widespread",
+    "translation": "נפוץ, רווח, רחב היקף",
+    "letter": "W",
+    "exampleSentence": "The discovery sparked widespread interest among researchers worldwide."
+  },
+  {
+    "id": "wage_1",
+    "word": "Wage",
+    "translation": "שכר עבודה ; לנהל (מלחמה)",
+    "letter": "W",
+    "exampleSentence": "Laborers organized a peaceful march to demand a fair living wage."
+  },
+  {
+    "id": "warrant_1",
+    "word": "Warrant",
+    "translation": "צו (מעצר/חיפוש) ; להצדיק",
+    "letter": "W",
+    "exampleSentence": "The judge granted a search warrant based on compelling police evidence."
+  },
+  {
+    "id": "well_being_1",
+    "word": "Well-being",
+    "translation": "רווחה, שלומות, בריאות",
+    "letter": "W",
+    "exampleSentence": "Regular physical exercise contributes immensely to mental well-being."
+  },
+  {
+    "id": "whereas_1",
+    "word": "Whereas",
+    "translation": "בעוד ש-, בהתחשב בכך",
+    "letter": "W",
+    "exampleSentence": "Some prefer city living, whereas others cherish rural tranquility."
+  },
+  {
+    "id": "wholly_1",
+    "word": "Wholly",
+    "translation": "לחלוטין, כולו, במלואו",
+    "letter": "W",
+    "exampleSentence": "He was wholly dedicated to improving healthcare in underserved areas."
+  },
+  {
+    "id": "wield_1",
+    "word": "Wield",
+    "translation": "לאחוז, להחזיק (בנשק/סמכות)",
+    "letter": "W",
+    "exampleSentence": "The prime minister wields considerable legislative influence."
+  },
+  {
+    "id": "willful_1",
+    "word": "Willful",
+    "translation": "עקשן, מכוון, בזדון",
+    "letter": "W",
+    "exampleSentence": "The driver was prosecuted for willful disregard of traffic laws."
+  },
+  {
+    "id": "withdraw_1",
+    "word": "Withdraw",
+    "translation": "לסגת, למשוך (כסף/הצעה)",
+    "letter": "W",
+    "exampleSentence": "The sponsor decided to withdraw its financial backing from the event."
+  },
+  {
+    "id": "wither_1",
+    "word": "Wither",
+    "translation": "לקמול, לנבול, לדעוך",
+    "letter": "W",
+    "exampleSentence": "Without timely irrigation, crops in the valley quickly withered and died."
+  },
+  {
+    "id": "withstand_1",
+    "word": "Withstand",
+    "translation": "לעמוד בפני, להחזיק מעמד",
+    "letter": "W",
+    "exampleSentence": "The skyscraper was engineered to withstand severe seismic tremors."
+  },
+  {
+    "id": "witness_1",
+    "word": "Witness",
+    "translation": "להיות עד ל- ; עד",
+    "letter": "W",
+    "exampleSentence": "Several bystanders witnessed the robbery and gave statements to police."
+  },
+  {
+    "id": "worthwhile_1",
+    "word": "Worthwhile",
+    "translation": "כדאי, שווה את המאמץ",
+    "letter": "W",
+    "exampleSentence": "Volunteering at the shelter proved to be an immensely worthwhile experience."
+  },
+  {
+    "id": "wrath_1",
+    "word": "Wrath",
+    "translation": "זעם, חרון אף",
+    "letter": "W",
+    "exampleSentence": "In ancient myths, hubris often incurred the destructive wrath of gods."
+  },
+  {
+    "id": "wreck_1",
+    "word": "Wreck",
+    "translation": "להרוס, לחרב ; הריסות",
+    "letter": "W",
+    "exampleSentence": "The violent gale wrecked small fishing boats docked along the pier."
+  },
+  {
+    "id": "wretched_1",
+    "word": "Wretched",
+    "translation": "אומלל, עלוב, מחפיר",
+    "letter": "W",
+    "exampleSentence": "Refugees lived in wretched conditions during the freezing winter."
+  },
+  {
+    "id": "yielding_1",
+    "word": "Yielding",
+    "translation": "ותרן, גמיש, כניע",
+    "letter": "W",
+    "exampleSentence": "A yielding mattress contours gently to the sleeper's body."
+  },
+  {
+    "id": "wayward_1",
+    "word": "Wayward",
+    "translation": "סורר, מרדן, בלתי צפוי",
+    "letter": "W",
+    "exampleSentence": "The teacher patiently guided the wayward youth back to academic study."
+  },
+  {
+    "id": "waver_1",
+    "word": "Waver",
+    "translation": "להסס, להתנדנד, לפקפק",
+    "letter": "W",
+    "exampleSentence": "Her confidence never wavered despite repeated criticism from opponents."
+  },
+  {
+    "id": "weary_1",
+    "word": "Weary",
+    "translation": "עייף, יגע, מותש",
+    "letter": "W",
+    "exampleSentence": "The weary travelers rested beside the oasis after crossing the sands."
+  },
+  {
+    "id": "weighty_1",
+    "word": "Weighty",
+    "translation": "כבד משקל, רב חשיבות",
+    "letter": "W",
+    "exampleSentence": "The cabinet met to resolve a weighty foreign diplomacy dispute."
+  },
+  {
+    "id": "wicked_1",
+    "word": "Wicked",
+    "translation": "מרושע, זדוני",
+    "letter": "W",
+    "exampleSentence": "In the fairy tale, the wicked stepmother schemes against Cinderella."
+  },
+  {
+    "id": "windfall_1",
+    "word": "Windfall",
+    "translation": "רווח בלתי צפוי, מציאה",
+    "letter": "W",
+    "exampleSentence": "The unexpected inheritance was a financial windfall for the family."
+  },
+  {
+    "id": "witty_1",
+    "word": "Witty",
+    "translation": "שנון, פיקח ומבדח",
+    "letter": "W",
+    "exampleSentence": "Her witty commentary kept listeners laughing throughout the podcast."
+  },
+  {
+    "id": "woe_1",
+    "word": "Woe",
+    "translation": "יגון, צער, אסון",
+    "letter": "W",
+    "exampleSentence": "Economic woes continued to plague the manufacturing district."
+  },
+  {
+    "id": "worship_1",
+    "word": "Worship",
+    "translation": "לסגוד, לעבוד (אל) ; פולחן",
+    "letter": "W",
+    "exampleSentence": "Ancient civilizations gathered at stone temples to worship the sun."
+  },
+  {
+    "id": "wrangle_1",
+    "word": "Wrangle",
+    "translation": "להתקוטט, להתווכח במרירות",
+    "letter": "W",
+    "exampleSentence": "Lawyers wrangled for months over the terms of the corporate merger."
+  },
+  {
+    "id": "wistful_1",
+    "word": "Wistful",
+    "translation": "ערגוני, נוגה, מלא כמיהה",
+    "letter": "W",
+    "exampleSentence": "She cast a wistful glance at her childhood home as the moving van left."
+  },
+  {
+    "id": "xenophobia_1",
+    "word": "Xenophobia",
+    "translation": "שנאת זרים",
+    "letter": "X",
+    "exampleSentence": "Education and cultural exchange are effective tools against xenophobia."
+  },
+  {
+    "id": "xerocopy_1",
+    "word": "Xerocopy",
+    "translation": "צילום מסמך, שכפול",
+    "letter": "X",
+    "exampleSentence": "Please provide a xerocopy of your passport for registration."
+  },
+  {
+    "id": "xylophone_1",
+    "word": "Xylophone",
+    "translation": "קסילופון (כלי נגינה)",
+    "letter": "X",
+    "exampleSentence": "The percussionist played a lively tune on the wooden xylophone."
+  },
+  {
+    "id": "xenon_1",
+    "word": "Xenon",
+    "translation": "קסנון (יסוד כימי, גז אציל)",
+    "letter": "X",
+    "exampleSentence": "Xenon gas is utilized in specialized high-intensity vehicle headlamps."
+  },
+  {
+    "id": "xenial_1",
+    "word": "Xenial",
+    "translation": "מכניס אורחים, ידידותי לזרים",
+    "letter": "X",
+    "exampleSentence": "The island hosts were praised for their exceptionally xenial conduct."
+  },
+  {
+    "id": "xerox_1",
+    "word": "Xerox",
+    "translation": "לצלם מסמך במכונה ; זירוקס",
+    "letter": "X",
+    "exampleSentence": "He went to xerox the syllabus for all fifty registered students."
+  },
+  {
+    "id": "xylography_1",
+    "word": "Xylography",
+    "translation": "חריטה על עץ, הדפס עץ",
+    "letter": "X",
+    "exampleSentence": "Traditional Japanese art features intricate examples of xylography."
+  },
+  {
+    "id": "xeric_1",
+    "word": "Xeric",
+    "translation": "יובשני, מותאם לתנאי יובש",
+    "letter": "X",
+    "exampleSentence": "Cacti flourish in xeric environments with minimal annual rainfall."
+  },
+  {
+    "id": "xanthic_1",
+    "word": "Xanthic",
+    "translation": "צהבהב, בעל גוון צהוב",
+    "letter": "X",
+    "exampleSentence": "The mineral specimen displayed a distinctive xanthic crystalline surface."
+  },
+  {
+    "id": "xenograft_1",
+    "word": "Xenograft",
+    "translation": "שתל ממין ביולוגי אחר",
+    "letter": "X",
+    "exampleSentence": "Surgeons explored the feasibility of using a porcine heart xenograft."
+  },
+  {
+    "id": "xenolith_1",
+    "word": "Xenolith",
+    "translation": "סלע זר המוכל בתוך סלע געשי",
+    "letter": "X",
+    "exampleSentence": "Geologists identified a mantle xenolith trapped inside the basalt."
+  },
+  {
+    "id": "xenophile_1",
+    "word": "Xenophile",
+    "translation": "אוהב תרבויות וזרים",
+    "letter": "X",
+    "exampleSentence": "As an enthusiastic xenophile, she spent years studying diverse cultures."
+  },
+  {
+    "id": "xylocarp_1",
+    "word": "Xylocarp",
+    "translation": "פרי בעל קליפה עצית קשה",
+    "letter": "X",
+    "exampleSentence": "The coconut is a classic botanical example of a fibrous xylocarp."
+  },
+  {
+    "id": "xylitol_1",
+    "word": "Xylitol",
+    "translation": "קסיליטול (תחליף סוכר)",
+    "letter": "X",
+    "exampleSentence": "Sugar-free chewing gum frequently incorporates natural xylitol."
+  },
+  {
+    "id": "xylograph_1",
+    "word": "Xylograph",
+    "translation": "הדפס עץ היסטורי",
+    "letter": "X",
+    "exampleSentence": "The archive museum exhibited a rare Renaissance xylograph illustration."
+  },
+  {
+    "id": "xiphisternum_1",
+    "word": "Xiphisternum",
+    "translation": "הזיז התחתון של עצם החזה",
+    "letter": "X",
+    "exampleSentence": "Anatomy students learned to locate the xiphisternum during CPR training."
+  },
+  {
+    "id": "xenotropic_1",
+    "word": "Xenotropic",
+    "translation": "המתרבה רק בתאים זרים",
+    "letter": "X",
+    "exampleSentence": "Virologists examined the cellular transmission of xenotropic viruses."
+  },
+  {
+    "id": "xenobiotic_1",
+    "word": "Xenobiotic",
+    "translation": "חומר כימי זר לגוף החי",
+    "letter": "X",
+    "exampleSentence": "The liver produces specialized enzymes to detoxify xenobiotic compounds."
+  },
+  {
+    "id": "xanthene_1",
+    "word": "Xanthene",
+    "translation": "קסנתן (תרכובת אורגנית צהובה)",
+    "letter": "X",
+    "exampleSentence": "Xanthene derivatives are commonly synthesized as biological fluorescent dyes."
+  },
+  {
+    "id": "xenocryst_1",
+    "word": "Xenocryst",
+    "translation": "גביש זר בסלע מגמתי",
+    "letter": "X",
+    "exampleSentence": "The volcanic rock contained a bright green olivine xenocryst."
+  },
+  {
+    "id": "xerophyte_1",
+    "word": "Xerophyte",
+    "translation": "צמח יובשני (עמיד ביובש)",
+    "letter": "X",
+    "exampleSentence": "Succulents are xerophytes that store water in thick, fleshy leaves."
+  },
+  {
+    "id": "xerosis_1",
+    "word": "Xerosis",
+    "translation": "יובש חריג (בעור/עיניים)",
+    "letter": "X",
+    "exampleSentence": "Dermatologists prescribed moisturizing ointments to treat severe xerosis."
+  },
+  {
+    "id": "xerothermic_1",
+    "word": "Xerothermic",
+    "translation": "חם ויבש במיוחד (אקלים)",
+    "letter": "X",
+    "exampleSentence": "Reptiles thrive in the xerothermic climate of desert scrublands."
+  },
+  {
+    "id": "xiphoid_1",
+    "word": "Xiphoid",
+    "translation": "דמוי חרב (אנטומיה)",
+    "letter": "X",
+    "exampleSentence": "Paramedics must position hands above the xiphoid process during chest compressions."
+  },
+  {
+    "id": "xylotomous_1",
+    "word": "Xylotomous",
+    "translation": "מנסר עץ, קודח בעץ (חרק)",
+    "letter": "X",
+    "exampleSentence": "Termites and certain beetles possess xylotomous wood-boring jaws."
+  },
+  {
+    "id": "xylophagous_1",
+    "word": "Xylophagous",
+    "translation": "ניזון מעץ (חרק/פטרייה)",
+    "letter": "X",
+    "exampleSentence": "Xylophagous larvae can cause extensive structural damage to timber homes."
+  },
+  {
+    "id": "xenocracy_1",
+    "word": "Xenocracy",
+    "translation": "שלטון של זרים",
+    "letter": "X",
+    "exampleSentence": "The colonized nation rebelled against decades of unwanted xenocracy."
+  },
+  {
+    "id": "xyloid_1",
+    "word": "Xyloid",
+    "translation": "עצי, דמוי עץ בתכונותיו",
+    "letter": "X",
+    "exampleSentence": "Fossilized plant stalks assumed a hard, xyloid mineralized texture."
+  },
+  {
+    "id": "xenogenesis_1",
+    "word": "Xenogenesis",
+    "translation": "יצירת צאצא השונה ממין הוריו",
+    "letter": "X",
+    "exampleSentence": "Early sci-fi literature explored biological concepts of strange xenogenesis."
+  },
+  {
+    "id": "xenoculture_1",
+    "word": "Xenoculture",
+    "translation": "תרבות זרה, אורחות חיים זרים",
+    "letter": "X",
+    "exampleSentence": "Anthropologists immersed themselves in the remote mountain xenoculture."
+  },
+  {
+    "id": "yearn_1",
+    "word": "Yearn",
+    "translation": "להשתוקק, לכמוה",
+    "letter": "Y",
+    "exampleSentence": "After weeks abroad, he began to yearn for the comfort of home."
+  },
+  {
+    "id": "yield_1",
+    "word": "Yield",
+    "translation": "להניב ; להיכנע, לוותר",
+    "letter": "Y",
+    "exampleSentence": "Modern agricultural techniques yield richer harvests every season."
+  },
+  {
+    "id": "yoke_1",
+    "word": "Yoke",
+    "translation": "עול, שיעבוד",
+    "letter": "Y",
+    "exampleSentence": "The citizens rebelled to throw off the yoke of oppression."
+  },
+  {
+    "id": "yearly_1",
+    "word": "Yearly",
+    "translation": "שנתי, מדי שנה",
+    "letter": "Y",
+    "exampleSentence": "The company holds its yearly shareholder meeting in November."
+  },
+  {
+    "id": "yielding_2",
+    "word": "Yielding",
+    "translation": "ותרני, כניע, גמיש",
+    "letter": "Y",
+    "exampleSentence": "Her yielding nature made her susceptible to pressure from peers."
+  },
+  {
+    "id": "yonder_1",
+    "word": "Yonder",
+    "translation": "שם, שמה (במרחק)",
+    "letter": "Y",
+    "exampleSentence": "Look at the snowy summit rising yonder past the pine forest."
+  },
+  {
+    "id": "youthful_1",
+    "word": "Youthful",
+    "translation": "נעורי, רענן, צעיר",
+    "letter": "Y",
+    "exampleSentence": "At eighty, she retained an infectious youthful enthusiasm for life."
+  },
+  {
+    "id": "yarn_1",
+    "word": "Yarn",
+    "translation": "חוט טוויה ; מעשייה, סיפור ארוך",
+    "letter": "Y",
+    "exampleSentence": "The elderly sailor spun an entertaining yarn about encountering pirates."
+  },
+  {
+    "id": "yell_1",
+    "word": "Yell",
+    "translation": "לצעוק, לצרוח ; צעקה",
+    "letter": "Y",
+    "exampleSentence": "He had to yell over the roar of the factory machinery to be heard."
+  },
+  {
+    "id": "yaw_1",
+    "word": "Yaw",
+    "translation": "לסטות מהנתיב (כלי טיס/שיט)",
+    "letter": "Y",
+    "exampleSentence": "Strong crosswinds caused the twin-engine plane to yaw violently."
+  },
+  {
+    "id": "yardstick_1",
+    "word": "Yardstick",
+    "translation": "אמת מידה, קנה מידה",
+    "letter": "Y",
+    "exampleSentence": "Exam scores should not be the sole yardstick of a student's intellect."
+  },
+  {
+    "id": "yearning_1",
+    "word": "Yearning",
+    "translation": "כמיהה, געגוע עמוק",
+    "letter": "Y",
+    "exampleSentence": "The immigrant expressed a deep yearning to visit his ancestral homeland."
+  },
+  {
+    "id": "yesterday_1",
+    "word": "Yesterday",
+    "translation": "אתמול, העבר הקרוב",
+    "letter": "Y",
+    "exampleSentence": "Decisions made yesterday shape the geopolitical reality of today."
+  },
+  {
+    "id": "yowl_1",
+    "word": "Yowl",
+    "translation": "יללה, זעקה מרה ; לילל",
+    "letter": "Y",
+    "exampleSentence": "The stray cat let out a plaintive yowl in the alleyway."
+  },
+  {
+    "id": "yieldless_1",
+    "word": "Yieldless",
+    "translation": "עקר, שאינו מניב פרי",
+    "letter": "Y",
+    "exampleSentence": "Years of neglect left the fruit orchard dry and completely yieldless."
+  },
+  {
+    "id": "yacht_1",
+    "word": "Yacht",
+    "translation": "יאכטה, סירת מפרש מפוארת",
+    "letter": "Y",
+    "exampleSentence": "The billionaire spent summers sailing his luxury yacht across the Aegean."
+  },
+  {
+    "id": "yawn_1",
+    "word": "Yawn",
+    "translation": "לפהק ; פיהוק ; לפעור פה",
+    "letter": "Y",
+    "exampleSentence": "A yawning chasm opened in the earth following the earthquake."
+  },
+  {
+    "id": "yield_point_1",
+    "word": "Yieldingness",
+    "translation": "ותרנות, כניעות, גמישות יתר",
+    "letter": "Y",
+    "exampleSentence": "Diplomats mistook his polite demeanor for political yieldingness."
+  },
+  {
+    "id": "yesteryear_1",
+    "word": "Yesteryear",
+    "translation": "שנים עברו, ימי קדם",
+    "letter": "Y",
+    "exampleSentence": "Old photographs recalled the nostalgic glamor of yesteryear."
+  },
+  {
+    "id": "yiddish_1",
+    "word": "Yiddish",
+    "translation": "יידיש",
+    "letter": "Y",
+    "exampleSentence": "Scholars gathered to translate classical works of European Yiddish literature."
+  },
+  {
+    "id": "yo-yo_1",
+    "word": "Yo-yo",
+    "translation": "יו-יו ; להתנדנד מעלה ומטה",
+    "letter": "Y",
+    "exampleSentence": "Fuel prices continued to yo-yo dramatically throughout the financial crisis."
+  },
+  {
+    "id": "youngster_1",
+    "word": "Youngster",
+    "translation": "צעיר, נער, פרחח",
+    "letter": "Y",
+    "exampleSentence": "The coach organized soccer clinics for enthusiastic neighborhood youngsters."
+  },
+  {
+    "id": "yours_1",
+    "word": "Yours",
+    "translation": "שלך, שלכם",
+    "letter": "Y",
+    "exampleSentence": "The ultimate responsibility for choosing your career path is yours alone."
+  },
+  {
+    "id": "yuck_1",
+    "word": "Yucky",
+    "translation": "דוחה, מגעיל",
+    "letter": "Y",
+    "exampleSentence": "Children often find bitter medicinal syrups unpleasant and yucky."
+  },
+  {
+    "id": "yule_1",
+    "word": "Yuletide",
+    "translation": "עונת חג המולד, תקופת החורף",
+    "letter": "Y",
+    "exampleSentence": "Towns were adorned with festive lights during the chilly yuletide season."
+  },
+  {
+    "id": "yield_rate_1",
+    "word": "Yielding-rate",
+    "translation": "קצב תפוקה, שיעור תשואה",
+    "letter": "Y",
+    "exampleSentence": "The financial advisor analyzed the annual dividend yielding-rate."
+  },
+  {
+    "id": "yokel_1",
+    "word": "Yokel",
+    "translation": "איכר פשוט, כפרי נאיבי",
+    "letter": "Y",
+    "exampleSentence": "City slickers unfairly ridiculed the rural newcomer as a naive yokel."
+  },
+  {
+    "id": "yardarm_1",
+    "word": "Yardarm",
+    "translation": "קצה מוט המפרש בספינה",
+    "letter": "Y",
+    "exampleSentence": "Sailors climbed up to the yardarm to furl the heavy canvas sails."
+  },
+  {
+    "id": "yelp_1",
+    "word": "Yelp",
+    "translation": "ליילל ביללת כאב ; ציוץ כאב",
+    "letter": "Y",
+    "exampleSentence": "The puppy gave a surprised yelp when its tail was accidentally stepped on."
+  },
+  {
+    "id": "yields_1",
+    "word": "Yielding-capacity",
+    "translation": "כושר תנובה, כושר נשיאה",
+    "letter": "Y",
+    "exampleSentence": "Fertilizing the soil restored the high yielding-capacity of the crops."
+  },
+  {
+    "id": "zeal_1",
+    "word": "Zeal",
+    "translation": "התלהבות, קנאות, מסירות",
+    "letter": "Z",
+    "exampleSentence": "She pursued the community project with extraordinary zeal and diligence."
+  },
+  {
+    "id": "zenith_1",
+    "word": "Zenith",
+    "translation": "שיא, פסגה",
+    "letter": "Z",
+    "exampleSentence": "At the zenith of his career, the artist exhibited worldwide."
+  },
+  {
+    "id": "zest_1",
+    "word": "Zest",
+    "translation": "התלהבות, להט, עניין",
+    "letter": "Z",
+    "exampleSentence": "Despite her advanced age, she tackled every day with great zest."
+  },
+  {
+    "id": "zealot_1",
+    "word": "Zealot",
+    "translation": "קנאי, פנאט",
+    "letter": "Z",
+    "exampleSentence": "Political zealots refuse to listen to opposing viewpoints or facts."
+  },
+  {
+    "id": "zealous_1",
+    "word": "Zealous",
+    "translation": "נלהב, קנאי לעניין",
+    "letter": "Z",
+    "exampleSentence": "He was a zealous advocate for strict wildlife protection legislation."
+  },
+  {
+    "id": "zigzag_1",
+    "word": "Zigzag",
+    "translation": "זיגזג, להתפתל",
+    "letter": "Z",
+    "exampleSentence": "The mountain trail zigzags sharply along the edge of the steep ravine."
+  },
+  {
+    "id": "zone_1",
+    "word": "Zone",
+    "translation": "אזור, מתחם ; לחלק לאזורים",
+    "letter": "Z",
+    "exampleSentence": "The city council designated the harbor district as an enterprise zone."
+  },
+  {
+    "id": "zoology_1",
+    "word": "Zoology",
+    "translation": "זואולוגיה, חקר בעלי החיים",
+    "letter": "Z",
+    "exampleSentence": "Her interest in African fauna led her to pursue a master's in zoology."
+  },
+  {
+    "id": "zero_1",
+    "word": "Zero",
+    "translation": "אפס ; להתאפס על (zero in)",
+    "letter": "Z",
+    "exampleSentence": "Investigators were able to zero in on the source of the financial fraud."
+  },
+  {
+    "id": "zenithal_1",
+    "word": "Zenithal",
+    "translation": "שמימי, ממוקם בנקודת השיא",
+    "letter": "Z",
+    "exampleSentence": "The midday sun reached its highest zenithal elevation in the sky."
+  },
+  {
+    "id": "zephyr_1",
+    "word": "Zephyr",
+    "translation": "משב רוח עדין ונעים",
+    "letter": "Z",
+    "exampleSentence": "A refreshing cool zephyr brought relief from the afternoon summer heat."
+  },
+  {
+    "id": "zestful_1",
+    "word": "Zestful",
+    "translation": "מלא חיים, נמרץ, שופע מרץ",
+    "letter": "Z",
+    "exampleSentence": "She brought a wonderfully zestful energy to all rehearsals of the choir."
+  },
+  {
+    "id": "zip_1",
+    "word": "Zip",
+    "translation": "לרכוס רוכסן ; לטוס במהירות, מרץ",
+    "letter": "Z",
+    "exampleSentence": "The sports car zipped along the highway before disappearing over the hill."
+  },
+  {
+    "id": "zodiac_1",
+    "word": "Zodiac",
+    "translation": "גלגל המזלות, זודיאק",
+    "letter": "Z",
+    "exampleSentence": "Ancient Babylonian astrologers mapped constellations along the zodiac belt."
+  },
+  {
+    "id": "zoom_1",
+    "word": "Zoom",
+    "translation": "לזנק, להאיץ קדימה ; להתקרב (מצלמה)",
+    "letter": "Z",
+    "exampleSentence": "The camera zoomed in on the actor's face during the emotional climax."
+  },
+  {
+    "id": "zealotry_1",
+    "word": "Zealotry",
+    "translation": "קנאות עיוורת, פנאטיות",
+    "letter": "Z",
+    "exampleSentence": "Religious zealotry has sparked many destructive conflicts across history."
+  },
+  {
+    "id": "zero_sum_1",
+    "word": "Zero-sum",
+    "translation": "משחק סכום-אפס (רווח האחד הוא הפסד האחר)",
+    "letter": "Z",
+    "exampleSentence": "Diplomats emphasized that negotiations should be mutually beneficial, not zero-sum."
+  },
+  {
+    "id": "zapper_1",
+    "word": "Zapper",
+    "translation": "מכשיר קטילת חרקים / שלט",
+    "letter": "Z",
+    "exampleSentence": "The patio was protected from mosquitoes by an ultraviolet bug zapper."
+  },
+  {
+    "id": "zealousness_1",
+    "word": "Zealousness",
+    "translation": "להט, דבקות במטרה",
+    "letter": "Z",
+    "exampleSentence": "The young detective's zealousness helped crack the unsolved cold case."
+  },
+  {
+    "id": "zany_1",
+    "word": "Zany",
+    "translation": "מוקיקי, משוגע ומצחיק, מוזר",
+    "letter": "Z",
+    "exampleSentence": "The comedy show was filled with zany characters and slapstick sketches."
+  },
+  {
+    "id": "zinc_1",
+    "word": "Zinc",
+    "translation": "אבץ (יסוד כימי, מתכת)",
+    "letter": "Z",
+    "exampleSentence": "Dietary zinc plays an essential physiological role in human immune defense."
+  },
+  {
+    "id": "zirconium_1",
+    "word": "Zirconium",
+    "translation": "זירקוניום (יסוד כימי עמיד)",
+    "letter": "Z",
+    "exampleSentence": "Synthetic cubic zirconium stones mimic the brilliance of natural diamonds."
+  },
+  {
+    "id": "zonation_1",
+    "word": "Zonation",
+    "translation": "חלוקה לאזורים אקולוגיים",
+    "letter": "Z",
+    "exampleSentence": "Marine biologists studied the distinct tidal zonation of the coral reef."
+  },
+  {
+    "id": "zygote_1",
+    "word": "Zygote",
+    "translation": "זיגוטה (ביצית מופרית)",
+    "letter": "Z",
+    "exampleSentence": "Fertilization results in a single-cell zygote containing complete DNA."
+  },
+  {
+    "id": "zoological_1",
+    "word": "Zoological",
+    "translation": "זואולוגי, שקשור לבעלי חיים",
+    "letter": "Z",
+    "exampleSentence": "The botanical and zoological society maintains the city's wildlife park."
+  },
+  {
+    "id": "zen_1",
+    "word": "Zen",
+    "translation": "זן (שלווה, מדיטטיביות)",
+    "letter": "Z",
+    "exampleSentence": "She cultivated a peaceful zen mindset through daily morning meditation."
+  },
+  {
+    "id": "zestiness_1",
+    "word": "Zestiness",
+    "translation": "עוקצנות נעימה, פיקנטיות, חיות",
+    "letter": "Z",
+    "exampleSentence": "Fresh lime juice lent a delightful citrus zestiness to the seafood salad."
+  },
+  {
+    "id": "zookeeper_1",
+    "word": "Zookeeper",
+    "translation": "מטפל בגן חיות",
+    "letter": "Z",
+    "exampleSentence": "The experienced zookeeper carefully fed the endangered snow leopard cubs."
+  },
+  {
+    "id": "zymurgy_1",
+    "word": "Zymurgy",
+    "translation": "תורת התסיסה (ביוכימיה)",
+    "letter": "Z",
+    "exampleSentence": "Brewmasters apply principles of zymurgy to cultivate delicate yeast strains."
+  },
+  {
+    "id": "zillion_1",
+    "word": "Zillion",
+    "translation": "אינספור (בלשון עממית), המון",
+    "letter": "Z",
+    "exampleSentence": "I've reminded him a zillion times to save his digital coursework backups."
+  }
+]

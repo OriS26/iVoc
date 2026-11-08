@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="he" dir="rtl" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="iVoc" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <meta name="theme-color" content="#0f172a" />
+    <title>iVoc - Vocabulary Trainer</title>
+    <style>
+      /* Prevent iOS rubber-banding and accidental text selection during fast tapping */
+      html, body {
+        overscroll-behavior-y: none;
+        -webkit-user-select: none;
+        user-select: none;
+        -webkit-touch-callout: none;
+        -webkit-tap-highlight-color: transparent;
+        background-color: #0f172a;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+      }
+      #root {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+    </style>
+  </head>
+  <body class="bg-slate-900 text-slate-100 antialiased selection:bg-indigo-500 selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
