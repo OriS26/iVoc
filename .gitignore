@@ -32,3 +32,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# MCP runtime progress
+mcp/progress.json
+__pycache__/
+*.pyc
+

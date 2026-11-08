@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ivoc": {
+      "command": "python",
+      "args": [
+        "mcp/server.py"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
