@@ -9,6 +9,7 @@ export const DEFAULT_SETTINGS: AppSettings = {
   soundEnabled: true,
   hapticFeedback: true,
   showHebrewFirst: false,
+  shuffleWords: true,
 };
 
 // Safe fallback helpers
@@ -32,9 +33,12 @@ function safeLocalSet<T>(key: string, value: T): void {
 // Progress Map
 export async function getStoredProgress(): Promise<Record<string, UserWordProgress>> {
   try {
-    const val = await get<Record<string, UserWordProgress>>(PROGRESS_KEY);
-    if (val && typeof val === 'object') return val;
-    return safeLocalGet<Record<string, UserWordProgress>>(PROGRESS_KEY, {});
+    const val = (await get<Record<string, UserWordProgress>>(PROGRESS_KEY)) ||
+                (await get<Record<string, UserWordProgress>>('geva_progress'));
+    if (val && typeof val === 'object' && Object.keys(val).length > 0) return val;
+    const local = safeLocalGet<Record<string, UserWordProgress>>(PROGRESS_KEY, {});
+    if (Object.keys(local).length > 0) return local;
+    return safeLocalGet<Record<string, UserWordProgress>>('geva_progress', {});
   } catch {
     return safeLocalGet<Record<string, UserWordProgress>>(PROGRESS_KEY, {});
   }

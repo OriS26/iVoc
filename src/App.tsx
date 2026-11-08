@@ -19,6 +19,7 @@ export const App: React.FC = () => {
     soundEnabled: true,
     hapticFeedback: true,
     showHebrewFirst: false,
+    shuffleWords: true,
   });
 
   // Navigation & Quiz state
@@ -81,7 +82,7 @@ export const App: React.FC = () => {
       const activeWords = getActiveWords();
       if (!activeWords.length) return;
 
-      const next = selectNextWord(activeWords, currentProgress, counter, lastId);
+      const next = selectNextWord(activeWords, currentProgress, counter, lastId, settings.shuffleWords);
 
       if (!next) {
         // All words mastered in this pool!
@@ -110,7 +111,7 @@ export const App: React.FC = () => {
         setCurrentOptions(options);
       }
     },
-    [getActiveWords, allWords, settings.showHebrewFirst]
+    [getActiveWords, allWords, settings.showHebrewFirst, settings.shuffleWords]
   );
 
   // 4. Handle Letter Selection
@@ -120,7 +121,7 @@ export const App: React.FC = () => {
     // Next tick pick word
     setTimeout(() => {
       const activeWords = letter === 'ALL' ? allWords : allWords.filter(w => w.letter === letter);
-      const next = selectNextWord(activeWords, progress, sessionCounter);
+      const next = selectNextWord(activeWords, progress, sessionCounter, undefined, settings.shuffleWords);
       if (!next) {
         setIsLetterFinished(true);
         setCurrentWord(null);
@@ -230,6 +231,8 @@ export const App: React.FC = () => {
             words={allWords}
             progress={progress}
             onSelectLetter={handleSelectLetter}
+            shuffleEnabled={settings.shuffleWords}
+            onToggleShuffle={(val) => handleUpdateSettings({ ...settings, shuffleWords: val })}
           />
         ) : isLetterFinished ? (
           /* Screen 2: All Words Mastered celebration screen */
@@ -270,6 +273,17 @@ export const App: React.FC = () => {
             word={currentWord}
             options={currentOptions}
             progress={progress[currentWord.id]}
+            letterStats={
+              selectedLetter === 'ALL'
+                ? {
+                    mastered: allWords.filter(w => progress[w.id]?.box === 5).length,
+                    total: allWords.length,
+                  }
+                : {
+                    mastered: allWords.filter(w => w.letter === currentWord.letter && progress[w.id]?.box === 5).length,
+                    total: allWords.filter(w => w.letter === currentWord.letter).length,
+                  }
+            }
             soundEnabled={settings.soundEnabled}
             hapticEnabled={settings.hapticFeedback}
             showHebrewFirst={settings.showHebrewFirst}

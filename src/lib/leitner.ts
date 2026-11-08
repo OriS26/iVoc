@@ -63,7 +63,8 @@ export function selectNextWord(
   activeWords: WordItem[],
   progressMap: Record<string, UserWordProgress>,
   sessionCounter: number,
-  lastWordId?: string
+  lastWordId?: string,
+  shuffle: boolean = true
 ): WordItem | null {
   if (!activeWords.length) return null;
 
@@ -93,14 +94,21 @@ export function selectNextWord(
   });
 
   if (dueWords.length > 0) {
-    // Sort by lowest box, then earliest nextDueCounter
-    dueWords.sort((a, b) => {
-      const pa = progressMap[a.id];
-      const pb = progressMap[b.id];
-      if (pa.box !== pb.box) return pa.box - pb.box;
-      return pa.nextDueCounter - pb.nextDueCounter;
-    });
-    return dueWords[0];
+    if (shuffle) {
+      // Pick randomly among due words that share the lowest box level
+      const minBox = Math.min(...dueWords.map(w => progressMap[w.id].box));
+      const lowestDue = dueWords.filter(w => progressMap[w.id].box === minBox);
+      const randomIdx = Math.floor(Math.random() * lowestDue.length);
+      return lowestDue[randomIdx];
+    } else {
+      dueWords.sort((a, b) => {
+        const pa = progressMap[a.id];
+        const pb = progressMap[b.id];
+        if (pa.box !== pb.box) return pa.box - pb.box;
+        return pa.nextDueCounter - pb.nextDueCounter;
+      });
+      return dueWords[0];
+    }
   }
 
   // Priority 2: Unstudied words (totalAttempts == 0 or no progress)
@@ -110,11 +118,21 @@ export function selectNextWord(
   });
 
   if (unstudiedWords.length > 0) {
-    // Return random or first unstudied
+    if (shuffle) {
+      const randomIdx = Math.floor(Math.random() * unstudiedWords.length);
+      return unstudiedWords[randomIdx];
+    }
     return unstudiedWords[0];
   }
 
   // Fallback: Word with lowest box level
+  const minBox = Math.min(...pool.map(w => progressMap[w.id]?.box ?? 0));
+  const lowestBoxPool = pool.filter(w => (progressMap[w.id]?.box ?? 0) === minBox);
+  if (shuffle) {
+    const randomIdx = Math.floor(Math.random() * lowestBoxPool.length);
+    return lowestBoxPool[randomIdx];
+  }
+
   const sortedByBox = [...pool].sort((a, b) => {
     const boxA = progressMap[a.id]?.box ?? 0;
     const boxB = progressMap[b.id]?.box ?? 0;
@@ -163,15 +181,16 @@ export function generateQuizOptions(
     }
   }
 
-  // If fewer than 3, pick from allWords
-  if (distractors.length < 3) {
-    const shuffledAll = shuffleArray(allWords);
-    for (const w of shuffledAll) {
-      const text = getLabel(w);
+  // If fewer than 3, pick from allWords by random sampling
+  if (distractors.length < 3 && allWords.length > 0) {
+    let attempts = 0;
+    while (distractors.length < 3 && attempts < 50) {
+      attempts++;
+      const randomWord = allWords[Math.floor(Math.random() * allWords.length)];
+      const text = getLabel(randomWord);
       if (!seen.has(text)) {
         seen.add(text);
         distractors.push(text);
-        if (distractors.length >= 3) break;
       }
     }
   }

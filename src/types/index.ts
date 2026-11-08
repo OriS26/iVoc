@@ -28,6 +28,7 @@ export interface AppSettings {
   soundEnabled: boolean;
   hapticFeedback: boolean;
   showHebrewFirst: boolean; // default false (English to Hebrew)
+  shuffleWords: boolean;    // default true (randomized practice order)
 }
 
 export interface LetterMasterySummary {

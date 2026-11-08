@@ -14,6 +14,7 @@ interface QuizCardProps {
   word: WordItem;
   options: QuizOption[];
   progress?: UserWordProgress;
+  letterStats?: { mastered: number; total: number };
   soundEnabled: boolean;
   hapticEnabled: boolean;
   showHebrewFirst: boolean;
@@ -24,21 +25,27 @@ export const QuizCard: React.FC<QuizCardProps> = ({
   word,
   options,
   progress,
+  letterStats,
   soundEnabled,
   hapticEnabled,
   showHebrewFirst,
   onAnswer,
 }) => {
+  const currentBox = (progress?.box ?? 0) as LeitnerBox;
   const [selectedIdx, setSelectedIdx] = useState<number | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
+  const [displayedBox, setDisplayedBox] = useState<LeitnerBox>(currentBox);
+  const [boxFeedback, setBoxFeedback] = useState<{ text: string; isLevelUp: boolean } | null>(null);
   const [masteredAlert, setMasteredAlert] = useState(false);
 
   // Reset state on word change
   useEffect(() => {
     setSelectedIdx(null);
     setIsAnswered(false);
+    setDisplayedBox((progress?.box ?? 0) as LeitnerBox);
+    setBoxFeedback(null);
     setMasteredAlert(false);
-  }, [word.id]);
+  }, [word.id, progress?.box]);
 
   const speak = (e?: React.MouseEvent) => {
     e?.stopPropagation();
@@ -59,10 +66,16 @@ export const QuizCard: React.FC<QuizCardProps> = ({
     setIsAnswered(true);
 
     const isCorrect = option.isCorrect;
-    const currentBox = (progress?.box ?? 0) as LeitnerBox;
     const willBeMastered = isCorrect && currentBox === 4; // Moving to box 5
 
     if (isCorrect) {
+      const nextBox = Math.min(5, currentBox + 1) as LeitnerBox;
+      setDisplayedBox(nextBox);
+      setBoxFeedback({
+        text: willBeMastered ? 'שליטה מלאה! 🎉' : `עלה לתיבה ${nextBox}! (+1)`,
+        isLevelUp: true,
+      });
+
       triggerHaptic('medium', hapticEnabled);
       if (willBeMastered) {
         setMasteredAlert(true);
@@ -81,42 +94,69 @@ export const QuizCard: React.FC<QuizCardProps> = ({
       }
 
       // Transition smoothly
-      const delay = willBeMastered ? 1400 : 700;
+      const delay = willBeMastered ? 1400 : 850;
       setTimeout(() => {
         onAnswer(true);
       }, delay);
     } else {
+      setDisplayedBox(0);
+      setBoxFeedback({
+        text: 'חזר לתיבה 0 (יופיע שוב בקרוב)',
+        isLevelUp: false,
+      });
+
       triggerHaptic('error', hapticEnabled);
       playErrorSound(soundEnabled);
 
-      // Incorrect answer: pause for 1.2s so user inspects correct answer
+      // Incorrect answer: pause for 1.3s so user inspects correct answer
       setTimeout(() => {
         onAnswer(false);
-      }, 1300);
+      }, 1400);
     }
   };
 
   const promptText = showHebrewFirst ? word.translation : word.word;
   const isPromptEnglish = !showHebrewFirst;
-  const currentBox = (progress?.box ?? 0) as LeitnerBox;
 
   return (
     <div className="w-full max-w-md mx-auto flex flex-col gap-4 animate-pop px-4 pb-6">
-      {/* Box Progression Tracker */}
+      {/* Box Progression Tracker with real-time feedback */}
       <div className="bg-slate-800/40 border border-slate-700/50 rounded-2xl p-3">
-        <ProgressBar box={currentBox} consecutiveCorrect={progress?.consecutiveCorrect} />
+        <ProgressBar box={displayedBox} consecutiveCorrect={progress?.consecutiveCorrect} />
       </div>
 
       {/* Target Word Center Card */}
       <div className="relative bg-gradient-to-b from-slate-800/90 to-slate-850 border border-slate-700/80 rounded-3xl p-6 text-center shadow-xl shadow-black/30 backdrop-blur-sm">
         {/* Letter & Status Badge */}
         <div className="flex items-center justify-between mb-3">
-          <span className="text-xs font-bold px-2.5 py-1 rounded-lg bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
-            אות {word.letter}
-          </span>
-          <span className="text-xs text-slate-400 font-medium">
-            חזרות: {progress?.totalAttempts ?? 0}
-          </span>
+          <div className="flex items-center gap-2">
+            <span className="text-xs font-bold px-2.5 py-1 rounded-lg bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
+              אות {word.letter}
+            </span>
+            {letterStats && (
+              <span className="text-xs text-slate-300 font-medium">
+                שליטה באות: <strong className="text-emerald-400">{letterStats.mastered}</strong>/{letterStats.total}
+              </span>
+            )}
+          </div>
+
+          <div className="flex items-center gap-1.5">
+            {boxFeedback ? (
+              <span
+                className={`text-xs font-bold px-2.5 py-0.5 rounded-full border animate-pop ${
+                  boxFeedback.isLevelUp
+                    ? 'bg-emerald-500/20 border-emerald-500/40 text-emerald-300'
+                    : 'bg-rose-500/20 border-rose-500/40 text-rose-300'
+                }`}
+              >
+                {boxFeedback.text}
+              </span>
+            ) : (
+              <span className="text-xs text-slate-400 font-medium">
+                חזרות: {progress?.totalAttempts ?? 0}
+              </span>
+            )}
+          </div>
         </div>
 
         {/* Mastered Celebration Banner */}
@@ -199,4 +239,3 @@ export const QuizCard: React.FC<QuizCardProps> = ({
     </div>
   );
 };
-

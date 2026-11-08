@@ -113,3 +113,4 @@ def extract_and_convert(apkg_path, output_json_path):
 
 if __name__ == "__main__":
     extract_and_convert('__-_.apkg', 'public/data/vocabulary.json')
+

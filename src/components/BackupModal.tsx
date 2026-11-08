@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import { X, Download, Upload, RotateCcw, Volume2, Smartphone, ArrowRightLeft, AlertTriangle, Share2, HelpCircle, ChevronDown, ChevronUp } from 'lucide-react';
+import { X, Download, Upload, RotateCcw, Volume2, Smartphone, ArrowRightLeft, AlertTriangle, Share2, HelpCircle, ChevronDown, ChevronUp, Shuffle } from 'lucide-react';
 import { AppSettings, WordItem, UserWordProgress } from '../types';
 import { exportProgressToJson, importProgressFromJson, resetAllProgressInDb, resetLetterProgressInDb } from '../lib/db';
 
@@ -169,6 +169,23 @@ export const BackupModal: React.FC<BackupModalProps> = ({
               type="checkbox"
               checked={settings.showHebrewFirst}
               onChange={(e) => onUpdateSettings({ ...settings, showHebrewFirst: e.target.checked })}
+              className="w-5 h-5 accent-indigo-600 rounded cursor-pointer"
+            />
+          </div>
+
+          {/* Shuffle Toggle */}
+          <div className="flex items-center justify-between p-3 rounded-2xl bg-slate-800/60 border border-slate-700/50">
+            <div className="flex items-center gap-2.5">
+              <Shuffle className="w-5 h-5 text-indigo-400" />
+              <div>
+                <span className="text-sm font-medium text-slate-200 block">סדר אקראי (ערבוב מילים)</span>
+                <span className="text-[11px] text-slate-400">ערבוב מילים במקום סדר אלפביתי</span>
+              </div>
+            </div>
+            <input
+              type="checkbox"
+              checked={settings.shuffleWords}
+              onChange={(e) => onUpdateSettings({ ...settings, shuffleWords: e.target.checked })}
               className="w-5 h-5 accent-indigo-600 rounded cursor-pointer"
             />
           </div>
